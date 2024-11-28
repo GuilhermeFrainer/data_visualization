@@ -1,3 +1,8 @@
+import polars as pl
+import plotly.graph_objects
+import plotly.express as px
+
+
 class HypothesisRow:
     algorithm: str
     n: int
@@ -39,3 +44,30 @@ class HypothesisRow:
         groups = s.split(",")
         return [HypothesisRow.group_from_str(g) for g in groups]
     
+
+    @staticmethod
+    def df_to_list(df: pl.DataFrame) -> list["HypothesisRow"]:
+        return [HypothesisRow(r) for r in df.iter_rows()]
+
+
+    def parent_to_string(self) -> str:
+        return dict_to_string(self.parent)
+    
+
+    def children_to_strings(self) -> list[str]:
+        return [dict_to_string(c) for c in self.children]
+    
+
+    def treemap(self) -> plotly.graph_objects.Figure:
+        names = [c for c in self.children_to_strings()]
+        parents = [self.parent_to_string() for _ in names]
+        return px.treemap(names=names, parents=parents)
+
+
+# Converts dictionary containing characteristics into string
+def dict_to_string(d: dict) -> str:
+    out_str = ""
+    for k, v in d.items():
+        out_str += k + ":" + v + ","
+    return out_str[:-1]
+
