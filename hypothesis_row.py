@@ -1,32 +1,29 @@
 import polars as pl
 import plotly.graph_objects
 import plotly.express as px
+import sys
 
 
 class HypothesisRow:
     algorithm: str
-    n: int
+    step: int
     parent: dict[str, str]
     hypothesis: str
     children: list[dict[str, str]]
     coverage: float
     diversity: float
-    power: float
-    fdr: float
-    time: float
+    normalized_diversity: float
 
 
     def __init__(self, row: tuple):
         self.algorithm = row[0]
-        self.n = row[1]
+        self.step = row[1]
         self.parent = HypothesisRow.group_from_str(row[2])
         self.hypothesis = row[3]
         self.children = HypothesisRow.groups_from_row(row[4])
         self.coverage = row[5]
         self.diversity = row[6]
-        self.power = row[7]
-        self.fdr = row[8]
-        self.time = row[9]
+        self.normalized_diversity = row[7]
 
 
     @staticmethod
@@ -34,13 +31,21 @@ class HypothesisRow:
         attributes = s.split("|")
         attr_dict = {}
         for a in attributes:
-            k, v = a.split(":")
-            attr_dict[k] = v
+            try:
+                k, v = a.split(":")
+                attr_dict[k] = v
+            except ValueError:
+                if a == "All users":
+                    attr_dict["all_users"] = "all"
+                else:
+                    sys.exit("Couldn't unpack value: " + a)
         return attr_dict
 
 
     @staticmethod
     def groups_from_row(s: str) -> list[dict[str, str]]:
+        if not s:
+            return []
         groups = s.split(",")
         return [HypothesisRow.group_from_str(g) for g in groups]
     
@@ -62,12 +67,24 @@ class HypothesisRow:
         names = [c for c in self.children_to_strings()]
         parents = [self.parent_to_string() for _ in names]
         return px.treemap(names=names, parents=parents)
+    
+
+    # Returns a (parent, child) DataFrame
+    def get_parent_child_df(self) -> pl.DataFrame:
+        out_list = []
+        out_list.append({"parent": "", "child": self.parent_to_string()})
+        for c in self.children_to_strings():
+            out_list.append({"parent": self.parent_to_string(), "child": c})
+        return pl.DataFrame(out_list)
 
 
 # Converts dictionary containing characteristics into string
 def dict_to_string(d: dict) -> str:
     out_str = ""
-    for k, v in d.items():
-        out_str += k + ":" + v + ","
-    return out_str[:-1]
+    for k, v in sorted(d.items()):
+        try:
+            out_str += k + ":" + v + ","
+        except TypeError:
+            sys.exit(f"Key: {k}, value: {v}")
+    return out_str[:-1].strip()
 
