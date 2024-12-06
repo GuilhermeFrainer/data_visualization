@@ -28,6 +28,16 @@ class HypothesisRow:
 
     @staticmethod
     def group_from_str(s: str) -> dict[str, str]:
+        """
+        Creates group attribute dictionary given a string.
+
+        Args:
+            s (str): string cointaining attribute key:value pairs
+            separated by "|".
+
+        Returns:
+            dict[str, str]: dictionary containing said attributes as key:value pairs.
+        """
         attributes = s.split("|")
         attr_dict = {}
         for a in attributes:
@@ -44,8 +54,19 @@ class HypothesisRow:
 
     @staticmethod
     def groups_from_row(s: str) -> list[dict[str, str]]:
+        """
+        Creates groups from the value in the "G_out" column.
+
+        Args:
+            s (str): string value from a G_out column representing all groups outputted.
+
+        Returns:
+            list[dict[str, str]]: list of attribute dictionaries, one for each group.
+        """
         if not s:
             return []
+        # Quickie fix
+        s = s.replace("Body, Mind & Spirit", "body-mind-and-spirit")
         groups = s.split(",")
         return [HypothesisRow.group_from_str(g) for g in groups]
     
@@ -71,6 +92,12 @@ class HypothesisRow:
 
     # Returns a (parent, child) DataFrame
     def get_parent_child_df(self) -> pl.DataFrame:
+        """
+        Returns DataFrame with parent-child pairs in each row.
+
+        Returns:
+            pl.DataFrame: DataFrame representing parent-child relationship.
+        """
         out_list = []
         out_list.append({"parent": "", "child": self.parent_to_string()})
         for c in self.children_to_strings():
