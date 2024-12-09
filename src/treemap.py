@@ -1,4 +1,3 @@
-import plotly.express as px
 import polars as pl
 import plotly.graph_objects as go
 
@@ -21,7 +20,6 @@ def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int) -> go
     for h in hs[start + 1:end]:
         df = add_subroot_to_df(df, h)
 
-    # df = add_labels_to_df(df)
     fig = go.Figure()
     fig.add_trace(
         go.Treemap(
@@ -52,22 +50,3 @@ def add_subroot_to_df(df: pl.DataFrame, subroot: HypothesisRow) -> pl.DataFrame:
     else:
         return pl.concat([df, subroot_df[1:]])
     
-
-def add_labels_to_df(df: pl.DataFrame) -> pl.DataFrame:
-    """
-    Adds label column to DataFrame.
-    This is done by removing the characteristics of "parent" from the
-    "child" column.
-
-    Args:
-        df (pl.DataFrame): parent-child pair dataframe.
-
-    Returns:
-        pl.DataFrame: DataFrame with added label column.
-    """
-
-    df.with_columns(
-        pl.col("child").replace(pl.col("parent"), "").alias("label")
-    )
-    return df
-
