@@ -20,10 +20,19 @@ def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int) -> go
     df = hs[start].get_parent_child_df()
     for h in hs[start + 1:end]:
         df = add_subroot_to_df(df, h)
-    return px.treemap(names=df["child"], parents=df["parent"])
+
+    # df = add_labels_to_df(df)
+    fig = go.Figure()
+    fig.add_trace(
+        go.Treemap(
+            ids=df["child"],
+            parents=df["parent"],
+            labels=df["label"]
+        )
+    )
+    return fig
 
 
-# Adds a subroot to parent-child DataFrame
 def add_subroot_to_df(df: pl.DataFrame, subroot: HypothesisRow) -> pl.DataFrame:
     """
     Adds subroot to parent-child DataFrame
@@ -43,3 +52,22 @@ def add_subroot_to_df(df: pl.DataFrame, subroot: HypothesisRow) -> pl.DataFrame:
     else:
         return pl.concat([df, subroot_df[1:]])
     
+
+def add_labels_to_df(df: pl.DataFrame) -> pl.DataFrame:
+    """
+    Adds label column to DataFrame.
+    This is done by removing the characteristics of "parent" from the
+    "child" column.
+
+    Args:
+        df (pl.DataFrame): parent-child pair dataframe.
+
+    Returns:
+        pl.DataFrame: DataFrame with added label column.
+    """
+
+    df.with_columns(
+        pl.col("child").replace(pl.col("parent"), "").alias("label")
+    )
+    return df
+

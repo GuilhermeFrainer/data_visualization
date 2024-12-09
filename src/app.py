@@ -21,7 +21,7 @@ def main():
     treemap = tm.make_treemap_from_range(hs, 0, 20)
 
     # TODO: The prompt here could be better
-    option = st.sidebar.selectbox("How to visualize it?", ["Treemap", "Data frame"])
+    option = st.sidebar.selectbox("How do you want to visualize it?", ["Treemap", "Data frame"])
     if option == "Data frame":
         df
     elif option == "Treemap":

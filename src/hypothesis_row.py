@@ -77,11 +77,11 @@ class HypothesisRow:
 
 
     def parent_to_string(self) -> str:
-        return dict_to_string(self.parent)
+        return HypothesisRow.__dict_to_string(self.parent)
     
 
     def children_to_strings(self) -> list[str]:
-        return [dict_to_string(c) for c in self.children]
+        return [HypothesisRow.__dict_to_string(c) for c in self.children]
     
 
     def treemap(self) -> plotly.graph_objects.Figure:
@@ -100,18 +100,55 @@ class HypothesisRow:
         """
         out_list = []
         out_list.append({"parent": "", "child": self.parent_to_string()})
-        for c in self.children_to_strings():
-            out_list.append({"parent": self.parent_to_string(), "child": c})
+        for c in self.children:
+            out_list.append({
+                "parent": self.parent_to_string(),
+                "child": HypothesisRow.__dict_to_string(c),
+                "label": HypothesisRow.__get_label_for_child(self.parent, c),
+            })
         return pl.DataFrame(out_list)
 
 
-# Converts dictionary containing characteristics into string
-def dict_to_string(d: dict) -> str:
-    out_str = ""
-    for k, v in sorted(d.items()):
-        try:
-            out_str += k + ":" + v + ","
-        except TypeError:
-            sys.exit(f"Key: {k}, value: {v}")
-    return out_str[:-1].strip()
+    # ---------------- #
+    # HELPER FUNCTIONS #
+    # ---------------- #
+
+    @staticmethod
+    def __get_label_for_child(parent: dict, c: dict) -> str:
+        """
+        Removes parent attributes from child string.
+        Also removes key from attribute key:value pairs.
+        The label will be the characteristic that differentiates the child from the parent
+
+        Args:
+            parent (dict): parent group dictionary.
+            c (dict): child group dictionary.
+
+        Returns:
+            str: attribute that differentiates child group from parent group.
+        """
+        for k in c:
+            if k not in parent:
+                return c[k]
+        raise ValueError("No attribute differentiates child from parent.")
+
+
+    @staticmethod
+    def __dict_to_string(d: dict) -> str:
+        """
+        Converts group attribute dictionary into string.
+
+        Args:
+            d (dict): dictionary containing group's attributes.
+
+        Returns:
+            str: string representing group's attributes.
+        """
+        out_str = ""
+        for k, v in sorted(d.items()):
+            try:
+                out_str += k + ":" + v + ","
+            except TypeError:
+                sys.exit(f"Key: {k}, value: {v}")
+        return out_str[:-1].strip()
 
