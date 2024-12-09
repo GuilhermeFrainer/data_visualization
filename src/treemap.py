@@ -18,7 +18,7 @@ def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int) -> go
     """
     df = hs[start].get_parent_child_df()
     for h in hs[start + 1:end]:
-        df = add_subroot_to_df(df, h)
+        df = __add_subroot_to_df(df, h)
 
     fig = go.Figure()
     fig.add_trace(
@@ -31,7 +31,7 @@ def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int) -> go
     return fig
 
 
-def add_subroot_to_df(df: pl.DataFrame, subroot: HypothesisRow) -> pl.DataFrame:
+def __add_subroot_to_df(df: pl.DataFrame, subroot: HypothesisRow) -> pl.DataFrame:
     """
     Adds subroot to parent-child DataFrame
 

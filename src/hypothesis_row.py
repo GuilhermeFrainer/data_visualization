@@ -43,7 +43,7 @@ class HypothesisRow:
         for a in attributes:
             try:
                 k, v = a.split(":")
-                attr_dict[k] = v
+                attr_dict[k.strip()] = v.strip()
             except ValueError:
                 if a == "All users":
                     attr_dict["all_users"] = "all"
@@ -99,7 +99,11 @@ class HypothesisRow:
             pl.DataFrame: DataFrame representing parent-child relationship.
         """
         out_list = []
-        out_list.append({"parent": "", "child": self.parent_to_string()})
+        out_list.append({
+            "parent": "",
+            "child": self.parent_to_string(),
+            "label": HypothesisRow.__get_label_for_child("", self.parent)
+        })
         for c in self.children:
             out_list.append({
                 "parent": self.parent_to_string(),
