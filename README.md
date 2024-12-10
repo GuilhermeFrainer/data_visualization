@@ -7,4 +7,4 @@ Computer Science Graduate Program (PPGC) by professor João Luix Dihl Comba.
 Its aim is to analyze multiple hypothesis testing data in the context
 of review databases (MovieLens, BookCrossing, Yelp).
 
-You can see the project in action [here on Streamlit](https://datavisualization-8csrpbufu7zxbwk4qpwarf.streamlit.app/)
+You can see the project in action [here on Streamlit](https://datavisualization-8csrpbufu7zxbwk4qpwarf.streamlit.app/).
