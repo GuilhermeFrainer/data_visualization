@@ -21,7 +21,7 @@ __COLORS = [
 ]
 
 
-def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int) -> go.Figure:
+def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int, **kwargs) -> go.Figure:
     """
     Draws a treemap based on the list.
 
@@ -43,6 +43,7 @@ def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int) -> go
             ids=df["child"],
             parents=df["parent"],
             labels=df["label"],
+            **kwargs
         )
     )
     return fig

@@ -7,7 +7,7 @@ import treemap as tm
 
 DATA_DIR = "data/"
 MIN_ROW = 0
-MAX_ROW = 35
+MAX_ROW = 21
 DATA_FILES = {
     "BookCrossing": "book_crossing.csv",
     "Yelp": "yelp.csv",
@@ -25,20 +25,20 @@ def main():
 
     dataset = st.sidebar.selectbox("Dataset", dataset_options)
     algorithm = ALGORITHMS[st.sidebar.selectbox("Algorithm", algo_options)]
-    rows_to_display = st.sidebar.number_input(
-        "Rows to display", min_value=MIN_ROW + 1, max_value=MAX_ROW)
+    depth = st.sidebar.selectbox(
+        "Depth", ["All", 2, 3], index=2
+    )
+    if depth == "All":
+        depth = -1
+
+    width = st.sidebar.number_input("Plot width", min_value=450, max_value=2000, value=900)
+    height = st.sidebar.number_input("Plot height", min_value=450, max_value=2000)
 
     df = pl.read_csv(DATA_DIR + DATA_FILES[dataset])
-    filtered_df = df.filter(pl.col("algorithm") == algorithm) \
-        .filter(pl.col("step") < rows_to_display)
-    hs = hr.HypothesisRow.df_to_list(filtered_df)
-    treemap = tm.make_treemap_from_range(hs, MIN_ROW, rows_to_display)
-
-    option = st.sidebar.selectbox("How do you want to visualize it?", ["Treemap", "Data frame"])
-    if option == "Data frame":
-        filtered_df
-    elif option == "Treemap":
-        treemap
+    hs = hr.HypothesisRow.df_to_list(df.filter(pl.col("algorithm") == algorithm))
+    treemap = tm.make_treemap_from_range(hs, MIN_ROW, MAX_ROW, maxdepth=depth)
+    treemap.update_layout(height=height, width=width)
+    st.plotly_chart(treemap)
 
 
 if __name__ == "__main__":
