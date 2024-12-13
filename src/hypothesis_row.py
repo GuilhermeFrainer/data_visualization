@@ -90,7 +90,6 @@ class HypothesisRow:
         return px.treemap(names=names, parents=parents)
     
 
-    # Returns a (parent, child) DataFrame
     def get_parent_child_df(self) -> pl.DataFrame:
         """
         Returns DataFrame with parent-child pairs in each row.
@@ -102,13 +101,15 @@ class HypothesisRow:
         out_list.append({
             "parent": "",
             "child": self.parent_to_string(),
-            "label": HypothesisRow.__get_label_for_child("", self.parent)
+            "label": HypothesisRow.__get_label_for_child("", self.parent),
+            "hypothesis": self.hypothesis
         })
         for c in self.children:
             out_list.append({
                 "parent": self.parent_to_string(),
                 "child": HypothesisRow.__dict_to_string(c),
                 "label": HypothesisRow.__get_label_for_child(self.parent, c),
+                "hypothesis": self.hypothesis
             })
         return pl.DataFrame(out_list)
 
