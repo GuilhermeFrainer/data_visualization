@@ -1,0 +1,6041 @@
+user_id,gender,age,occupation,location
+1384,M,18-24,K-12 student,WA
+1960,M,45-49,executive-managerial,MN
+974,M,35-44,unemployed,CA
+5456,M,35-44,academic-educator,FL
+5481,M,45-49,programmer,MN
+3177,F,25-34,doctor-health care,CA
+5744,F,25-34,college-grad student,KS
+1447,M,18-24,college-grad student,CO
+3262,M,25-34,sales-marketing,MN
+4564,M,35-44,programmer,PA
+898,M,25-34,executive-managerial,TX
+5217,M,25-34,technician-engineer,MA
+1008,M,35-44,clerical-admin,TX
+1982,M,<18,K-12 student,CO
+2069,M,>56,scientist,TX
+3607,M,35-44,technician-engineer,FL
+4817,M,25-34,academic-educator,MD
+2539,M,35-44,executive-managerial,FL
+4253,M,45-49,lawyer,NH
+4119,M,50-55,academic-educator,MS
+1106,M,18-24,college-grad student,CA
+2319,M,35-44,executive-managerial,MI
+3730,M,25-34,academic-educator,MI
+3078,F,35-44,academic-educator,MA
+5651,F,25-34,doctor-health care,OK
+3053,F,25-34,clerical-admin,MN
+6021,M,25-34,programmer,NJ
+2948,M,18-24,sales-marketing,MI
+1518,M,25-34,artist,CA
+2207,M,18-24,college-grad student,NJ
+2237,F,35-44,doctor-health care,NY
+2593,M,>56,self-employed,CA
+701,F,18-24,college-grad student,MA
+4777,M,25-34,artist,IN
+239,M,18-24,unemployed,CA
+4005,M,35-44,executive-managerial,NY
+2788,M,>56,academic-educator,CA
+3227,F,25-34,sales-marketing,IL
+3120,M,18-24,college-grad student,MN
+5067,M,>56,retired,OR
+5119,F,25-34,other,NY
+2682,M,18-24,college-grad student,OH
+3949,M,45-49,other,OH
+4446,M,18-24,tradesman-craftsman,IL
+6009,F,25-34,programmer,IL
+1611,M,25-34,other,NH
+4294,M,<18,K-12 student,TX
+1010,M,25-34,other,NY
+4667,M,25-34,sales-marketing,CA
+1508,F,<18,K-12 student,CA
+3424,M,25-34,doctor-health care,CA
+3841,M,45-49,tradesman-craftsman,WV
+3148,M,18-24,writer,AR
+2905,M,35-44,technician-engineer,MN
+2552,F,25-34,homemaker,SC
+601,F,18-24,writer,CT
+2519,F,45-49,artist,NY
+4436,M,25-34,programmer,PA
+6015,F,25-34,homemaker,CO
+1294,F,50-55,writer,NY
+576,F,45-49,scientist,MD
+5714,M,35-44,artist,HI
+3255,F,25-34,scientist,CA
+516,F,>56,sales-marketing,MN
+1467,M,25-34,customer service,OR
+3301,F,25-34,artist,AZ
+3947,M,25-34,other,CA
+1719,M,18-24,self-employed,IL
+2629,M,25-34,lawyer,PA
+47,M,18-24,college-grad student,CA
+5195,M,35-44,executive-managerial,CO
+5431,M,>56,academic-educator,PA
+903,M,>56,retired,TX
+419,M,18-24,clerical-admin,MN
+5460,M,18-24,college-grad student,MA
+5736,M,25-34,academic-educator,NJ
+77,M,18-24,college-grad student,PA
+3096,F,45-49,clerical-admin,TN
+3731,M,25-34,technician-engineer,KS
+4870,F,35-44,clerical-admin,ME
+2348,M,50-55,programmer,CT
+3028,M,<18,K-12 student,NY
+503,M,35-44,lawyer,OK
+4685,M,35-44,academic-educator,MN
+2395,M,35-44,executive-managerial,NJ
+944,M,35-44,other,CA
+5027,F,25-34,sales-marketing,VT
+4218,M,50-55,technician-engineer,VA
+2992,M,18-24,college-grad student,NY
+5231,M,35-44,executive-managerial,CA
+1597,M,25-34,programmer,NY
+71,M,25-34,sales-marketing,CA
+538,M,>56,self-employed,CA
+4236,F,25-34,clerical-admin,NJ
+3378,M,18-24,college-grad student,MI
+2238,F,25-34,college-grad student,FL
+1624,M,25-34,other,CT
+455,F,35-44,artist,MN
+3169,M,50-55,other,VA
+1121,M,>56,executive-managerial,TX
+5186,M,35-44,programmer,AP
+3072,M,50-55,academic-educator,MN
+660,M,45-49,self-employed,LA
+5843,M,35-44,academic-educator,ID
+36,M,25-34,clerical-admin,CA
+1310,M,45-49,other,CA
+2511,M,25-34,executive-managerial,PA
+30,F,35-44,executive-managerial,PA
+1643,M,45-49,artist,CA
+3475,M,25-34,sales-marketing,FL
+5921,M,25-34,doctor-health care,PA
+1926,F,<18,other,CA
+569,F,18-24,college-grad student,OR
+5890,M,35-44,writer,TX
+4085,F,25-34,doctor-health care,TX
+4108,M,35-44,technician-engineer,TX
+1903,M,35-44,other,CA
+2546,F,>56,retired,TN
+18,F,18-24,clerical-admin,CA
+3573,M,<18,K-12 student,MI
+1425,M,<18,K-12 student,NJ
+756,M,35-44,other,CA
+5200,F,35-44,scientist,OH
+3018,M,35-44,other,OH
+5559,M,50-55,academic-educator,TX
+43,M,25-34,programmer,IL
+397,M,35-44,technician-engineer,VA
+3113,M,25-34,K-12 student,MN
+5532,M,25-34,technician-engineer,NC
+5359,M,18-24,self-employed,NC
+5376,M,25-34,technician-engineer,CA
+3102,M,25-34,programmer,N/A
+522,M,25-34,programmer,MN
+2026,M,50-55,self-employed,MI
+1652,M,25-34,self-employed,WA
+904,M,35-44,writer,CA
+2783,M,45-49,technician-engineer,TX
+4806,M,25-34,technician-engineer,CA
+3377,M,25-34,technician-engineer,NH
+3734,M,18-24,college-grad student,TX
+838,M,50-55,technician-engineer,CA
+1528,M,25-34,scientist,CA
+548,F,35-44,self-employed,HI
+1787,M,18-24,farmer,CA
+153,M,<18,K-12 student,IA
+4764,M,<18,K-12 student,NH
+3518,F,18-24,executive-managerial,NY
+1363,M,50-55,executive-managerial,MA
+2102,M,25-34,lawyer,MI
+3470,M,35-44,technician-engineer,MI
+2174,M,50-55,programmer,NM
+4125,M,35-44,artist,NY
+3409,M,25-34,college-grad student,MI
+2163,M,18-24,other,NM
+5723,M,18-24,programmer,MN
+2464,F,18-24,college-grad student,OH
+1356,F,18-24,college-grad student,CA
+1510,F,25-34,academic-educator,MI
+108,M,25-34,programmer,GA
+5063,F,<18,K-12 student,VA
+3925,M,25-34,programmer,TX
+2773,M,35-44,artist,TX
+2604,M,25-34,other,OH
+5728,F,35-44,writer,AE
+271,M,18-24,college-grad student,MI
+1975,M,18-24,college-grad student,OR
+3480,M,25-34,other,MT
+4522,M,45-49,academic-educator,CO
+2325,F,18-24,college-grad student,NC
+1685,M,35-44,programmer,CA
+803,M,18-24,college-grad student,KS
+3313,M,35-44,writer,CA
+5853,M,50-55,unemployed,NY
+5147,M,18-24,other,MI
+4496,M,45-49,artist,CT
+2643,M,45-49,technician-engineer,WA
+16,F,35-44,other,MD
+855,F,18-24,artist,AR
+4016,M,50-55,other,FL
+5679,M,35-44,artist,FL
+1965,M,>56,technician-engineer,MI
+398,M,25-34,technician-engineer,MN
+5204,M,50-55,retired,MN
+1987,M,25-34,technician-engineer,IL
+2890,M,35-44,executive-managerial,CA
+3770,F,35-44,clerical-admin,IA
+4469,F,45-49,programmer,CA
+433,M,50-55,doctor-health care,MN
+923,M,25-34,executive-managerial,TN
+4157,M,50-55,tradesman-craftsman,OR
+620,M,18-24,other,NY
+2607,F,>56,other,MI
+1819,F,35-44,programmer,OH
+583,F,25-34,other,MI
+5360,M,18-24,programmer,N/A
+2492,F,45-49,artist,TN
+3209,M,25-34,other,MD
+1565,M,45-49,technician-engineer,TX
+297,M,18-24,artist,OR
+5690,M,18-24,college-grad student,TX
+4709,M,45-49,other,CT
+1522,M,35-44,writer,NY
+436,M,18-24,college-grad student,OH
+1909,M,18-24,college-grad student,NV
+1577,M,>56,other,N/A
+1060,M,18-24,K-12 student,NY
+2914,M,25-34,college-grad student,CA
+5817,M,25-34,technician-engineer,FL
+1991,M,25-34,writer,MI
+5961,F,45-49,other,TX
+4555,F,18-24,homemaker,OK
+4494,M,45-49,other,FL
+3651,M,25-34,sales-marketing,WA
+1100,M,25-34,other,IL
+1314,F,18-24,college-grad student,NE
+421,F,45-49,clerical-admin,MN
+5538,M,45-49,programmer,MN
+4363,M,35-44,sales-marketing,CA
+2737,M,25-34,clerical-admin,IA
+3291,F,25-34,executive-managerial,NC
+1262,M,25-34,college-grad student,VA
+2986,M,25-34,college-grad student,VA
+3855,M,25-34,technician-engineer,MD
+722,M,25-34,programmer,MN
+2781,M,35-44,college-grad student,OH
+4199,F,25-34,homemaker,FL
+2050,F,35-44,clerical-admin,AK
+4249,F,18-24,technician-engineer,MO
+5198,F,18-24,college-grad student,MN
+4434,F,35-44,executive-managerial,IL
+3272,M,35-44,other,NJ
+4578,M,25-34,other,MA
+5137,M,18-24,tradesman-craftsman,MO
+655,F,25-34,artist,CA
+1457,M,25-34,academic-educator,CA
+27,M,25-34,lawyer,PA
+2940,M,25-34,other,MA
+3586,M,35-44,writer,IL
+4170,M,45-49,executive-managerial,WI
+1067,M,35-44,programmer,CA
+5517,M,>56,other,CO
+4625,M,25-34,executive-managerial,CA
+4509,M,25-34,executive-managerial,TN
+4599,F,35-44,other,ME
+1058,M,25-34,academic-educator,OR
+86,F,<18,K-12 student,WI
+4577,M,35-44,executive-managerial,MI
+137,F,45-49,doctor-health care,TX
+262,F,25-34,academic-educator,NE
+3139,M,>56,retired,NV
+4980,M,25-34,academic-educator,MN
+2084,M,18-24,college-grad student,VA
+4217,M,18-24,college-grad student,PA
+5490,M,45-49,technician-engineer,CO
+4015,F,45-49,clerical-admin,TX
+445,M,45-49,programmer,MN
+5325,F,50-55,executive-managerial,AZ
+1211,M,18-24,college-grad student,NY
+1135,M,50-55,retired,WA
+159,F,45-49,other,TN
+3094,M,35-44,other,GA
+365,F,18-24,college-grad student,MA
+2320,F,50-55,academic-educator,CT
+1415,M,45-49,sales-marketing,VA
+5812,F,25-34,executive-managerial,CA
+1056,M,<18,other,MI
+745,M,<18,K-12 student,CA
+5168,M,35-44,executive-managerial,MA
+2317,F,45-49,homemaker,SD
+1844,F,18-24,college-grad student,WI
+4828,F,18-24,writer,IL
+2851,F,25-34,executive-managerial,CA
+3457,M,25-34,writer,PA
+4800,M,18-24,college-grad student,CO
+1784,M,18-24,writer,PA
+5584,F,50-55,other,NY
+4531,M,18-24,college-grad student,AZ
+3392,M,50-55,doctor-health care,NJ
+176,F,18-24,clerical-admin,MN
+1854,M,25-34,other,CA
+645,M,35-44,writer,NY
+2083,M,18-24,college-grad student,N/A
+4927,M,45-49,other,OR
+895,M,50-55,academic-educator,FL
+5896,M,25-34,other,IL
+2471,M,50-55,retired,WA
+4585,M,35-44,executive-managerial,GA
+3225,M,18-24,other,PA
+5246,F,18-24,other,MO
+4581,M,25-34,academic-educator,PA
+4304,M,18-24,other,IN
+4713,M,25-34,technician-engineer,CA
+1930,M,25-34,scientist,CA
+4354,M,35-44,sales-marketing,TX
+1322,M,>56,other,CA
+3568,M,25-34,other,WA
+1078,F,45-49,homemaker,CA
+863,M,25-34,executive-managerial,IL
+1628,M,18-24,writer,CA
+3608,F,35-44,homemaker,RI
+3834,M,18-24,artist,MA
+4633,M,<18,other,MI
+4462,F,25-34,other,IL
+5645,M,25-34,artist,NM
+2853,M,<18,academic-educator,N/A
+2051,M,35-44,executive-managerial,CA
+1165,M,25-34,programmer,OH
+3138,M,35-44,technician-engineer,IN
+4620,F,18-24,technician-engineer,CA
+3764,M,25-34,academic-educator,CT
+3444,M,50-55,sales-marketing,FL
+4883,F,<18,K-12 student,RI
+3417,F,18-24,artist,NY
+5823,M,25-34,programmer,MA
+1576,F,45-49,homemaker,AZ
+4831,F,25-34,academic-educator,ME
+1331,M,45-49,other,NY
+2218,M,35-44,technician-engineer,MO
+5109,F,45-49,doctor-health care,DE
+2384,M,35-44,technician-engineer,IL
+4641,M,25-34,executive-managerial,DC
+2095,M,>56,retired,ND
+5811,M,18-24,college-grad student,IL
+5995,F,35-44,academic-educator,NY
+4205,F,25-34,scientist,NM
+294,F,45-49,homemaker,OH
+5347,M,25-34,doctor-health care,WI
+5950,M,25-34,college-grad student,DE
+4183,M,25-34,academic-educator,CA
+1154,F,<18,K-12 student,WI
+5313,M,>56,other,MN
+4180,M,>56,retired,NY
+252,M,25-34,programmer,CA
+5794,M,35-44,technician-engineer,WI
+5368,F,25-34,technician-engineer,VA
+5369,M,25-34,scientist,MA
+4111,M,25-34,scientist,FL
+3985,M,45-49,self-employed,MA
+5979,M,25-34,academic-educator,OH
+2753,F,50-55,writer,NC
+2108,M,<18,K-12 student,IL
+2014,M,18-24,college-grad student,WI
+1091,M,18-24,customer service,N/A
+1472,M,25-34,executive-managerial,CA
+3572,M,35-44,lawyer,ME
+996,M,25-34,technician-engineer,WA
+4655,F,25-34,academic-educator,CA
+3820,M,25-34,technician-engineer,CA
+5660,M,25-34,artist,TX
+4570,M,45-49,technician-engineer,IL
+4545,M,25-34,self-employed,IN
+3842,F,35-44,self-employed,CA
+4140,M,25-34,other,FL
+5380,M,18-24,college-grad student,N/A
+2833,M,25-34,scientist,AZ
+643,M,25-34,artist,VA
+5583,M,>56,scientist,TN
+2201,M,>56,writer,IN
+5311,M,50-55,other,N/A
+4129,M,>56,lawyer,NY
+4451,M,25-34,sales-marketing,GA
+3671,M,25-34,college-grad student,WA
+1391,M,35-44,scientist,MD
+2124,M,25-34,other,NY
+5417,M,18-24,technician-engineer,PA
+5437,M,25-34,lawyer,MN
+1867,M,50-55,executive-managerial,CA
+6005,F,25-34,customer service,NC
+951,M,45-49,artist,NY
+1459,F,25-34,other,CO
+4490,M,35-44,customer service,LA
+1550,M,18-24,college-grad student,NY
+2972,M,25-34,college-grad student,OR
+3184,F,25-34,tradesman-craftsman,MD
+894,M,18-24,college-grad student,GA
+2371,F,35-44,executive-managerial,CT
+677,M,50-55,artist,CA
+5882,M,35-44,executive-managerial,IL
+375,M,25-34,artist,MN
+3576,M,50-55,executive-managerial,NE
+5229,M,25-34,other,IL
+3744,M,25-34,other,IL
+1733,M,18-24,sales-marketing,OH
+2889,M,35-44,clerical-admin,MN
+3216,M,35-44,academic-educator,WI
+976,M,35-44,sales-marketing,NV
+2656,M,>56,retired,FL
+1349,M,50-55,executive-managerial,NY
+1487,M,35-44,executive-managerial,NJ
+1193,M,25-34,programmer,CA
+1429,F,35-44,clerical-admin,NY
+32,F,25-34,other,PA
+164,F,>56,retired,CA
+4021,M,50-55,writer,CA
+764,M,18-24,writer,AZ
+5539,F,25-34,writer,CA
+1214,M,>56,retired,CA
+2801,F,25-34,clerical-admin,NY
+5451,F,25-34,academic-educator,WA
+2642,M,25-34,other,FL
+5070,M,25-34,artist,MN
+2401,M,25-34,college-grad student,VA
+1644,M,18-24,programmer,CA
+1143,M,50-55,executive-managerial,CA
+5333,F,25-34,executive-managerial,MA
+1547,M,>56,retired,MA
+4592,M,18-24,college-grad student,KS
+1469,M,>56,writer,CA
+4190,M,45-49,technician-engineer,NV
+641,F,35-44,other,MN
+3657,M,18-24,technician-engineer,CA
+3371,M,25-34,artist,MN
+1529,M,18-24,college-grad student,OR
+4325,M,25-34,other,GA
+358,F,>56,academic-educator,MD
+1484,M,25-34,programmer,NJ
+595,M,25-34,executive-managerial,NY
+2818,M,25-34,programmer,MN
+3443,F,35-44,technician-engineer,MI
+5902,M,50-55,self-employed,TX
+4576,F,25-34,executive-managerial,MI
+4771,F,25-34,college-grad student,ME
+3498,M,25-34,technician-engineer,NC
+5569,F,18-24,academic-educator,NJ
+5836,M,25-34,other,CA
+5484,M,45-49,technician-engineer,MD
+2054,M,25-34,programmer,NH
+736,M,18-24,programmer,NJ
+5224,M,35-44,academic-educator,NY
+5732,F,25-34,lawyer,MA
+1426,M,18-24,sales-marketing,CA
+562,M,35-44,writer,MI
+3105,M,35-44,programmer,WA
+2270,M,18-24,academic-educator,NY
+1532,M,18-24,sales-marketing,OH
+5903,M,25-34,lawyer,CT
+5144,F,50-55,other,KS
+981,M,25-34,writer,MA
+5091,M,25-34,technician-engineer,DE
+363,M,18-24,K-12 student,MN
+653,M,>56,retired,CA
+1204,M,25-34,executive-managerial,CA
+3997,M,35-44,technician-engineer,OH
+2902,M,25-34,programmer,WA
+5286,M,45-49,self-employed,OR
+666,F,18-24,other,NJ
+2734,F,18-24,college-grad student,RI
+4341,M,35-44,technician-engineer,FL
+4871,M,18-24,programmer,ME
+2067,M,50-55,self-employed,N/A
+2658,M,25-34,executive-managerial,IL
+632,M,45-49,technician-engineer,NJ
+2617,F,45-49,scientist,IL
+4465,M,18-24,college-grad student,MA
+2041,F,25-34,writer,VA
+3754,M,>56,executive-managerial,CA
+5187,M,18-24,self-employed,CT
+1501,M,25-34,lawyer,TX
+2304,M,45-49,programmer,CA
+376,M,35-44,academic-educator,CO
+2712,F,18-24,unemployed,FL
+3406,F,25-34,executive-managerial,AZ
+4392,M,18-24,college-grad student,OH
+3767,M,25-34,other,CA
+5861,F,50-55,academic-educator,WA
+2473,M,25-34,programmer,WA
+5629,M,25-34,sales-marketing,MA
+1392,M,45-49,clerical-admin,CA
+53,M,25-34,other,GU
+248,M,18-24,technician-engineer,AR
+484,F,<18,K-12 student,MN
+3495,M,18-24,college-grad student,CA
+608,M,18-24,college-grad student,PA
+969,F,25-34,lawyer,PA
+2234,M,>56,academic-educator,AZ
+467,F,35-44,clerical-admin,MN
+1695,M,25-34,academic-educator,OR
+241,M,35-44,writer,MN
+5329,F,25-34,customer service,CA
+5967,M,50-55,self-employed,N/A
+1545,M,25-34,writer,DC
+1371,F,50-55,artist,IL
+5414,M,<18,K-12 student,NJ
+2964,M,25-34,technician-engineer,NJ
+1700,M,25-34,writer,WA
+4251,M,45-49,executive-managerial,IL
+3973,M,25-34,executive-managerial,IL
+4279,M,25-34,self-employed,OH
+1647,M,18-24,tradesman-craftsman,WA
+1266,M,25-34,college-grad student,PA
+3514,M,18-24,programmer,GA
+5733,M,25-34,college-grad student,MI
+5789,M,25-34,technician-engineer,CA
+5653,M,50-55,academic-educator,OK
+2128,F,45-49,academic-educator,IN
+2733,M,45-49,technician-engineer,CA
+4714,M,50-55,academic-educator,MN
+1388,M,>56,writer,NM
+461,M,50-55,executive-managerial,MN
+1075,F,25-34,doctor-health care,IL
+5923,M,25-34,executive-managerial,VT
+2666,M,45-49,self-employed,MO
+1569,F,>56,retired,NJ
+490,M,<18,K-12 student,MN
+493,M,50-55,executive-managerial,MN
+3431,F,45-49,doctor-health care,MI
+3071,M,25-34,academic-educator,MA
+177,M,50-55,academic-educator,WI
+3742,M,25-34,other,CA
+5509,M,25-34,other,NY
+2445,M,25-34,other,MI
+1620,M,25-34,writer,MI
+4628,F,>56,doctor-health care,VA
+1423,M,25-34,college-grad student,NJ
+1898,M,25-34,programmer,CA
+882,M,18-24,artist,MA
+1213,M,50-55,other,CA
+4271,M,35-44,executive-managerial,ID
+3231,M,25-34,executive-managerial,MN
+1481,M,35-44,technician-engineer,TX
+1311,M,18-24,K-12 student,CA
+4364,M,25-34,tradesman-craftsman,WA
+1369,M,25-34,customer service,NY
+1609,F,35-44,homemaker,CT
+4308,M,25-34,other,FL
+202,M,18-24,college-grad student,WI
+2489,F,35-44,homemaker,TN
+2837,M,18-24,other,MI
+4123,F,25-34,college-grad student,IN
+390,M,25-34,college-grad student,MN
+3397,M,25-34,customer service,MN
+4158,F,<18,K-12 student,CA
+3702,M,35-44,scientist,WI
+255,M,35-44,other,AZ
+5446,F,50-55,academic-educator,MO
+3473,F,35-44,self-employed,MA
+313,F,18-24,college-grad student,MA
+959,M,50-55,lawyer,OH
+1483,M,18-24,college-grad student,WI
+3937,M,>56,artist,CA
+3318,M,>56,retired,GA
+2933,M,35-44,lawyer,FL
+4850,F,45-49,clerical-admin,OH
+5952,F,45-49,academic-educator,TX
+4024,M,25-34,customer service,OH
+5086,M,25-34,academic-educator,VA
+517,F,25-34,sales-marketing,MN
+3666,M,45-49,other,NE
+1564,M,50-55,academic-educator,MA
+4498,M,50-55,executive-managerial,TX
+3667,F,<18,K-12 student,NY
+5332,M,18-24,college-grad student,GA
+879,M,45-49,self-employed,CA
+2068,F,35-44,programmer,OH
+3769,M,25-34,scientist,MA
+343,F,35-44,clerical-admin,MN
+4775,M,25-34,technician-engineer,VA
+5835,F,35-44,other,MN
+2154,M,25-34,programmer,NE
+2359,M,>56,retired,NY
+3907,F,18-24,sales-marketing,VA
+3988,F,25-34,sales-marketing,IL
+4378,M,18-24,technician-engineer,CT
+1085,M,25-34,executive-managerial,FL
+5141,M,18-24,technician-engineer,MN
+4929,M,45-49,academic-educator,MO
+2766,M,45-49,executive-managerial,MN
+1749,M,25-34,artist,NY
+1035,M,18-24,artist,PA
+1863,M,18-24,college-grad student,CA
+4552,M,25-34,other,VA
+938,F,25-34,academic-educator,MA
+3909,M,18-24,technician-engineer,PA
+1573,M,<18,other,TX
+2758,M,>56,farmer,NY
+4445,M,25-34,clerical-admin,DE
+2810,F,<18,K-12 student,MO
+4797,F,35-44,technician-engineer,UT
+3496,M,35-44,customer service,CA
+2761,M,35-44,doctor-health care,CO
+699,M,18-24,other,OK
+984,M,50-55,self-employed,CA
+1334,M,50-55,executive-managerial,NY
+5820,M,45-49,other,OH
+1636,F,25-34,unemployed,IL
+1003,M,25-34,artist,PA
+2669,M,45-49,other,VA
+531,F,18-24,sales-marketing,VA
+772,M,18-24,programmer,NV
+4832,M,25-34,sales-marketing,PA
+3728,M,18-24,college-grad student,NJ
+4358,M,35-44,technician-engineer,ME
+4595,M,25-34,tradesman-craftsman,OR
+2867,M,45-49,technician-engineer,PA
+982,F,25-34,homemaker,CA
+2143,M,18-24,college-grad student,FL
+3774,M,25-34,other,IA
+4435,M,25-34,executive-managerial,TX
+5250,M,50-55,doctor-health care,MA
+4989,M,25-34,other,MN
+4022,M,35-44,sales-marketing,WI
+6004,F,25-34,scientist,NC
+4926,M,<18,K-12 student,MN
+786,M,25-34,other,MN
+3447,M,25-34,programmer,CA
+3879,M,25-34,clerical-admin,ID
+1764,M,18-24,other,TX
+3317,M,25-34,college-grad student,TX
+352,M,18-24,college-grad student,IL
+3336,M,35-44,technician-engineer,CA
+1403,F,25-34,other,WI
+4103,M,18-24,self-employed,NY
+846,M,25-34,customer service,CO
+280,M,50-55,executive-managerial,PA
+188,M,>56,self-employed,TX
+2430,M,25-34,college-grad student,VA
+2747,F,18-24,college-grad student,CA
+4936,F,18-24,college-grad student,MO
+5328,F,25-34,college-grad student,CA
+615,M,50-55,technician-engineer,FL
+5477,M,35-44,academic-educator,MN
+3150,F,25-34,clerical-admin,CA
+5802,F,25-34,other,WA
+825,M,>56,academic-educator,MS
+2171,M,35-44,other,MI
+4317,F,35-44,sales-marketing,IL
+3827,M,50-55,artist,NM
+2501,M,25-34,scientist,TN
+4191,F,45-49,scientist,MN
+139,F,25-34,writer,OH
+2376,M,25-34,academic-educator,NY
+1959,F,50-55,retired,WI
+1023,M,>56,retired,CA
+1897,F,50-55,artist,CA
+3017,F,35-44,homemaker,AZ
+4305,F,45-49,technician-engineer,NC
+3391,M,18-24,college-grad student,MI
+3871,M,18-24,college-grad student,MO
+1795,M,18-24,technician-engineer,MD
+1343,M,35-44,sales-marketing,CA
+5026,M,25-34,technician-engineer,CA
+4195,F,>56,retired,CA
+256,M,45-49,self-employed,MN
+1526,M,>56,technician-engineer,CO
+2980,M,45-49,executive-managerial,CA
+5126,M,25-34,lawyer,MA
+453,M,18-24,college-grad student,MN
+1512,M,25-34,writer,NY
+1915,M,50-55,retired,MA
+2231,M,50-55,lawyer,AZ
+2958,M,25-34,executive-managerial,CA
+261,M,25-34,writer,TX
+5458,F,18-24,artist,WA
+4739,M,25-34,clerical-admin,FL
+5184,M,18-24,writer,KS
+185,M,45-49,other,NY
+2071,M,45-49,executive-managerial,MA
+1055,M,35-44,other,CA
+3971,F,18-24,college-grad student,CO
+328,M,35-44,programmer,CO
+3819,M,25-34,programmer,AL
+14,M,35-44,other,IL
+5156,M,18-24,sales-marketing,NY
+4006,M,<18,executive-managerial,MI
+5060,M,45-49,technician-engineer,N/A
+3278,M,35-44,executive-managerial,NY
+2743,M,25-34,sales-marketing,AR
+304,M,25-34,other,MN
+4710,F,35-44,self-employed,VA
+128,M,>56,doctor-health care,TN
+5934,M,25-34,sales-marketing,TX
+1303,M,25-34,unemployed,CA
+1125,F,18-24,college-grad student,WI
+920,M,18-24,college-grad student,CA
+3295,M,18-24,tradesman-craftsman,CA
+4064,M,45-49,other,MD
+1531,M,45-49,technician-engineer,IL
+5396,M,25-34,doctor-health care,NV
+1298,M,35-44,doctor-health care,FL
+4757,M,35-44,technician-engineer,VA
+4428,M,25-34,sales-marketing,IN
+5642,M,<18,K-12 student,OK
+5421,M,35-44,technician-engineer,VA
+4688,M,25-34,homemaker,OH
+2844,M,25-34,writer,NM
+4833,M,35-44,self-employed,CO
+5512,F,25-34,technician-engineer,MA
+1345,F,25-34,artist,TX
+5005,M,45-49,self-employed,CA
+1494,M,25-34,technician-engineer,TN
+5933,M,25-34,artist,WA
+504,M,25-34,artist,PA
+5284,M,25-34,self-employed,MN
+4808,M,35-44,other,N/A
+2266,F,50-55,artist,MI
+2741,M,25-34,sales-marketing,IL
+1793,M,25-34,college-grad student,DC
+3477,F,50-55,academic-educator,NY
+5575,M,35-44,executive-managerial,DE
+1249,M,35-44,artist,CA
+371,M,18-24,college-grad student,MA
+4239,M,50-55,executive-managerial,IA
+1124,M,25-34,artist,IL
+240,M,50-55,technician-engineer,MN
+3703,M,18-24,programmer,OR
+3650,M,25-34,other,IL
+1122,M,>56,sales-marketing,MA
+3656,F,45-49,customer service,FL
+5936,M,18-24,college-grad student,TN
+4861,M,25-34,college-grad student,N/A
+238,F,50-55,executive-managerial,CA
+2910,M,<18,unemployed,TX
+4557,M,25-34,sales-marketing,MA
+2429,M,25-34,artist,VA
+4193,M,>56,retired,CA
+3931,M,25-34,customer service,CA
+1770,M,35-44,self-employed,TX
+695,F,18-24,academic-educator,ME
+2807,F,35-44,lawyer,VA
+150,M,35-44,executive-managerial,WA
+4773,M,45-49,academic-educator,VA
+4930,M,50-55,technician-engineer,MO
+3257,M,25-34,sales-marketing,CA
+4532,M,25-34,executive-managerial,NY
+4812,M,18-24,sales-marketing,WV
+1043,F,50-55,lawyer,NM
+2817,M,35-44,programmer,WI
+3307,M,50-55,doctor-health care,CA
+724,M,50-55,retired,CA
+2895,M,25-34,lawyer,NJ
+2302,M,50-55,programmer,MI
+3821,M,25-34,writer,OH
+3768,M,25-34,college-grad student,AZ
+3781,F,>56,lawyer,WI
+614,M,35-44,academic-educator,CA
+3800,M,18-24,academic-educator,OH
+4182,M,25-34,tradesman-craftsman,CO
+3171,F,50-55,clerical-admin,NY
+1672,M,25-34,technician-engineer,CA
+4529,M,35-44,doctor-health care,UT
+1275,M,50-55,technician-engineer,MS
+5601,M,35-44,academic-educator,WA
+4163,M,>56,executive-managerial,NJ
+579,M,25-34,customer service,FL
+465,M,18-24,unemployed,CA
+87,M,25-34,sales-marketing,MI
+5870,M,25-34,sales-marketing,WA
+2540,F,45-49,doctor-health care,KY
+454,M,25-34,writer,MN
+5885,M,25-34,academic-educator,N/A
+3941,M,45-49,technician-engineer,KY
+2937,F,18-24,college-grad student,MI
+4141,M,35-44,technician-engineer,CA
+2147,F,18-24,other,IL
+928,F,>56,self-employed,WA
+5937,M,25-34,programmer,IL
+2984,M,25-34,college-grad student,MI
+229,M,18-24,K-12 student,ME
+5797,M,25-34,executive-managerial,TX
+5065,M,25-34,sales-marketing,NC
+791,M,35-44,executive-managerial,NC
+5876,M,50-55,executive-managerial,GA
+4117,M,18-24,college-grad student,OH
+508,M,25-34,programmer,MN
+3090,M,25-34,artist,CA
+5016,F,35-44,academic-educator,NV
+1832,F,18-24,college-grad student,NY
+3803,F,35-44,homemaker,PA
+6036,F,25-34,scientist,FL
+5146,M,>56,academic-educator,ME
+4473,M,35-44,academic-educator,CA
+102,M,35-44,unemployed,MD
+3523,M,35-44,executive-managerial,WI
+4267,M,35-44,executive-managerial,MA
+2564,F,35-44,writer,OH
+3238,M,35-44,executive-managerial,NY
+4257,M,50-55,self-employed,TN
+360,M,35-44,technician-engineer,NC
+4897,M,35-44,self-employed,PA
+1865,F,18-24,academic-educator,CA
+4750,F,25-34,other,CA
+5225,M,18-24,college-grad student,MN
+893,F,50-55,doctor-health care,AZ
+5304,F,35-44,homemaker,MN
+4269,M,35-44,tradesman-craftsman,NC
+3535,M,45-49,tradesman-craftsman,TX
+1436,F,50-55,doctor-health care,OR
+4541,M,<18,K-12 student,MN
+1974,M,35-44,technician-engineer,NY
+3127,F,25-34,other,NY
+1047,M,18-24,other,IL
+2404,M,18-24,executive-managerial,MO
+1304,M,25-34,sales-marketing,OR
+1180,F,50-55,writer,CA
+2705,M,25-34,academic-educator,NC
+2122,M,35-44,programmer,IL
+29,M,35-44,executive-managerial,FL
+3970,F,25-34,artist,RI
+337,M,18-24,unemployed,CO
+106,F,35-44,lawyer,TX
+1242,F,35-44,other,NY
+2150,F,18-24,college-grad student,VA
+4145,F,50-55,academic-educator,TX
+3449,M,25-34,sales-marketing,MA
+3250,M,25-34,college-grad student,CA
+5295,M,35-44,executive-managerial,MN
+298,F,18-24,college-grad student,PA
+2863,F,25-34,artist,NC
+4212,M,>56,tradesman-craftsman,MN
+189,M,18-24,other,IL
+123,M,35-44,homemaker,KS
+131,M,18-24,college-grad student,CT
+1281,M,25-34,unemployed,OR
+201,F,35-44,artist,MN
+2048,M,50-55,doctor-health care,MI
+1385,F,25-34,customer service,CA
+5167,M,18-24,scientist,CT
+521,M,>56,executive-managerial,MN
+3861,M,18-24,college-grad student,NY
+1575,F,50-55,executive-managerial,CA
+4453,M,35-44,other,CA
+2006,M,35-44,other,KS
+4966,M,50-55,sales-marketing,MN
+3270,M,18-24,lawyer,OH
+4070,M,25-34,scientist,CA
+480,F,18-24,college-grad student,MN
+3686,M,25-34,executive-managerial,MI
+2279,M,50-55,executive-managerial,NJ
+2378,M,25-34,clerical-admin,TX
+1788,M,45-49,artist,PA
+4630,F,25-34,college-grad student,CA
+1726,M,25-34,artist,IL
+3561,M,35-44,sales-marketing,MO
+3530,M,25-34,other,TX
+5987,M,25-34,self-employed,NY
+3046,M,<18,college-grad student,IN
+1324,M,35-44,self-employed,NJ
+1777,M,25-34,writer,PA
+4779,M,45-49,clerical-admin,ME
+416,M,45-49,sales-marketing,MN
+4097,M,25-34,executive-managerial,MO
+1342,M,35-44,other,CA
+775,M,<18,technician-engineer,MN
+3047,F,25-34,college-grad student,CA
+3792,M,25-34,doctor-health care,NE
+4550,M,18-24,self-employed,VA
+2293,F,>56,clerical-admin,MI
+3268,M,25-34,programmer,ME
+3363,F,35-44,homemaker,ME
+4078,M,25-34,scientist,NC
+1778,M,18-24,college-grad student,CA
+3067,F,25-34,other,MA
+4747,M,18-24,college-grad student,WV
+4372,M,35-44,technician-engineer,TX
+3364,M,>56,retired,PA
+4479,M,50-55,retired,FL
+4027,F,25-34,executive-managerial,NY
+5430,F,45-49,academic-educator,WV
+1183,M,35-44,unemployed,CA
+2894,M,18-24,college-grad student,OH
+388,F,25-34,other,NY
+4617,F,25-34,doctor-health care,MN
+4551,M,18-24,programmer,IL
+2920,M,25-34,artist,MN
+1739,M,>56,self-employed,TX
+316,M,>56,retired,CA
+5549,F,50-55,homemaker,TX
+3302,M,25-34,technician-engineer,OK
+887,F,>56,self-employed,MN
+4660,F,18-24,college-grad student,CT
+1581,F,18-24,college-grad student,NY
+4724,F,>56,doctor-health care,MA
+4796,M,35-44,executive-managerial,WA
+431,M,18-24,K-12 student,MN
+6031,F,18-24,other,OH
+399,F,35-44,doctor-health care,MN
+3953,M,25-34,programmer,MN
+2498,M,>56,tradesman-craftsman,LA
+4116,M,35-44,executive-managerial,NJ
+5452,M,35-44,doctor-health care,NY
+1744,M,35-44,programmer,IA
+881,M,18-24,sales-marketing,TX
+1853,M,50-55,other,CA
+2252,F,18-24,academic-educator,MA
+3179,F,18-24,writer,MA
+5443,M,25-34,programmer,MA
+4179,F,35-44,writer,CA
+749,M,35-44,tradesman-craftsman,MN
+1828,M,18-24,college-grad student,NJ
+408,M,25-34,lawyer,MA
+2635,M,35-44,other,CT
+1717,F,50-55,doctor-health care,GA
+417,F,25-34,other,IA
+3714,M,25-34,technician-engineer,CA
+2625,M,35-44,executive-managerial,IL
+5149,M,35-44,academic-educator,NY
+1189,M,25-34,other,AZ
+5763,F,25-34,academic-educator,NJ
+2057,M,35-44,academic-educator,MI
+1634,F,>56,other,TN
+5487,M,25-34,technician-engineer,CA
+3641,M,25-34,other,CA
+4255,M,50-55,programmer,NY
+346,F,25-34,other,MN
+1374,M,50-55,academic-educator,CA
+4012,M,18-24,college-grad student,N/A
+1181,M,35-44,executive-managerial,MD
+474,M,25-34,technician-engineer,CA
+50,F,25-34,artist,WA
+5232,M,25-34,college-grad student,NY
+2142,F,45-49,sales-marketing,IN
+813,M,18-24,college-grad student,LA
+3061,M,45-49,artist,SC
+4879,M,25-34,clerical-admin,IL
+4727,F,>56,other,WA
+2260,F,25-34,writer,IN
+3040,M,25-34,farmer,VA
+2854,F,18-24,college-grad student,MO
+233,F,45-49,writer,N/A
+5450,M,18-24,programmer,MA
+2723,F,25-34,homemaker,NC
+1227,M,50-55,academic-educator,CA
+1340,M,25-34,executive-managerial,NY
+1671,M,35-44,other,WA
+1199,M,50-55,retired,TX
+3103,M,25-34,writer,MO
+3699,F,>56,clerical-admin,GA
+4291,M,35-44,sales-marketing,WA
+1097,M,18-24,technician-engineer,CA
+1711,F,18-24,college-grad student,GA
+4252,F,35-44,clerical-admin,NC
+2292,M,50-55,scientist,NY
+4556,M,45-49,self-employed,MN
+591,M,25-34,other,TX
+4074,M,35-44,doctor-health care,TX
+5463,M,35-44,other,WI
+4799,F,18-24,college-grad student,RI
+198,M,25-34,programmer,MN
+5586,M,35-44,writer,CA
+5792,M,25-34,technician-engineer,OH
+3158,M,25-34,scientist,PA
+1836,M,25-34,other,NY
+5448,M,45-49,unemployed,IL
+3121,M,25-34,artist,FL
+2104,M,45-49,scientist,IL
+4946,F,35-44,academic-educator,CA
+2839,M,25-34,technician-engineer,NY
+4388,M,45-49,clerical-admin,TX
+2662,M,25-34,technician-engineer,MA
+3348,M,45-49,self-employed,CA
+2493,M,45-49,artist,CA
+606,F,<18,K-12 student,MI
+3500,M,35-44,executive-managerial,MD
+3986,M,25-34,executive-managerial,FL
+132,M,25-34,technician-engineer,AK
+127,F,45-49,clerical-admin,MA
+3706,M,25-34,programmer,IN
+1188,M,45-49,executive-managerial,AR
+342,M,18-24,programmer,MN
+5543,M,25-34,technician-engineer,OR
+5499,F,25-34,unemployed,IL
+1009,M,50-55,executive-managerial,MI
+4318,M,25-34,customer service,RI
+2683,M,35-44,executive-managerial,IL
+3284,M,25-34,doctor-health care,MI
+303,M,25-34,executive-managerial,DC
+4044,F,35-44,clerical-admin,CA
+2522,M,18-24,lawyer,IL
+1538,M,25-34,clerical-admin,VA
+5602,M,35-44,other,OR
+5478,M,35-44,executive-managerial,MA
+3541,M,25-34,clerical-admin,MA
+4052,M,25-34,artist,OH
+5039,F,35-44,college-grad student,OR
+3486,F,18-24,other,WA
+3569,F,18-24,artist,MI
+3594,M,<18,other,MA
+4495,M,18-24,college-grad student,VA
+5276,F,25-34,college-grad student,CA
+2930,M,50-55,technician-engineer,OH
+5476,F,35-44,other,DC
+1150,F,25-34,writer,TX
+5102,M,25-34,programmer,CA
+978,M,18-24,other,PA
+6018,M,35-44,academic-educator,MI
+3482,M,50-55,technician-engineer,NJ
+5530,F,18-24,college-grad student,MO
+290,F,25-34,writer,CA
+3048,M,18-24,artist,MA
+3664,F,35-44,academic-educator,CA
+3170,M,25-34,other,N/A
+5269,M,18-24,other,TN
+3612,M,25-34,sales-marketing,SC
+5322,M,35-44,technician-engineer,OR
+1762,M,25-34,sales-marketing,TX
+571,M,50-55,customer service,CA
+2613,M,35-44,academic-educator,CA
+1463,M,50-55,self-employed,N/A
+2950,M,18-24,other,AR
+4718,M,35-44,executive-managerial,NH
+1267,M,25-34,scientist,NY
+5064,M,18-24,college-grad student,OH
+3690,M,18-24,other,MO
+407,M,18-24,technician-engineer,NV
+4935,M,35-44,technician-engineer,IL
+3273,M,35-44,executive-managerial,NY
+3066,M,18-24,college-grad student,IL
+4307,M,25-34,other,CA
+6037,F,45-49,academic-educator,TX
+2405,M,50-55,farmer,TX
+4225,F,25-34,clerical-admin,MI
+2684,F,18-24,other,PA
+2335,M,50-55,technician-engineer,MI
+2697,F,50-55,technician-engineer,NM
+5832,F,25-34,other,TX
+4515,M,>56,retired,SC
+4888,F,>56,other,NJ
+5807,M,35-44,executive-managerial,MA
+2829,M,45-49,writer,NY
+492,M,25-34,programmer,MN
+3589,F,45-49,other,CO
+5546,M,18-24,sales-marketing,WV
+3456,M,25-34,technician-engineer,WI
+942,F,50-55,doctor-health care,AZ
+1849,M,35-44,executive-managerial,NY
+1537,M,18-24,writer,MA
+1187,F,<18,other,CA
+3676,F,35-44,programmer,MI
+1280,M,<18,K-12 student,OR
+3027,M,18-24,college-grad student,AZ
+4826,M,45-49,programmer,MN
+49,M,18-24,programmer,TX
+575,M,25-34,programmer,CA
+5927,M,35-44,sales-marketing,NY
+374,F,35-44,sales-marketing,MN
+5283,M,18-24,artist,MO
+5663,F,35-44,writer,TX
+4798,M,25-34,academic-educator,PA
+264,M,35-44,other,MD
+936,M,18-24,college-grad student,N/A
+5188,F,35-44,homemaker,OH
+5623,M,25-34,lawyer,UT
+104,M,25-34,programmer,PR
+4166,F,25-34,executive-managerial,TX
+2344,M,25-34,programmer,MA
+4997,M,<18,K-12 student,CA
+5816,M,25-34,other,LA
+2254,M,35-44,customer service,FL
+6024,M,25-34,programmer,WI
+274,M,18-24,college-grad student,MN
+3645,M,35-44,technician-engineer,OR
+3164,M,18-24,programmer,MN
+1173,F,25-34,executive-managerial,NY
+5413,M,35-44,academic-educator,MT
+2776,M,25-34,sales-marketing,VA
+5442,M,25-34,executive-managerial,MO
+997,M,<18,unemployed,PA
+4837,M,25-34,customer service,IN
+905,F,45-49,programmer,NC
+2294,M,>56,retired,MI
+4853,M,25-34,executive-managerial,MN
+5593,M,50-55,self-employed,CA
+3762,M,50-55,doctor-health care,NY
+5357,F,18-24,writer,IL
+3748,M,18-24,college-grad student,MA
+711,M,25-34,tradesman-craftsman,CO
+1068,F,18-24,college-grad student,TX
+2746,M,50-55,sales-marketing,N/A
+840,F,25-34,clerical-admin,RI
+1947,M,25-34,executive-managerial,CA
+2526,M,>56,retired,TN
+5303,F,>56,doctor-health care,OH
+5700,F,18-24,sales-marketing,MN
+5878,F,25-34,other,IL
+2353,F,35-44,homemaker,IL
+2485,M,35-44,sales-marketing,CA
+857,M,35-44,technician-engineer,NY
+4208,F,35-44,other,CA
+2420,M,50-55,executive-managerial,TN
+1585,M,>56,writer,CA
+2935,M,25-34,other,MN
+2152,M,18-24,college-grad student,VA
+5725,M,18-24,artist,NY
+4874,F,25-34,college-grad student,LA
+5165,M,35-44,doctor-health care,CA
+665,M,18-24,artist,NY
+2588,F,>56,retired,TX
+3491,M,25-34,self-employed,NC
+3507,M,25-34,other,MA
+4419,F,45-49,programmer,PA
+4819,M,35-44,tradesman-craftsman,PA
+1024,F,35-44,academic-educator,OK
+1919,M,<18,other,CA
+5844,F,<18,K-12 student,MA
+593,F,50-55,academic-educator,CA
+3451,F,25-34,lawyer,CA
+5202,M,18-24,college-grad student,RI
+471,M,35-44,executive-managerial,NJ
+5854,M,45-49,executive-managerial,FL
+89,F,>56,homemaker,AZ
+4147,F,50-55,executive-managerial,RI
+3153,F,25-34,college-grad student,OK
+3362,F,25-34,other,CA
+5703,M,>56,academic-educator,NY
+3649,F,25-34,other,CA
+5819,M,50-55,doctor-health care,LA
+3808,M,25-34,executive-managerial,IL
+2811,M,25-34,unemployed,CA
+3575,M,25-34,tradesman-craftsman,WI
+3218,M,>56,doctor-health care,MI
+3892,M,25-34,writer,CA
+5074,M,<18,other,VA
+3193,M,25-34,other,CA
+5949,M,18-24,technician-engineer,IN
+3966,M,25-34,other,GA
+4202,M,25-34,executive-managerial,MD
+1648,M,50-55,sales-marketing,AZ
+3972,F,25-34,doctor-health care,VA
+3856,F,35-44,writer,CA
+4706,M,25-34,sales-marketing,NE
+4226,F,35-44,doctor-health care,TX
+3883,M,50-55,self-employed,TX
+146,F,35-44,writer,NY
+3314,M,25-34,executive-managerial,CT
+1626,M,18-24,college-grad student,NY
+4920,M,35-44,academic-educator,MA
+8,M,25-34,programmer,NY
+2722,M,35-44,executive-managerial,VA
+4001,F,25-34,academic-educator,MA
+1397,M,35-44,executive-managerial,MN
+1769,M,25-34,technician-engineer,TX
+5153,M,25-34,executive-managerial,IL
+1299,M,25-34,sales-marketing,MA
+2549,M,>56,retired,TN
+507,F,25-34,other,MN
+1665,M,45-49,technician-engineer,NM
+1520,M,25-34,technician-engineer,CA
+3992,M,25-34,college-grad student,FL
+649,M,25-34,college-grad student,CO
+1950,M,25-34,programmer,MI
+826,F,35-44,academic-educator,CO
+5287,M,25-34,farmer,AZ
+2800,F,18-24,college-grad student,OK
+4100,M,>56,doctor-health care,TX
+5553,M,35-44,clerical-admin,SC
+3416,M,25-34,programmer,MD
+1285,M,35-44,college-grad student,WA
+2349,M,25-34,farmer,IA
+4386,M,25-34,customer service,OK
+3547,M,35-44,self-employed,CA
+497,F,25-34,technician-engineer,MN
+1933,M,18-24,unemployed,CA
+4415,M,18-24,other,MA
+4185,M,25-34,sales-marketing,CA
+45,F,45-49,self-employed,CA
+1421,F,<18,K-12 student,WI
+1884,M,45-49,writer,CA
+4404,M,25-34,academic-educator,SD
+4418,F,50-55,other,MA
+4507,M,18-24,college-grad student,IL
+4066,M,25-34,other,PA
+2696,M,25-34,executive-managerial,VA
+3785,F,25-34,writer,CA
+1045,F,<18,K-12 student,TX
+4590,F,18-24,writer,MN
+3848,M,25-34,scientist,N/A
+1946,M,25-34,sales-marketing,CA
+2233,F,35-44,clerical-admin,IL
+1509,M,<18,other,NY
+1546,M,25-34,college-grad student,VA
+368,M,25-34,other,CA
+4356,M,35-44,self-employed,AZ
+2035,F,18-24,other,OH
+5670,M,18-24,college-grad student,MI
+1837,M,25-34,artist,NJ
+4113,M,35-44,technician-engineer,ND
+2631,F,50-55,academic-educator,NY
+4138,M,25-34,executive-managerial,CA
+120,M,25-34,lawyer,NC
+3461,M,35-44,other,CA
+1051,F,25-34,other,IL
+4393,M,18-24,college-grad student,OH
+38,F,18-24,college-grad student,MA
+1225,M,45-49,executive-managerial,IL
+1499,M,<18,K-12 student,PA
+3531,F,25-34,lawyer,MN
+5617,M,25-34,sales-marketing,MI
+721,F,35-44,homemaker,OR
+211,M,45-49,technician-engineer,CA
+3942,M,18-24,college-grad student,MI
+6038,F,>56,academic-educator,NY
+2989,M,35-44,programmer,OR
+5867,F,45-49,clerical-admin,CA
+4977,M,25-34,college-grad student,CA
+4784,F,35-44,doctor-health care,MI
+1232,F,18-24,college-grad student,OH
+3167,M,25-34,artist,TX
+4023,F,35-44,homemaker,FL
+737,M,<18,unemployed,WI
+4082,M,25-34,writer,TX
+4263,M,25-34,executive-managerial,KY
+2799,M,18-24,other,MN
+2474,M,25-34,programmer,ID
+2679,F,18-24,college-grad student,MA
+5745,F,18-24,college-grad student,CA
+1048,M,35-44,doctor-health care,TX
+1693,M,25-34,programmer,WA
+848,M,25-34,scientist,CA
+2708,M,25-34,executive-managerial,OH
+2396,F,18-24,other,VA
+4197,F,45-49,academic-educator,PA
+1028,F,45-49,executive-managerial,NH
+395,M,18-24,customer service,MN
+3146,M,25-34,other,GA
+2619,M,35-44,programmer,CA
+4468,F,35-44,executive-managerial,TX
+2671,F,35-44,programmer,WI
+135,M,18-24,college-grad student,DC
+1145,M,50-55,clerical-admin,CA
+3412,M,25-34,tradesman-craftsman,AZ
+1346,M,35-44,writer,NC
+39,M,18-24,college-grad student,IL
+5948,M,>56,retired,NY
+5171,M,>56,technician-engineer,CA
+5432,M,>56,retired,MA
+1074,M,45-49,technician-engineer,MI
+2324,M,35-44,technician-engineer,IA
+3462,F,25-34,college-grad student,OK
+4516,M,18-24,college-grad student,WI
+5424,F,35-44,artist,CO
+3830,M,18-24,college-grad student,IL
+3004,F,18-24,college-grad student,MA
+4965,M,<18,K-12 student,N/A
+1099,M,25-34,technician-engineer,TX
+111,M,35-44,scientist,MN
+197,M,18-24,sales-marketing,NY
+4169,M,50-55,other,KS
+3448,F,18-24,clerical-admin,IL
+1591,M,50-55,executive-managerial,WV
+2077,M,18-24,other,MN
+3601,F,35-44,clerical-admin,CA
+5800,M,35-44,tradesman-craftsman,CA
+3410,M,35-44,academic-educator,MD
+2213,F,25-34,other,IL
+1519,M,18-24,college-grad student,TN
+5891,M,18-24,college-grad student,MN
+2767,M,25-34,other,WA
+62,F,35-44,clerical-admin,WA
+4568,F,25-34,college-grad student,CA
+3315,M,25-34,programmer,TX
+4032,M,25-34,programmer,MN
+332,M,50-55,academic-educator,MN
+1782,M,45-49,other,VA
+1486,M,25-34,self-employed,CA
+5113,M,25-34,other,MN
+2869,M,50-55,technician-engineer,NJ
+3704,F,35-44,other,ME
+2868,M,35-44,programmer,CA
+1823,F,35-44,academic-educator,CA
+4092,F,25-34,other,PA
+5576,M,25-34,college-grad student,MN
+2548,F,35-44,doctor-health care,TN
+4408,F,45-49,artist,PA
+2533,F,25-34,clerical-admin,MI
+2033,F,45-49,writer,CA
+2239,M,18-24,K-12 student,IL
+1587,F,25-34,clerical-admin,GA
+3548,M,45-49,executive-managerial,N/A
+3815,M,25-34,technician-engineer,WI
+3186,M,50-55,academic-educator,CA
+4818,F,25-34,technician-engineer,CA
+3858,F,45-49,homemaker,MO
+4647,M,35-44,writer,CO
+6002,M,50-55,other,OH
+2137,F,<18,K-12 student,PR
+5748,M,25-34,other,CA
+4889,M,18-24,college-grad student,MO
+5128,M,50-55,executive-managerial,CA
+163,M,18-24,college-grad student,AZ
+5397,M,18-24,other,IL
+325,F,50-55,clerical-admin,MN
+5176,M,<18,K-12 student,IL
+2561,M,25-34,scientist,CT
+4048,F,35-44,academic-educator,NV
+2893,M,25-34,academic-educator,CA
+2098,M,35-44,writer,MI
+4562,M,35-44,K-12 student,CA
+4665,M,35-44,artist,NH
+3989,M,50-55,programmer,GA
+672,M,35-44,executive-managerial,IN
+1255,M,25-34,technician-engineer,CA
+554,M,25-34,programmer,CA
+5760,M,18-24,programmer,NY
+2904,M,25-34,college-grad student,PA
+1825,M,25-34,executive-managerial,IA
+2286,M,35-44,technician-engineer,WY
+3681,M,25-34,executive-managerial,SC
+2872,M,25-34,writer,CA
+4450,M,25-34,scientist,IL
+3425,M,18-24,writer,MI
+4884,M,35-44,sales-marketing,CA
+3026,F,18-24,college-grad student,OH
+208,M,35-44,technician-engineer,MN
+3801,M,18-24,programmer,AL
+4661,M,45-49,scientist,AZ
+3583,F,25-34,homemaker,KY
+4938,F,18-24,college-grad student,MN
+2915,M,25-34,executive-managerial,VA
+3935,M,35-44,tradesman-craftsman,AR
+4376,F,25-34,customer service,NC
+2200,M,35-44,academic-educator,IL
+21,M,18-24,self-employed,WA
+1680,M,25-34,writer,CA
+4533,M,25-34,programmer,WI
+1365,F,<18,K-12 student,N/A
+2157,F,18-24,clerical-admin,OH
+5501,M,25-34,artist,FL
+2387,M,25-34,technician-engineer,FL
+3610,M,18-24,doctor-health care,GA
+2828,M,18-24,college-grad student,MA
+2569,M,45-49,other,OH
+5573,F,35-44,academic-educator,NY
+4781,F,50-55,doctor-health care,ME
+437,M,35-44,technician-engineer,MN
+147,M,18-24,college-grad student,CA
+3312,F,18-24,college-grad student,CA
+5957,M,18-24,writer,MA
+5935,M,18-24,other,AL
+5625,M,25-34,academic-educator,MA
+3037,F,25-34,artist,OR
+5982,M,35-44,academic-educator,MN
+4547,M,18-24,programmer,MA
+3618,M,>56,technician-engineer,VA
+1350,F,35-44,other,CA
+1305,M,45-49,writer,CA
+1033,M,25-34,customer service,IL
+3062,M,18-24,college-grad student,NH
+3661,M,35-44,programmer,NJ
+4139,M,>56,sales-marketing,KY
+2570,F,>56,sales-marketing,CA
+743,F,<18,artist,IL
+4582,F,25-34,other,MN
+37,F,25-34,homemaker,KS
+2072,F,50-55,programmer,MD
+1341,M,18-24,executive-managerial,NY
+577,M,35-44,other,MA
+773,M,25-34,doctor-health care,MI
+5498,F,50-55,academic-educator,IL
+994,M,18-24,artist,CA
+5606,F,25-34,sales-marketing,MD
+1504,M,18-24,unemployed,VA
+5094,M,18-24,K-12 student,KS
+3194,M,25-34,scientist,CA
+242,F,18-24,college-grad student,WI
+2345,M,35-44,self-employed,WA
+4173,F,18-24,lawyer,SC
+2120,M,<18,other,MA
+1007,M,50-55,programmer,MA
+3592,F,>56,artist,AK
+4365,F,50-55,self-employed,IN
+4613,M,25-34,programmer,KY
+403,M,18-24,college-grad student,MA
+1579,M,25-34,other,IL
+4553,F,35-44,self-employed,MI
+4256,F,<18,artist,TX
+1321,F,25-34,sales-marketing,FL
+1953,F,25-34,artist,CA
+3309,M,25-34,technician-engineer,MD
+2377,M,35-44,other,CT
+4288,F,25-34,homemaker,IN
+5581,M,25-34,other,NY
+5220,M,25-34,executive-managerial,CA
+84,M,18-24,college-grad student,WI
+3882,M,>56,sales-marketing,MN
+5535,M,25-34,scientist,CA
+3921,M,25-34,sales-marketing,CA
+1016,M,>56,self-employed,IL
+3550,M,25-34,customer service,MN
+4351,M,25-34,programmer,TN
+1994,M,35-44,artist,NV
+3289,M,45-49,doctor-health care,CA
+1252,M,>56,retired,CA
+2134,M,18-24,K-12 student,MA
+1606,F,35-44,clerical-admin,MN
+2620,M,18-24,college-grad student,IN
+3617,M,35-44,executive-managerial,MI
+3287,M,>56,retired,N/A
+4303,M,25-34,artist,CA
+1949,M,18-24,technician-engineer,CA
+4313,F,25-34,executive-managerial,NJ
+5226,M,35-44,other,WA
+178,M,>56,technician-engineer,WI
+2422,F,50-55,homemaker,RI
+1705,F,18-24,college-grad student,AZ
+2058,F,>56,academic-educator,CT
+525,M,35-44,doctor-health care,PA
+243,M,25-34,self-employed,NY
+5746,M,18-24,scientist,CA
+2052,M,<18,K-12 student,IN
+1452,F,>56,retired,CA
+799,F,25-34,customer service,WA
+4086,F,<18,K-12 student,MN
+875,M,<18,K-12 student,CA
+5047,M,45-49,doctor-health care,VA
+5020,F,>56,retired,CA
+4903,M,35-44,programmer,N/A
+1955,M,<18,unemployed,NH
+5292,M,25-34,other,OR
+1763,M,35-44,executive-managerial,TX
+3903,M,25-34,other,MA
+1488,M,25-34,executive-managerial,CA
+2106,F,18-24,writer,N/A
+2721,M,45-49,sales-marketing,PA
+960,M,<18,K-12 student,OH
+4780,M,25-34,programmer,CA
+3724,M,35-44,doctor-health care,TX
+3899,M,25-34,technician-engineer,MA
+4330,F,45-49,doctor-health care,AZ
+2707,M,>56,retired,VA
+4988,M,25-34,technician-engineer,MN
+1658,F,35-44,doctor-health care,N/A
+3175,M,35-44,self-employed,NY
+2962,M,35-44,clerical-admin,CA
+5486,M,25-34,other,PA
+4377,M,25-34,other,FL
+4673,M,35-44,self-employed,CA
+5267,M,35-44,executive-managerial,VA
+3341,M,25-34,writer,CA
+2043,M,25-34,sales-marketing,TN
+2329,F,>56,scientist,OR
+5815,M,25-34,writer,CA
+3163,M,18-24,scientist,CA
+3111,M,18-24,college-grad student,MN
+824,M,35-44,programmer,CA
+2113,M,25-34,doctor-health care,ME
+5839,M,25-34,academic-educator,NC
+415,F,35-44,other,MN
+5545,F,35-44,self-employed,WA
+3277,M,25-34,technician-engineer,CA
+4651,F,45-49,other,NY
+2608,F,25-34,academic-educator,NY
+2866,M,25-34,executive-managerial,WI
+406,M,25-34,writer,MN
+3221,M,25-34,other,PA
+4043,F,25-34,scientist,CA
+72,F,45-49,other,MN
+1810,M,50-55,retired,CA
+5730,M,18-24,other,CA
+4213,M,35-44,executive-managerial,MO
+1936,M,35-44,other,CA
+3414,M,25-34,technician-engineer,TX
+4945,M,50-55,other,IL
+1533,M,45-49,academic-educator,AR
+2883,M,18-24,writer,GA
+5915,M,18-24,college-grad student,ND
+635,M,>56,technician-engineer,FL
+4681,F,35-44,scientist,CT
+155,M,35-44,programmer,NJ
+2210,M,45-49,technician-engineer,N/A
+4401,M,18-24,college-grad student,NY
+5266,M,35-44,academic-educator,KY
+4223,F,35-44,technician-engineer,IL
+2825,F,25-34,writer,CA
+909,M,45-49,executive-managerial,CA
+3616,M,45-49,other,FL
+5399,M,25-34,academic-educator,NY
+612,M,50-55,executive-managerial,CA
+5516,F,50-55,self-employed,WA
+5709,M,18-24,college-grad student,CA
+5151,M,18-24,unemployed,GA
+4611,F,18-24,college-grad student,TX
+4728,M,25-34,unemployed,GA
+3590,F,18-24,scientist,MA
+1880,M,35-44,other,CA
+1238,F,35-44,writer,NY
+3403,M,35-44,customer service,MI
+1272,M,18-24,writer,MI
+1287,F,50-55,executive-managerial,CA
+2311,F,25-34,college-grad student,VA
+2587,M,35-44,executive-managerial,MN
+2417,M,45-49,academic-educator,WI
+854,F,25-34,self-employed,OH
+2784,M,50-55,writer,DC
+3888,M,45-49,technician-engineer,MA
+1222,M,35-44,other,IA
+3322,F,18-24,college-grad student,NE
+585,M,18-24,academic-educator,WI
+3976,F,25-34,other,OH
+4726,F,35-44,self-employed,CA
+523,M,50-55,executive-managerial,MN
+2813,M,25-34,writer,MN
+967,F,18-24,other,OH
+1822,F,25-34,other,WI
+1018,M,18-24,college-grad student,CA
+3390,F,45-49,writer,MA
+4878,M,50-55,college-grad student,CA
+2441,F,45-49,doctor-health care,KY
+915,M,25-34,executive-managerial,AR
+4932,M,25-34,executive-managerial,MO
+1940,M,25-34,programmer,CA
+3034,F,18-24,academic-educator,FL
+3396,M,25-34,programmer,PA
+1428,F,45-49,lawyer,KY
+3350,F,18-24,other,MD
+998,M,45-49,writer,NY
+2355,F,45-49,homemaker,NY
+5740,M,25-34,academic-educator,IL
+1290,M,35-44,other,CA
+4379,M,25-34,college-grad student,NC
+2407,M,35-44,self-employed,NY
+1115,F,25-34,academic-educator,IL
+2195,M,<18,K-12 student,IL
+2897,M,25-34,customer service,OR
+1889,M,18-24,sales-marketing,CO
+868,M,50-55,technician-engineer,N/A
+1824,F,18-24,college-grad student,OH
+2738,F,50-55,artist,VA
+5565,M,18-24,technician-engineer,MA
+2724,F,45-49,artist,NC
+552,M,50-55,tradesman-craftsman,VA
+1344,F,25-34,homemaker,OH
+4229,M,35-44,technician-engineer,CA
+4455,M,35-44,executive-managerial,NC
+2495,F,18-24,college-grad student,MN
+1273,M,35-44,artist,PA
+2431,F,25-34,college-grad student,VA
+4730,M,50-55,lawyer,ME
+3081,M,25-34,executive-managerial,TX
+4619,F,25-34,academic-educator,OR
+505,M,35-44,technician-engineer,TN
+2843,F,25-34,college-grad student,TX
+411,F,45-49,academic-educator,OH
+5472,M,35-44,academic-educator,NC
+2444,F,45-49,college-grad student,KY
+2005,M,18-24,college-grad student,ND
+2242,M,18-24,college-grad student,IL
+4059,M,25-34,sales-marketing,CO
+510,M,18-24,programmer,MN
+383,F,25-34,executive-managerial,TX
+2386,F,25-34,other,CT
+5043,F,18-24,doctor-health care,CA
+4810,M,18-24,programmer,CO
+713,M,35-44,executive-managerial,TX
+2836,M,25-34,programmer,NJ
+2838,M,18-24,academic-educator,CA
+1600,M,35-44,executive-managerial,NJ
+5996,F,25-34,other,NM
+1351,F,25-34,technician-engineer,WA
+5095,F,35-44,academic-educator,VA
+1167,F,50-55,academic-educator,MN
+75,F,<18,K-12 student,MA
+3873,F,45-49,artist,CA
+2414,M,25-34,academic-educator,MI
+5051,F,50-55,executive-managerial,NY
+5801,M,25-34,self-employed,ME
+2070,F,35-44,doctor-health care,NY
+506,M,25-34,self-employed,N/A
+3089,M,45-49,self-employed,CA
+1253,F,35-44,writer,TX
+3373,M,18-24,self-employed,CA
+498,M,35-44,technician-engineer,MN
+5296,F,<18,other,N/A
+4201,F,25-34,other,MO
+833,M,35-44,executive-managerial,IN
+5852,F,25-34,academic-educator,CA
+2759,M,25-34,executive-managerial,AL
+550,M,45-49,farmer,N/A
+1890,M,50-55,doctor-health care,CA
+4602,M,35-44,executive-managerial,NY
+3955,M,35-44,other,NY
+282,M,25-34,technician-engineer,CA
+3233,M,50-55,artist,IL
+2,M,>56,self-employed,LA
+573,F,35-44,artist,WA
+4951,F,35-44,technician-engineer,CA
+1790,M,25-34,other,PA
+2971,M,25-34,college-grad student,MI
+940,M,<18,K-12 student,TX
+3361,M,25-34,college-grad student,CA
+2290,M,25-34,other,IL
+1491,M,18-24,college-grad student,CT
+2110,M,50-55,lawyer,IN
+1776,M,25-34,other,OH
+2582,F,25-34,academic-educator,OR
+1250,M,50-55,other,NY
+3751,F,35-44,programmer,MN
+1038,F,>56,scientist,VA
+5552,M,50-55,executive-managerial,VA
+2703,M,35-44,lawyer,IA
+3825,M,18-24,academic-educator,CT
+2159,F,50-55,sales-marketing,IL
+5342,F,35-44,executive-managerial,VA
+1999,F,35-44,clerical-admin,MA
+3987,F,18-24,college-grad student,MA
+5959,F,18-24,college-grad student,NY
+4030,M,35-44,executive-managerial,NV
+4580,F,>56,retired,OR
+3578,M,50-55,clerical-admin,HI
+4866,M,>56,programmer,ME
+4402,F,18-24,sales-marketing,OH
+2206,M,45-49,executive-managerial,NY
+5072,M,45-49,technician-engineer,OR
+2991,M,50-55,academic-educator,MI
+834,F,35-44,programmer,TX
+4524,M,25-34,artist,MN
+295,M,18-24,other,CO
+1132,M,18-24,programmer,WA
+1555,F,18-24,other,DC
+3705,M,45-49,executive-managerial,GA
+5034,F,25-34,scientist,IL
+3256,M,25-34,scientist,CA
+3173,M,25-34,programmer,MN
+2465,M,50-55,doctor-health care,OH
+4670,M,35-44,customer service,CA
+4857,M,25-34,sales-marketing,VA
+6028,M,18-24,college-grad student,CA
+496,M,18-24,college-grad student,MN
+3099,M,25-34,technician-engineer,MD
+4995,M,50-55,writer,MN
+3191,M,25-34,programmer,NC
+1443,M,35-44,artist,WA
+4802,M,>56,academic-educator,KY
+85,M,18-24,college-grad student,CA
+3975,F,25-34,customer service,OH
+323,M,45-49,programmer,WI
+3854,M,25-34,sales-marketing,GA
+3207,M,35-44,executive-managerial,IL
+4429,M,25-34,customer service,AZ
+459,F,18-24,college-grad student,MN
+746,F,18-24,unemployed,CA
+3408,M,25-34,technician-engineer,NY
+1064,M,25-34,executive-managerial,CA
+1151,M,25-34,scientist,IN
+10,F,35-44,academic-educator,CA
+4315,M,18-24,college-grad student,OH
+4130,M,35-44,doctor-health care,MI
+3870,M,25-34,technician-engineer,CA
+1465,M,50-55,self-employed,CA
+6025,F,25-34,academic-educator,FL
+2484,M,45-49,customer service,GA
+4216,M,25-34,technician-engineer,MA
+1352,M,35-44,writer,CA
+3721,M,25-34,scientist,CA
+4357,F,35-44,homemaker,ID
+4925,F,35-44,doctor-health care,MN
+4149,M,35-44,academic-educator,FL
+4333,M,50-55,artist,FL
+2515,M,45-49,programmer,TN
+602,F,>56,doctor-health care,NY
+347,F,>56,academic-educator,MN
+78,F,45-49,academic-educator,WA
+1234,M,18-24,college-grad student,CA
+254,M,35-44,technician-engineer,MI
+914,F,35-44,homemaker,GA
+3369,M,45-49,tradesman-craftsman,NY
+5641,F,25-34,technician-engineer,MI
+4626,M,25-34,sales-marketing,OR
+5467,M,35-44,other,MO
+5178,M,50-55,other,OH
+5893,M,25-34,executive-managerial,MA
+5381,M,25-34,sales-marketing,NY
+1549,M,35-44,doctor-health care,MD
+1938,F,25-34,artist,CA
+4483,F,25-34,doctor-health care,AR
+2004,M,45-49,unemployed,WI
+5290,F,18-24,college-grad student,IL
+877,M,25-34,other,CA
+3753,M,25-34,executive-managerial,KY
+2876,M,25-34,technician-engineer,MA
+3924,M,50-55,programmer,CA
+2024,M,<18,unemployed,CT
+4091,M,25-34,technician-engineer,MN
+5769,M,45-49,sales-marketing,VT
+1130,M,18-24,executive-managerial,IL
+4437,F,35-44,customer service,IN
+42,M,25-34,farmer,VA
+3874,M,25-34,executive-managerial,CA
+694,M,18-24,college-grad student,TX
+4843,M,>56,academic-educator,ME
+1155,M,25-34,programmer,CA
+3288,M,25-34,sales-marketing,CA
+596,F,25-34,academic-educator,MA
+5931,F,18-24,executive-managerial,CA
+1306,M,25-34,clerical-admin,MO
+674,M,25-34,technician-engineer,VA
+964,M,25-34,executive-managerial,CA
+2774,M,25-34,academic-educator,CA
+5574,M,25-34,other,MD
+739,M,35-44,programmer,MN
+324,M,35-44,technician-engineer,MN
+3826,M,25-34,academic-educator,MI
+4776,F,25-34,clerical-admin,IN
+3508,M,18-24,college-grad student,MA
+1556,M,18-24,college-grad student,MI
+1875,M,35-44,programmer,CA
+1479,F,50-55,artist,CA
+3232,M,35-44,programmer,CA
+3510,F,18-24,college-grad student,MA
+5614,M,25-34,other,NY
+4607,M,25-34,other,NC
+2907,F,35-44,customer service,NY
+5668,F,25-34,clerical-admin,KY
+1871,F,45-49,academic-educator,IN
+3119,M,45-49,academic-educator,TN
+2280,M,>56,doctor-health care,OK
+4751,M,50-55,scientist,MA
+1804,M,25-34,executive-managerial,VA
+2566,M,35-44,technician-engineer,CA
+2374,M,25-34,sales-marketing,CA
+919,F,35-44,academic-educator,CA
+5103,F,35-44,self-employed,TX
+7,M,35-44,academic-educator,CT
+336,M,18-24,other,N/A
+4778,M,25-34,other,IN
+985,M,25-34,college-grad student,FL
+57,M,18-24,unemployed,GA
+3112,M,18-24,programmer,WA
+5314,F,25-34,other,CA
+5518,M,50-55,technician-engineer,TX
+2528,M,>56,other,TN
+369,M,35-44,academic-educator,MN
+2605,M,35-44,executive-managerial,TX
+1627,M,18-24,technician-engineer,CA
+1316,M,50-55,artist,IA
+1661,M,35-44,executive-managerial,CO
+4742,M,25-34,clerical-admin,CA
+302,M,18-24,college-grad student,ME
+4707,M,<18,other,CA
+5162,M,25-34,technician-engineer,CA
+4731,M,25-34,technician-engineer,WA
+4127,M,50-55,technician-engineer,PA
+2649,M,25-34,self-employed,CO
+3707,F,18-24,other,FL
+5427,M,35-44,unemployed,NY
+221,F,25-34,other,CA
+370,M,18-24,technician-engineer,VA
+4444,F,25-34,programmer,CO
+1678,F,18-24,technician-engineer,OR
+3386,M,18-24,college-grad student,MN
+235,M,25-34,other,N/A
+285,F,35-44,other,CA
+2478,M,50-55,academic-educator,TN
+4845,F,25-34,academic-educator,MN
+1515,M,25-34,self-employed,MI
+3305,M,>56,writer,CA
+1941,M,35-44,technician-engineer,CA
+5988,M,25-34,scientist,CA
+4336,F,25-34,other,KY
+2085,M,18-24,other,CT
+4076,M,25-34,technician-engineer,MN
+2908,M,18-24,artist,OK
+5643,F,35-44,academic-educator,UT
+2064,M,35-44,academic-educator,MA
+995,F,18-24,college-grad student,HI
+1077,M,25-34,clerical-admin,IL
+2184,M,18-24,college-grad student,OH
+5737,M,45-49,scientist,CA
+3901,M,18-24,sales-marketing,AZ
+3058,M,18-24,programmer,MN
+815,M,25-34,college-grad student,TN
+5497,M,25-34,college-grad student,IL
+1330,M,>56,academic-educator,CA
+2073,F,18-24,college-grad student,NY
+4589,M,25-34,technician-engineer,MA
+5557,M,35-44,sales-marketing,FL
+4795,M,45-49,self-employed,NY
+1605,F,18-24,other,NC
+1557,F,18-24,college-grad student,NY
+5120,M,50-55,executive-managerial,CO
+5105,M,50-55,executive-managerial,PA
+4362,M,25-34,technician-engineer,AZ
+4433,M,25-34,other,OH
+1049,M,45-49,sales-marketing,CA
+2308,F,45-49,self-employed,MI
+2452,M,45-49,executive-managerial,MA
+754,M,35-44,executive-managerial,TN
+3906,M,50-55,technician-engineer,WI
+2336,M,35-44,tradesman-craftsman,NY
+94,M,25-34,technician-engineer,NC
+2388,M,>56,customer service,CT
+1629,M,18-24,college-grad student,NY
+5155,M,25-34,self-employed,FL
+2461,M,18-24,college-grad student,WA
+2114,M,18-24,tradesman-craftsman,MD
+5993,F,50-55,writer,IA
+3252,M,50-55,other,TX
+5685,M,25-34,technician-engineer,CA
+286,M,25-34,academic-educator,WI
+258,M,25-34,executive-managerial,MN
+1728,M,18-24,college-grad student,N/A
+4222,F,45-49,technician-engineer,MN
+2021,M,25-34,other,IL
+307,M,50-55,self-employed,CA
+2208,M,25-34,other,NY
+1490,M,50-55,executive-managerial,CA
+2732,M,45-49,technician-engineer,CA
+5701,M,25-34,executive-managerial,MN
+4544,M,>56,academic-educator,WI
+2434,M,25-34,college-grad student,VA
+3327,M,18-24,programmer,CA
+4805,M,35-44,academic-educator,OH
+3813,M,35-44,executive-managerial,CO
+604,M,45-49,technician-engineer,FL
+1239,F,25-34,writer,IA
+553,M,25-34,artist,CA
+1814,M,50-55,executive-managerial,NY
+4420,M,25-34,scientist,CA
+3247,M,35-44,scientist,CA
+2881,F,25-34,programmer,TX
+448,M,25-34,technician-engineer,CO
+4892,M,25-34,programmer,MN
+422,M,>56,technician-engineer,MN
+902,M,>56,other,OH
+5790,F,35-44,other,MN
+2103,M,35-44,programmer,NH
+3738,M,45-49,executive-managerial,N/A
+65,M,35-44,programmer,MN
+3172,M,18-24,programmer,MN
+299,M,25-34,programmer,OR
+3539,F,25-34,college-grad student,TX
+2115,M,35-44,technician-engineer,MA
+3452,M,25-34,sales-marketing,NJ
+4144,M,18-24,college-grad student,MA
+5285,M,18-24,college-grad student,MN
+3132,M,35-44,executive-managerial,WA
+2013,M,45-49,other,IL
+3467,M,25-34,sales-marketing,MN
+1596,F,18-24,customer service,MI
+3393,M,35-44,programmer,IL
+1779,M,18-24,academic-educator,TX
+4638,M,25-34,college-grad student,MN
+3780,M,<18,other,IN
+4094,M,25-34,technician-engineer,MI
+751,F,25-34,technician-engineer,OR
+1086,M,18-24,college-grad student,WA
+4944,M,50-55,technician-engineer,NY
+4081,M,18-24,programmer,PA
+1413,M,18-24,clerical-admin,WA
+5166,M,50-55,doctor-health care,KY
+777,M,18-24,unemployed,NM
+4722,M,35-44,programmer,MN
+2483,M,>56,retired,CA
+5708,M,35-44,academic-educator,CA
+656,F,45-49,self-employed,CA
+5877,M,18-24,programmer,MA
+555,M,18-24,college-grad student,WI
+5050,F,18-24,college-grad student,NY
+124,M,>56,executive-managerial,CA
+4821,M,18-24,unemployed,TX
+5881,M,35-44,technician-engineer,GA
+1057,M,45-49,technician-engineer,OK
+3673,M,25-34,artist,NY
+5722,M,25-34,writer,MI
+1269,F,>56,retired,N/A
+4694,M,>56,executive-managerial,KY
+98,F,35-44,executive-managerial,FL
+3688,M,18-24,doctor-health care,MD
+3130,M,25-34,executive-managerial,FL
+5362,M,35-44,retired,MO
+5194,M,25-34,executive-managerial,MN
+1817,M,35-44,academic-educator,WI
+2212,M,18-24,college-grad student,CO
+317,M,35-44,executive-managerial,TN
+4296,M,>56,doctor-health care,FL
+4898,M,25-34,academic-educator,NC
+2652,M,35-44,writer,UT
+4150,M,25-34,other,SC
+3982,M,>56,retired,CA
+5992,F,18-24,college-grad student,MD
+567,M,35-44,writer,N/A
+819,M,35-44,executive-managerial,IL
+1084,M,<18,unemployed,NH
+5261,M,35-44,programmer,NY
+2367,F,25-34,homemaker,MI
+1284,M,45-49,self-employed,FL
+5564,M,45-49,writer,MA
+4050,M,35-44,doctor-health care,IL
+1935,M,<18,K-12 student,CA
+2341,M,>56,academic-educator,NY
+5227,M,18-24,K-12 student,MO
+1729,M,25-34,executive-managerial,WI
+6003,F,45-49,technician-engineer,TX
+3260,M,25-34,college-grad student,OH
+1548,M,35-44,academic-educator,WI
+2700,M,25-34,executive-managerial,GA
+4662,F,18-24,college-grad student,UT
+107,M,45-49,tradesman-craftsman,MO
+4391,F,18-24,college-grad student,OH
+3471,M,18-24,college-grad student,CO
+2689,M,25-34,programmer,NC
+2167,F,25-34,doctor-health care,CA
+3598,M,>56,academic-educator,CA
+3355,M,25-34,academic-educator,N/A
+3324,M,35-44,technician-engineer,MI
+2692,F,18-24,college-grad student,NY
+2672,M,35-44,executive-managerial,ME
+718,M,18-24,artist,CA
+2261,M,25-34,customer service,FL
+5080,F,50-55,programmer,CA
+830,M,35-44,executive-managerial,IL
+1513,F,35-44,self-employed,CA
+3634,M,50-55,academic-educator,NM
+5343,F,25-34,homemaker,IL
+1247,M,35-44,other,CA
+2025,M,>56,retired,NH
+4914,F,25-34,academic-educator,MA
+338,M,35-44,executive-managerial,MN
+5659,M,25-34,other,MD
+4370,M,25-34,self-employed,NJ
+3526,M,35-44,artist,N/A
+4890,F,25-34,academic-educator,TX
+4985,M,35-44,other,SC
+3630,M,18-24,college-grad student,TX
+2714,M,18-24,college-grad student,HI
+4700,F,18-24,college-grad student,MI
+4789,M,35-44,artist,MN
+5114,F,<18,K-12 student,VA
+3415,M,35-44,executive-managerial,CO
+5241,F,25-34,college-grad student,MA
+4612,F,18-24,college-grad student,CA
+6040,M,25-34,doctor-health care,NY
+1021,M,35-44,other,CA
+4976,M,25-34,lawyer,MO
+3980,M,25-34,college-grad student,KS
+1917,M,18-24,K-12 student,CA
+5275,M,25-34,technician-engineer,IL
+2065,M,25-34,doctor-health care,IN
+4525,M,25-34,sales-marketing,NY
+715,M,18-24,other,WI
+5042,F,18-24,artist,MN
+2469,M,25-34,college-grad student,CA
+5536,M,25-34,self-employed,KS
+5827,M,25-34,artist,MN
+3525,F,18-24,college-grad student,MA
+4538,M,25-34,programmer,N/A
+2411,F,35-44,sales-marketing,MA
+2086,M,35-44,sales-marketing,MI
+4033,M,25-34,doctor-health care,OH
+4605,M,25-34,scientist,CA
+2690,M,25-34,executive-managerial,VA
+3897,M,>56,technician-engineer,CA
+5312,M,25-34,academic-educator,NY
+2955,M,35-44,sales-marketing,CA
+2710,M,35-44,technician-engineer,CA
+5506,F,18-24,sales-marketing,IL
+200,F,18-24,college-grad student,UT
+2575,M,35-44,executive-managerial,TX
+2010,M,18-24,college-grad student,CO
+194,F,<18,K-12 student,SC
+479,M,25-34,programmer,MN
+4961,M,25-34,executive-managerial,IN
+2146,M,18-24,artist,CA
+3352,M,35-44,other,GA
+5002,M,25-34,technician-engineer,CA
+3002,M,45-49,lawyer,CA
+4126,M,25-34,technician-engineer,WI
+3292,F,50-55,doctor-health care,TX
+1394,F,25-34,clerical-admin,CA
+1887,M,>56,scientist,CA
+3915,F,35-44,clerical-admin,LA
+1175,F,25-34,artist,CA
+4164,M,35-44,academic-educator,IA
+2162,F,<18,K-12 student,AL
+4277,M,35-44,self-employed,WA
+5647,M,18-24,academic-educator,IL
+5271,F,25-34,other,CA
+4481,M,25-34,tradesman-craftsman,WV
+2310,M,45-49,programmer,MI
+5474,M,25-34,programmer,DC
+483,M,18-24,programmer,MN
+5675,M,35-44,sales-marketing,GA
+781,M,18-24,college-grad student,CA
+3065,F,18-24,college-grad student,MI
+3389,M,18-24,other,NY
+1323,F,35-44,artist,NY
+5164,F,35-44,technician-engineer,CA
+2164,M,35-44,other,CA
+2018,M,35-44,self-employed,IN
+1448,F,25-34,clerical-admin,PA
+1126,M,>56,self-employed,NY
+2596,M,50-55,executive-managerial,MI
+1857,M,<18,K-12 student,CA
+5544,M,25-34,scientist,NJ
+4320,M,25-34,customer service,NV
+3155,M,25-34,executive-managerial,MN
+1864,M,35-44,executive-managerial,CA
+5541,M,>56,executive-managerial,CA
+283,M,25-34,other,NY
+1916,M,45-49,executive-managerial,CA
+4627,M,>56,academic-educator,OH
+3208,M,25-34,sales-marketing,GA
+2879,M,18-24,college-grad student,IL
+2609,F,50-55,programmer,MN
+2255,F,35-44,doctor-health care,OH
+273,M,18-24,college-grad student,MN
+3079,F,25-34,academic-educator,MN
+5207,M,25-34,other,WA
+2148,F,18-24,other,CO
+2362,M,25-34,sales-marketing,CA
+1645,F,18-24,homemaker,IL
+1146,F,18-24,self-employed,CO
+5875,M,25-34,college-grad student,PA
+1734,M,45-49,technician-engineer,CA
+3210,F,45-49,other,MA
+4701,M,45-49,technician-engineer,PA
+3366,M,35-44,sales-marketing,NJ
+603,F,25-34,doctor-health care,FL
+5849,M,35-44,technician-engineer,OR
+2510,M,25-34,executive-managerial,TN
+3290,M,25-34,sales-marketing,CA
+5492,M,18-24,college-grad student,MN
+5129,M,45-49,technician-engineer,KY
+3276,M,25-34,writer,MN
+472,M,35-44,other,MN
+1808,F,18-24,college-grad student,VA
+4432,M,25-34,programmer,MD
+6026,M,35-44,doctor-health care,NY
+2180,M,25-34,programmer,N/A
+3117,M,35-44,other,ID
+5604,M,35-44,scientist,MO
+54,M,50-55,academic-educator,MN
+2981,M,45-49,doctor-health care,IA
+2366,F,45-49,self-employed,MA
+456,M,35-44,other,MN
+3831,F,18-24,doctor-health care,UT
+2425,F,35-44,sales-marketing,OH
+1667,M,50-55,self-employed,WA
+3050,M,35-44,programmer,CA
+2049,F,50-55,other,NY
+3199,M,18-24,other,SD
+5749,M,25-34,artist,CA
+797,F,50-55,executive-managerial,VA
+1063,M,35-44,executive-managerial,IA
+3846,M,35-44,other,FL
+4862,M,25-34,other,CA
+547,M,35-44,programmer,TX
+5897,M,25-34,writer,MA
+5307,M,25-34,customer service,AZ
+3135,M,25-34,scientist,NY
+3286,F,35-44,executive-managerial,CO
+2369,M,35-44,sales-marketing,CT
+5429,F,25-34,academic-educator,MA
+4203,M,25-34,tradesman-craftsman,ND
+115,M,25-34,technician-engineer,NC
+5612,F,25-34,academic-educator,MA
+2053,M,45-49,lawyer,CT
+2858,F,<18,K-12 student,AR
+2249,M,25-34,customer service,IL
+3401,M,35-44,executive-managerial,TX
+4575,F,<18,K-12 student,NH
+3536,M,18-24,college-grad student,SD
+4322,F,50-55,doctor-health care,TX
+429,M,18-24,other,WI
+2998,F,25-34,academic-educator,OH
+1386,F,25-34,other,NJ
+250,M,35-44,self-employed,NY
+2603,M,25-34,technician-engineer,PA
+3076,M,35-44,technician-engineer,GA
+1308,M,<18,K-12 student,TX
+2516,F,45-49,doctor-health care,TN
+3603,F,35-44,executive-managerial,TX
+1690,M,35-44,self-employed,WA
+2551,M,25-34,programmer,WA
+1748,M,50-55,academic-educator,ME
+4542,M,35-44,other,CA
+1895,M,35-44,sales-marketing,NV
+3086,M,18-24,programmer,WA
+5916,M,50-55,writer,MI
+1226,M,18-24,writer,NJ
+4484,F,25-34,technician-engineer,CA
+4061,M,50-55,doctor-health care,FL
+2538,M,>56,retired,TN
+3488,M,45-49,technician-engineer,CO
+1357,M,45-49,other,FL
+1773,M,18-24,college-grad student,NJ
+776,F,25-34,clerical-admin,CA
+2830,M,35-44,executive-managerial,CA
+3133,M,18-24,college-grad student,N/A
+5024,F,45-49,academic-educator,NY
+4461,M,25-34,writer,CO
+2874,F,35-44,writer,DC
+5255,M,<18,K-12 student,MN
+3978,M,35-44,retired,TX
+3281,M,25-34,technician-engineer,TX
+1382,F,45-49,academic-educator,N/A
+318,F,>56,retired,MN
+800,F,35-44,programmer,AR
+2236,M,<18,K-12 student,HI
+3068,F,35-44,homemaker,KS
+160,M,35-44,executive-managerial,NY
+5203,F,45-49,doctor-health care,MA
+1446,M,35-44,programmer,NY
+1335,M,35-44,other,NY
+296,M,50-55,customer service,NV
+409,M,18-24,programmer,MN
+5502,M,25-34,artist,KS
+963,M,25-34,other,MI
+3271,F,35-44,other,CA
+5702,M,18-24,other,CA
+913,M,25-34,other,N/A
+5775,M,25-34,lawyer,NY
+3033,M,18-24,college-grad student,RI
+1783,M,18-24,college-grad student,NY
+5233,M,25-34,customer service,OR
+5599,M,35-44,executive-managerial,CA
+5693,F,25-34,college-grad student,CA
+2032,M,50-55,sales-marketing,OH
+1977,M,>56,doctor-health care,MA
+3328,M,>56,unemployed,N/A
+3913,M,18-24,technician-engineer,KY
+1580,F,18-24,college-grad student,TX
+458,M,50-55,self-employed,N/A
+4657,M,45-49,sales-marketing,MN
+5683,F,18-24,homemaker,CA
+1798,M,45-49,lawyer,VA
+3902,M,25-34,customer service,IN
+4416,M,18-24,college-grad student,MA
+5087,F,25-34,doctor-health care,PA
+1379,F,>56,retired,CA
+5787,M,25-34,writer,CA
+2523,M,25-34,technician-engineer,MI
+1697,F,18-24,college-grad student,WA
+3698,M,25-34,executive-managerial,WI
+1601,M,25-34,programmer,WY
+3672,M,35-44,customer service,NJ
+5598,M,18-24,college-grad student,NC
+3479,M,18-24,college-grad student,TX
+2323,M,35-44,clerical-admin,NY
+214,M,18-24,writer,CO
+536,M,25-34,writer,MA
+1829,M,25-34,self-employed,NJ
+3961,M,25-34,academic-educator,OH
+758,M,35-44,executive-managerial,PA
+1089,M,35-44,doctor-health care,TN
+2177,F,35-44,writer,CA
+2568,M,25-34,technician-engineer,N/A
+4593,F,45-49,academic-educator,OH
+1292,M,25-34,executive-managerial,CA
+4427,M,18-24,other,IA
+4725,M,35-44,customer service,N/A
+165,M,18-24,self-employed,WA
+2034,F,45-49,artist,MA
+4440,M,35-44,academic-educator,CO
+1233,F,45-49,writer,CA
+5372,M,25-34,college-grad student,NY
+1885,M,50-55,technician-engineer,CA
+5524,F,<18,K-12 student,WV
+3084,M,25-34,self-employed,MA
+1409,M,18-24,college-grad student,OR
+3259,F,18-24,college-grad student,CA
+837,M,>56,executive-managerial,NJ
+1997,M,25-34,other,UT
+2408,F,45-49,academic-educator,MA
+3279,M,45-49,scientist,CA
+1265,F,18-24,writer,MI
+1536,F,35-44,clerical-admin,WY
+634,F,<18,K-12 student,MI
+2094,M,35-44,artist,IL
+2782,F,18-24,college-grad student,MI
+1414,M,18-24,college-grad student,AZ
+5263,M,35-44,executive-managerial,KY
+1638,F,18-24,technician-engineer,CA
+708,M,25-34,other,TN
+566,M,25-34,technician-engineer,CA
+732,M,25-34,executive-managerial,NJ
+5169,F,50-55,college-grad student,WI
+4077,F,35-44,artist,VA
+1014,F,45-49,technician-engineer,NH
+4786,M,45-49,doctor-health care,VA
+1053,M,35-44,other,PA
+4635,M,18-24,college-grad student,CA
+1364,F,45-49,artist,OR
+1237,M,18-24,college-grad student,FL
+2117,M,>56,retired,MI
+3152,M,18-24,college-grad student,IL
+3395,M,25-34,executive-managerial,MA
+5009,F,45-49,self-employed,MO
+4089,M,25-34,executive-managerial,TX
+1362,M,35-44,programmer,TX
+1558,M,18-24,doctor-health care,IL
+3558,M,18-24,technician-engineer,KS
+4758,F,>56,retired,NH
+1000,F,25-34,doctor-health care,CA
+5205,M,25-34,academic-educator,RI
+5666,M,18-24,self-employed,NY
+2151,M,>56,retired,FL
+5216,M,18-24,artist,N/A
+3529,F,45-49,academic-educator,OR
+3258,M,45-49,doctor-health care,MA
+2496,M,50-55,academic-educator,TN
+2513,M,>56,academic-educator,TN
+4924,F,35-44,other,AK
+2397,F,35-44,lawyer,OH
+757,M,25-34,programmer,OR
+2756,M,18-24,college-grad student,OR
+2389,M,25-34,self-employed,TN
+5909,M,18-24,writer,CA
+5062,M,50-55,self-employed,MO
+2965,F,35-44,college-grad student,MI
+4896,M,35-44,doctor-health care,UT
+1660,F,25-34,artist,CA
+4368,M,18-24,technician-engineer,VA
+1604,M,25-34,lawyer,IA
+5782,F,35-44,other,MN
+979,M,<18,K-12 student,MI
+3812,M,35-44,technician-engineer,TX
+427,M,35-44,programmer,MN
+3319,F,>56,retired,CA
+2792,M,18-24,college-grad student,MA
+2334,F,>56,executive-managerial,MA
+3095,F,25-34,clerical-admin,CT
+5567,M,50-55,clerical-admin,TX
+5367,M,18-24,college-grad student,MN
+5031,F,25-34,college-grad student,NV
+1632,M,25-34,self-employed,CA
+5123,M,50-55,programmer,FL
+3351,F,18-24,customer service,CA
+5041,F,45-49,doctor-health care,IL
+4215,M,25-34,executive-managerial,TX
+1042,M,35-44,customer service,CA
+4567,M,18-24,college-grad student,WA
+2326,M,18-24,college-grad student,MA
+4470,M,35-44,programmer,PA
+5098,M,50-55,executive-managerial,PA
+1523,M,25-34,technician-engineer,CA
+3659,M,18-24,college-grad student,SC
+1760,F,25-34,clerical-admin,CA
+5349,F,50-55,artist,OR
+4154,M,25-34,academic-educator,SC
+5898,F,18-24,other,MA
+1248,F,35-44,writer,CA
+2382,M,50-55,retired,MT
+122,F,18-24,college-grad student,CA
+5028,M,25-34,programmer,CA
+2145,M,18-24,K-12 student,FL
+4398,F,18-24,college-grad student,OH
+231,M,25-34,clerical-admin,MN
+2307,M,25-34,technician-engineer,MA
+5742,F,25-34,programmer,MD
+144,M,25-34,technician-engineer,SC
+5756,F,<18,K-12 student,WA
+79,F,45-49,other,WA
+3478,M,25-34,executive-managerial,NY
+4384,M,25-34,other,OH
+481,M,45-49,executive-managerial,MN
+986,F,>56,other,PA
+4460,M,25-34,sales-marketing,LA
+1072,F,35-44,executive-managerial,NJ
+2816,M,25-34,executive-managerial,IL
+1080,M,>56,executive-managerial,NJ
+941,M,18-24,writer,OH
+4396,M,18-24,academic-educator,OH
+2251,M,35-44,sales-marketing,IL
+3114,M,18-24,customer service,MO
+802,M,25-34,self-employed,VA
+4120,M,25-34,self-employed,LA
+2663,F,25-34,college-grad student,MA
+5962,M,35-44,executive-managerial,CO
+322,M,>56,technician-engineer,MN
+3604,F,<18,K-12 student,RI
+179,M,25-34,other,MA
+5990,F,25-34,writer,CA
+5444,F,18-24,college-grad student,MN
+4343,M,25-34,programmer,TX
+1370,M,35-44,artist,CA
+1800,M,18-24,college-grad student,LA
+4519,M,50-55,executive-managerial,TN
+4329,F,25-34,sales-marketing,TX
+2823,M,25-34,college-grad student,MA
+3862,M,25-34,technician-engineer,NY
+5622,M,35-44,scientist,MA
+4037,M,50-55,self-employed,CO
+3565,M,25-34,tradesman-craftsman,WI
+35,M,45-49,academic-educator,MA
+545,M,35-44,technician-engineer,MA
+1480,M,25-34,writer,CA
+4090,M,>56,doctor-health care,TX
+3347,F,35-44,executive-managerial,CA
+3469,M,45-49,technician-engineer,MA
+2099,F,18-24,other,MI
+1839,M,18-24,college-grad student,NJ
+69,F,25-34,academic-educator,MA
+1846,M,45-49,programmer,CA
+452,M,50-55,technician-engineer,MN
+5391,M,25-34,executive-managerial,NY
+6035,F,25-34,academic-educator,TX
+2677,F,35-44,executive-managerial,KS
+624,M,25-34,academic-educator,TX
+2466,M,25-34,scientist,CA
+5388,F,18-24,college-grad student,NY
+2926,F,18-24,artist,MN
+3052,M,35-44,programmer,NY
+2530,M,18-24,other,KY
+5796,F,25-34,executive-managerial,NY
+1688,F,18-24,college-grad student,FL
+1657,F,45-49,other,NY
+5632,F,18-24,college-grad student,TX
+5418,F,25-34,other,WI
+4981,M,50-55,academic-educator,MN
+3429,F,25-34,executive-managerial,CA
+546,F,25-34,other,TN
+2612,F,45-49,clerical-admin,CA
+4380,F,25-34,academic-educator,TN
+4504,F,25-34,other,MO
+446,F,50-55,other,MN
+2650,M,45-49,executive-managerial,TX
+2079,M,<18,K-12 student,OH
+88,F,45-49,academic-educator,MA
+476,M,35-44,other,MN
+3945,F,45-49,academic-educator,HI
+2963,F,18-24,college-grad student,MI
+3014,M,35-44,executive-managerial,N/A
+3009,F,35-44,clerical-admin,MN
+1815,M,<18,academic-educator,GA
+512,M,35-44,other,MN
+377,M,25-34,technician-engineer,MN
+3458,M,45-49,other,MA
+705,M,25-34,college-grad student,MI
+1438,M,18-24,artist,MD
+3663,F,35-44,homemaker,PA
+195,M,25-34,programmer,NY
+1274,M,45-49,executive-managerial,TN
+3776,F,25-34,college-grad student,IA
+1291,F,35-44,other,NY
+424,M,25-34,technician-engineer,MN
+228,M,25-34,scientist,MN
+1377,M,35-44,self-employed,MO
+4281,M,>56,retired,CA
+1986,M,50-55,retired,CA
+514,M,25-34,artist,MN
+1123,M,50-55,other,CA
+119,F,<18,K-12 student,TX
+5960,F,45-49,other,LA
+2188,F,18-24,unemployed,IL
+1802,M,18-24,college-grad student,VA
+3638,M,25-34,artist,CA
+3045,M,45-49,academic-educator,CA
+3741,M,25-34,other,HI
+3911,M,18-24,other,CA
+5795,M,25-34,academic-educator,CA
+5082,M,35-44,academic-educator,VA
+335,M,35-44,tradesman-craftsman,MN
+1102,M,18-24,academic-educator,MN
+5719,M,>56,executive-managerial,MD
+726,F,25-34,homemaker,TX
+219,F,25-34,college-grad student,MN
+689,F,50-55,other,MI
+2520,F,>56,artist,CA
+4028,M,25-34,college-grad student,MA
+1801,F,25-34,doctor-health care,WI
+4604,M,25-34,scientist,NY
+4869,F,45-49,doctor-health care,ME
+4112,M,45-49,tradesman-craftsman,IN
+3595,M,25-34,other,AZ
+654,M,50-55,executive-managerial,TX
+4299,F,25-34,artist,OH
+4227,M,25-34,unemployed,N/A
+2453,M,25-34,executive-managerial,MN
+1066,M,45-49,programmer,MA
+5941,F,25-34,other,IL
+3859,M,25-34,other,NV
+5963,M,25-34,scientist,MA
+851,M,18-24,college-grad student,TX
+1220,M,<18,K-12 student,MI
+1712,M,25-34,other,OK
+1254,F,18-24,academic-educator,MA
+5578,F,18-24,academic-educator,MA
+1527,M,18-24,K-12 student,TX
+1218,M,>56,scientist,NY
+1850,M,18-24,customer service,NY
+669,M,25-34,technician-engineer,GA
+3843,F,<18,K-12 student,FL
+3900,F,25-34,sales-marketing,MN
+1466,M,18-24,college-grad student,SC
+3413,F,25-34,technician-engineer,CA
+4675,F,18-24,college-grad student,NC
+4367,M,35-44,other,IA
+2765,M,50-55,executive-managerial,MA
+4736,M,18-24,writer,CA
+3636,M,25-34,other,CT
+3108,M,50-55,doctor-health care,VA
+581,M,50-55,sales-marketing,OK
+3700,M,25-34,sales-marketing,NY
+5561,F,25-34,clerical-admin,OK
+96,F,25-34,self-employed,TX
+3433,M,18-24,programmer,MN
+3357,M,25-34,tradesman-craftsman,MO
+5059,M,45-49,self-employed,VA
+3684,M,25-34,technician-engineer,ID
+5299,M,25-34,artist,OH
+3147,M,25-34,sales-marketing,MI
+5953,M,<18,K-12 student,MD
+1653,M,18-24,other,CA
+2066,F,25-34,doctor-health care,WI
+4095,M,25-34,other,NY
+2985,M,18-24,college-grad student,OR
+1614,M,35-44,other,CA
+2653,M,25-34,executive-managerial,CA
+2898,M,18-24,college-grad student,MA
+4823,M,18-24,college-grad student,IN
+276,M,45-49,self-employed,MA
+4528,M,25-34,sales-marketing,NC
+5101,M,25-34,other,CA
+2859,M,18-24,academic-educator,CA
+2956,M,25-34,programmer,IA
+2166,M,<18,K-12 student,WA
+4955,M,>56,retired,MN
+5654,M,25-34,college-grad student,CA
+4658,M,25-34,college-grad student,WA
+4801,M,25-34,college-grad student,GA
+5939,F,45-49,scientist,TX
+4079,M,35-44,technician-engineer,WV
+5824,M,18-24,programmer,PA
+4487,M,25-34,executive-managerial,MA
+1257,F,18-24,sales-marketing,UT
+3644,F,25-34,lawyer,WI
+161,M,45-49,self-employed,N/A
+1891,M,45-49,academic-educator,CA
+5301,M,25-34,technician-engineer,PR
+5029,M,25-34,college-grad student,LA
+1235,F,25-34,executive-managerial,CA
+5425,M,18-24,college-grad student,WI
+6000,M,45-49,technician-engineer,GA
+4877,M,25-34,college-grad student,CA
+3884,M,18-24,college-grad student,TX
+917,M,50-55,doctor-health care,CA
+3174,F,18-24,sales-marketing,NY
+3745,F,25-34,homemaker,MI
+263,F,25-34,executive-managerial,VA
+1032,M,50-55,self-employed,PA
+5152,F,25-34,college-grad student,OH
+5793,M,25-34,artist,CA
+925,F,35-44,clerical-admin,MI
+3140,F,25-34,college-grad student,TX
+3069,M,18-24,college-grad student,OR
+3142,M,25-34,writer,AZ
+1355,F,45-49,writer,ME
+3791,M,50-55,tradesman-craftsman,IL
+1616,M,25-34,other,PA
+2832,M,25-34,technician-engineer,DC
+2228,M,25-34,programmer,IL
+4264,M,45-49,academic-educator,IL
+3453,M,35-44,executive-managerial,NJ
+3032,M,25-34,other,IN
+949,M,50-55,technician-engineer,HI
+2160,F,18-24,unemployed,IN
+3515,M,35-44,clerical-admin,MN
+1650,M,25-34,unemployed,CA
+3765,F,50-55,clerical-admin,FL
+1119,M,35-44,academic-educator,CA
+4286,M,35-44,technician-engineer,NY
+4306,M,45-49,executive-managerial,KS
+3085,M,25-34,college-grad student,TX
+3822,M,45-49,writer,WA
+4448,M,25-34,sales-marketing,CT
+5773,M,25-34,doctor-health care,NV
+2192,F,25-34,other,NC
+901,F,>56,other,CA
+2209,M,35-44,executive-managerial,NY
+2595,M,18-24,college-grad student,PA
+2091,F,35-44,writer,MI
+232,M,25-34,writer,MN
+822,F,25-34,academic-educator,NJ
+3951,F,18-24,college-grad student,IL
+3993,M,25-34,other,VA
+3360,F,25-34,other,CA
+3214,F,>56,executive-managerial,NY
+5173,M,<18,K-12 student,IL
+5635,F,35-44,homemaker,CT
+3030,M,35-44,academic-educator,MI
+4571,M,35-44,executive-managerial,MD
+563,M,25-34,college-grad student,WI
+1951,F,18-24,college-grad student,CA
+2543,F,35-44,other,KY
+6010,M,35-44,other,TX
+5616,M,45-49,academic-educator,NJ
+3886,M,35-44,executive-managerial,CA
+3789,F,25-34,other,CA
+2399,M,35-44,technician-engineer,NY
+1375,F,45-49,customer service,CA
+1598,M,35-44,retired,TX
+4480,M,25-34,other,CA
+4918,F,18-24,programmer,UT
+2059,M,35-44,other,OH
+2850,M,18-24,writer,CA
+5983,M,25-34,clerical-admin,SC
+5395,M,50-55,academic-educator,NY
+856,F,45-49,doctor-health care,MA
+3365,M,50-55,technician-engineer,VA
+1041,M,45-49,artist,CA
+443,M,25-34,clerical-admin,MN
+502,M,35-44,doctor-health care,MN
+3126,M,25-34,artist,FL
+638,M,25-34,doctor-health care,TX
+2597,F,50-55,other,CA
+1990,M,25-34,executive-managerial,AZ
+2045,F,<18,other,VA
+385,M,25-34,doctor-health care,NE
+2333,M,50-55,doctor-health care,NY
+1856,M,>56,executive-managerial,CA
+1191,F,35-44,other,WA
+92,F,18-24,college-grad student,OH
+4594,M,35-44,self-employed,MN
+2598,M,25-34,technician-engineer,MD
+3562,F,25-34,doctor-health care,FL
+5879,M,35-44,executive-managerial,MA
+2820,F,35-44,other,MA
+1050,M,25-34,academic-educator,OR
+5017,M,35-44,programmer,CA
+4678,M,35-44,artist,CA
+2870,M,50-55,tradesman-craftsman,CA
+889,M,45-49,writer,NY
+327,M,35-44,tradesman-craftsman,MN
+473,F,18-24,college-grad student,MN
+5548,F,18-24,college-grad student,MA
+2029,F,25-34,programmer,NY
+5320,F,18-24,customer service,OH
+2709,F,25-34,other,IL
+1806,M,18-24,college-grad student,VA
+3335,M,25-34,other,NY
+130,M,35-44,technician-engineer,IA
+1786,M,45-49,academic-educator,AZ
+993,M,25-34,other,OH
+4008,M,18-24,academic-educator,CA
+2190,F,25-34,scientist,NC
+664,M,35-44,tradesman-craftsman,OK
+2815,M,35-44,technician-engineer,IL
+1046,M,>56,tradesman-craftsman,N/A
+1625,M,45-49,other,ME
+4204,M,35-44,executive-managerial,CT
+2887,M,25-34,clerical-admin,KS
+1212,F,50-55,academic-educator,IL
+2372,F,45-49,executive-managerial,MA
+4107,F,25-34,other,VA
+4943,F,50-55,other,MN
+1525,F,25-34,self-employed,CA
+266,M,35-44,lawyer,TX
+3960,F,35-44,sales-marketing,MN
+4443,M,>56,artist,CA
+1771,M,25-34,technician-engineer,TX
+1740,M,>56,academic-educator,N/A
+5214,F,35-44,homemaker,NJ
+5030,M,18-24,academic-educator,LA
+3446,M,25-34,executive-managerial,GA
+3720,M,45-49,executive-managerial,OH
+3954,M,18-24,college-grad student,FL
+5079,M,25-34,college-grad student,LA
+1559,M,35-44,farmer,NY
+259,M,25-34,academic-educator,IL
+1584,M,25-34,unemployed,OH
+5131,F,25-34,academic-educator,TX
+3570,M,35-44,programmer,PA
+4654,M,35-44,writer,CA
+2499,M,50-55,other,AL
+5682,M,18-24,other,N/A
+835,M,>56,other,CA
+4360,F,25-34,homemaker,WA
+5069,F,>56,other,CA
+2718,F,25-34,college-grad student,HI
+4572,F,<18,K-12 student,PA
+3943,F,35-44,executive-managerial,WA
+1877,F,45-49,writer,CA
+5236,M,25-34,sales-marketing,IN
+5142,M,25-34,academic-educator,CA
+530,M,25-34,artist,NY
+1996,M,35-44,other,AZ
+462,M,18-24,self-employed,MN
+4159,F,50-55,homemaker,MA
+4040,M,25-34,writer,TX
+4684,F,25-34,other,ME
+1219,M,25-34,executive-managerial,NY
+41,F,18-24,college-grad student,PA
+3994,M,50-55,executive-managerial,OH
+3621,M,18-24,college-grad student,FL
+4868,M,35-44,technician-engineer,NH
+2306,F,18-24,college-grad student,MA
+3303,M,>56,technician-engineer,CT
+1110,F,>56,doctor-health care,TX
+828,M,18-24,college-grad student,LA
+4565,M,35-44,sales-marketing,CA
+3923,M,35-44,artist,CA
+1922,F,25-34,executive-managerial,CA
+3064,M,35-44,technician-engineer,CA
+1928,M,<18,K-12 student,CA
+1899,F,45-49,doctor-health care,MA
+4838,M,45-49,academic-educator,MI
+2730,M,35-44,lawyer,MI
+3836,F,50-55,farmer,UT
+2645,M,25-34,executive-managerial,IL
+5071,F,25-34,executive-managerial,TX
+3640,M,35-44,executive-managerial,MA
+145,M,18-24,college-grad student,PA
+306,M,18-24,other,WI
+1020,M,18-24,writer,CA
+939,F,25-34,writer,N/A
+966,M,>56,artist,CA
+597,M,35-44,programmer,CO
+2383,F,25-34,sales-marketing,CA
+3499,M,25-34,clerical-admin,TX
+2678,M,25-34,doctor-health care,MI
+3407,F,45-49,customer service,IL
+2144,M,18-24,other,IN
+1664,F,18-24,college-grad student,TX
+3418,F,18-24,clerical-admin,VA
+3599,M,25-34,self-employed,OR
+500,F,18-24,artist,MN
+3463,M,25-34,scientist,CO
+2101,M,25-34,self-employed,MI
+1639,M,25-34,technician-engineer,CA
+5851,F,18-24,writer,MN
+499,F,25-34,academic-educator,MN
+2432,M,25-34,college-grad student,VA
+2917,M,25-34,other,IL
+1241,M,<18,K-12 student,NY
+1142,M,18-24,academic-educator,OH
+3176,M,25-34,technician-engineer,CA
+3234,F,<18,other,CA
+4825,M,25-34,technician-engineer,CA
+5247,F,<18,K-12 student,MA
+2194,M,25-34,technician-engineer,OH
+1012,F,35-44,academic-educator,GA
+5302,F,<18,K-12 student,MA
+4458,F,25-34,college-grad student,N/A
+482,M,25-34,sales-marketing,MN
+3195,M,18-24,college-grad student,CO
+5917,F,50-55,academic-educator,CA
+3893,M,25-34,doctor-health care,TX
+1578,M,18-24,college-grad student,VA
+272,M,18-24,other,CO
+1816,F,35-44,homemaker,MN
+6,F,50-55,homemaker,MN
+1270,M,25-34,doctor-health care,NY
+5435,M,45-49,tradesman-craftsman,MA
+5189,F,45-49,executive-managerial,CO
+4663,M,25-34,college-grad student,CA
+2197,F,25-34,academic-educator,NC
+207,M,25-34,programmer,CA
+5436,M,18-24,college-grad student,CA
+1703,M,18-24,scientist,TX
+3739,M,>56,lawyer,MI
+2087,M,25-34,other,N/A
+4065,F,45-49,customer service,MI
+5991,F,35-44,writer,CA
+586,M,35-44,sales-marketing,WI
+3494,M,25-34,academic-educator,NC
+2175,M,25-34,college-grad student,WA
+1741,M,35-44,executive-managerial,CA
+154,M,50-55,writer,CA
+4769,M,25-34,academic-educator,MA
+3887,M,18-24,college-grad student,CO
+2622,F,35-44,doctor-health care,NC
+4041,M,18-24,clerical-admin,MI
+3241,F,50-55,other,DC
+968,M,50-55,programmer,CA
+1552,M,45-49,writer,NY
+5107,F,45-49,other,NJ
+2789,M,18-24,college-grad student,CA
+3320,M,25-34,academic-educator,MN
+4876,F,35-44,technician-engineer,WA
+4007,M,35-44,programmer,NM
+2698,F,25-34,artist,NY
+5242,M,25-34,academic-educator,NY
+2352,M,50-55,retired,KY
+3654,M,25-34,technician-engineer,CA
+348,M,50-55,executive-managerial,MN
+1989,M,50-55,doctor-health care,MA
+847,F,25-34,executive-managerial,CO
+5256,M,25-34,self-employed,GA
+5258,M,35-44,college-grad student,ND
+15,M,25-34,executive-managerial,VA
+1317,M,45-49,executive-managerial,WA
+4754,F,18-24,other,CA
+5410,F,45-49,artist,MD
+2030,M,25-34,college-grad student,TX
+1721,M,18-24,unemployed,LA
+2699,F,>56,retired,OK
+4080,M,35-44,academic-educator,MI
+5972,F,25-34,writer,MN
+2193,M,<18,K-12 student,KY
+5633,M,50-55,academic-educator,WA
+3502,F,18-24,executive-managerial,CO
+2487,M,45-49,executive-managerial,MN
+5531,M,50-55,technician-engineer,AE
+3878,M,35-44,self-employed,VA
+3280,M,25-34,executive-managerial,FL
+5980,M,>56,academic-educator,KY
+4950,M,25-34,self-employed,MN
+5627,M,25-34,other,NJ
+281,F,35-44,other,CA
+1022,M,25-34,clerical-admin,PR
+3325,F,35-44,sales-marketing,MS
+4705,F,18-24,other,TX
+2624,F,35-44,other,OH
+2364,F,>56,homemaker,NY
+5595,M,25-34,writer,CA
+5386,M,25-34,sales-marketing,IL
+4505,M,50-55,executive-managerial,MS
+1243,M,35-44,scientist,CA
+1956,M,35-44,other,OH
+3554,M,25-34,scientist,PA
+3101,M,18-24,scientist,CA
+5473,M,25-34,academic-educator,N/A
+5457,M,18-24,programmer,MN
+5767,M,25-34,artist,TX
+2131,M,25-34,other,MA
+5634,M,25-34,sales-marketing,MN
+2003,M,<18,K-12 student,CO
+4979,M,35-44,artist,MN
+878,M,18-24,artist,MA
+4405,M,25-34,sales-marketing,WA
+2565,M,35-44,customer service,FL
+1791,M,18-24,college-grad student,PA
+6016,M,45-49,academic-educator,TN
+4824,M,25-34,executive-managerial,MN
+141,M,35-44,retired,IL
+681,M,35-44,executive-managerial,GA
+1176,M,>56,academic-educator,OH
+5257,F,25-34,artist,NY
+3894,M,35-44,self-employed,MA
+849,M,25-34,clerical-admin,TX
+874,M,45-49,scientist,WV
+4885,M,>56,academic-educator,VA
+1835,M,25-34,unemployed,NY
+1544,M,25-34,programmer,MO
+3750,F,18-24,college-grad student,CA
+3875,M,25-34,other,KS
+2891,F,18-24,college-grad student,KS
+1216,M,25-34,artist,CA
+5389,M,45-49,executive-managerial,MA
+2198,F,35-44,homemaker,IN
+1876,M,25-34,programmer,CA
+2996,M,18-24,other,MO
+1366,M,<18,K-12 student,NV
+3331,F,25-34,executive-managerial,CT
+2507,M,25-34,college-grad student,CA
+5862,F,25-34,homemaker,TX
+5170,M,18-24,college-grad student,MO
+3421,M,45-49,executive-managerial,CA
+4691,F,45-49,technician-engineer,MN
+738,M,18-24,technician-engineer,WA
+5969,M,45-49,retired,TX
+5713,F,50-55,executive-managerial,CA
+3577,F,>56,other,N/A
+3049,F,50-55,other,MA
+2581,M,25-34,lawyer,IL
+3934,M,25-34,other,OH
+4513,M,>56,other,IL
+420,M,35-44,academic-educator,MN
+4000,M,35-44,executive-managerial,NJ
+3850,M,18-24,clerical-admin,CA
+5412,M,25-34,programmer,OR
+5741,M,50-55,retired,IL
+4209,M,>56,other,TN
+151,F,25-34,writer,AZ
+1326,F,25-34,other,WA
+6022,M,25-34,technician-engineer,SD
+2504,M,25-34,executive-managerial,WA
+647,M,35-44,programmer,AZ
+3131,F,25-34,artist,CA
+5279,F,25-34,sales-marketing,MN
+869,M,18-24,writer,CA
+291,M,35-44,programmer,MN
+4088,M,25-34,clerical-admin,TX
+3490,M,25-34,other,OK
+809,M,25-34,technician-engineer,LA
+4856,M,25-34,executive-managerial,CA
+6029,F,25-34,academic-educator,VA
+3522,M,18-24,other,OR
+988,M,50-55,lawyer,MI
+5611,F,35-44,executive-managerial,ME
+3182,M,25-34,programmer,NY
+2912,F,18-24,college-grad student,MI
+1572,F,25-34,clerical-admin,MA
+2794,M,25-34,artist,DC
+5253,F,>56,retired,RI
+4677,M,50-55,doctor-health care,VT
+162,F,18-24,college-grad student,CA
+3497,F,35-44,artist,CA
+3106,M,25-34,other,FL
+5761,M,25-34,writer,CA
+629,F,<18,K-12 student,MI
+3055,F,25-34,clerical-admin,WA
+2892,M,25-34,college-grad student,UT
+4114,M,35-44,sales-marketing,MI
+5277,M,25-34,writer,CA
+1847,M,18-24,college-grad student,IL
+865,M,35-44,academic-educator,CA
+5270,M,25-34,programmer,NM
+4096,M,25-34,scientist,IL
+82,M,25-34,technician-engineer,MI
+4475,M,18-24,college-grad student,NY
+534,M,25-34,scientist,MN
+2541,F,35-44,customer service,MI
+663,F,25-34,executive-managerial,NY
+17,M,50-55,academic-educator,CA
+3041,M,25-34,college-grad student,OR
+5371,M,25-34,lawyer,MN
+4652,F,25-34,executive-managerial,CA
+5310,F,>56,academic-educator,IL
+933,M,45-49,academic-educator,MI
+3222,M,35-44,executive-managerial,NY
+5624,M,25-34,executive-managerial,PA
+4561,F,25-34,homemaker,UT
+4510,M,45-49,executive-managerial,CA
+3509,M,18-24,college-grad student,MA
+23,M,35-44,other,CA
+118,M,35-44,technician-engineer,VA
+2149,M,25-34,other,IL
+1689,M,35-44,customer service,WA
+3680,F,25-34,academic-educator,CA
+747,M,18-24,college-grad student,WA
+5370,M,25-34,programmer,WA
+6017,F,35-44,executive-managerial,MD
+2525,F,35-44,academic-educator,TN
+2994,M,35-44,customer service,CA
+1368,F,25-34,clerical-admin,IA
+5208,M,25-34,college-grad student,MN
+2442,M,35-44,technician-engineer,AL
+3939,M,45-49,executive-managerial,CA
+5106,F,35-44,academic-educator,PA
+5755,F,35-44,artist,TX
+5093,M,50-55,executive-managerial,PA
+3646,M,35-44,writer,WA
+859,M,25-34,programmer,NY
+5738,M,25-34,programmer,MN
+3306,M,45-49,sales-marketing,IL
+4196,M,35-44,sales-marketing,NY
+4841,M,25-34,programmer,CA
+720,M,18-24,other,MN
+5596,M,35-44,programmer,VA
+4900,M,25-34,writer,FL
+2877,M,35-44,academic-educator,N/A
+912,F,35-44,artist,CA
+2129,M,25-34,customer service,ME
+5461,M,50-55,other,CA
+380,M,25-34,artist,CA
+2472,M,25-34,tradesman-craftsman,TN
+4814,M,18-24,sales-marketing,CO
+5441,M,50-55,executive-managerial,CA
+2763,F,18-24,college-grad student,MI
+3559,M,18-24,college-grad student,NY
+100,M,35-44,technician-engineer,CA
+4230,M,>56,retired,FL
+861,M,25-34,executive-managerial,TN
+1081,M,18-24,college-grad student,N/A
+1803,M,25-34,artist,IA
+5799,M,25-34,customer service,CO
+3675,M,35-44,executive-managerial,N/A
+5910,F,45-49,writer,NY
+3346,M,35-44,executive-managerial,WI
+2517,F,35-44,homemaker,WI
+1398,F,>56,self-employed,CA
+1464,M,35-44,programmer,TX
+1450,M,18-24,college-grad student,CA
+2572,M,35-44,sales-marketing,N/A
+1209,M,35-44,executive-managerial,CA
+4381,M,25-34,college-grad student,MO
+2651,M,>56,sales-marketing,NY
+3990,M,25-34,self-employed,PA
+4211,M,45-49,customer service,TX
+1244,M,25-34,college-grad student,VA
+4338,F,18-24,customer service,IN
+892,M,35-44,other,TX
+66,M,25-34,tradesman-craftsman,SD
+4184,M,50-55,executive-managerial,FL
+4272,M,45-49,technician-engineer,TN
+2725,M,35-44,executive-managerial,GA
+1870,M,>56,retired,AZ
+4276,F,45-49,other,HI
+1631,F,50-55,other,CA
+466,M,25-34,customer service,MN
+1655,M,18-24,college-grad student,CA
+477,M,35-44,sales-marketing,MN
+4873,M,>56,lawyer,NY
+4704,M,18-24,writer,MA
+3553,M,35-44,self-employed,N/A
+2250,M,18-24,unemployed,IL
+2518,M,25-34,executive-managerial,NY
+5751,F,<18,other,NY
+2288,M,<18,K-12 student,NY
+2576,M,18-24,technician-engineer,OR
+3619,M,50-55,self-employed,OR
+515,M,25-34,academic-educator,MN
+435,M,25-34,executive-managerial,MN
+4740,F,25-34,clerical-admin,TN
+494,F,35-44,other,PA
+712,M,25-34,other,CA
+1937,M,25-34,lawyer,CA
+5245,F,45-49,academic-educator,NC
+58,M,25-34,artist,GA
+752,F,25-34,clerical-admin,OR
+1203,F,25-34,academic-educator,CT
+1221,M,18-24,other,PA
+3563,M,25-34,artist,FL
+4310,M,25-34,college-grad student,SD
+3251,M,35-44,technician-engineer,PA
+5560,F,35-44,technician-engineer,WA
+4526,M,25-34,writer,NY
+3358,F,25-34,academic-educator,CA
+684,M,25-34,college-grad student,NC
+4124,M,25-34,tradesman-craftsman,N/A
+5868,M,35-44,sales-marketing,AZ
+1984,M,18-24,K-12 student,CA
+1514,M,18-24,college-grad student,OR
+4025,F,>56,doctor-health care,TX
+4442,M,50-55,scientist,CA
+3185,M,18-24,executive-managerial,MN
+4960,M,>56,academic-educator,MN
+5061,F,18-24,unemployed,VT
+2246,M,25-34,other,IL
+4248,M,25-34,college-grad student,WV
+2583,M,35-44,executive-managerial,PA
+267,M,45-49,programmer,MN
+3696,M,35-44,executive-managerial,PA
+373,F,25-34,artist,MN
+1116,M,25-34,scientist,CA
+1083,M,>56,other,NC
+1353,M,<18,K-12 student,CA
+5018,F,>56,programmer,CA
+1681,M,18-24,college-grad student,TX
+1948,M,<18,K-12 student,CA
+910,F,50-55,other,WA
+5222,M,25-34,programmer,CA
+2257,F,18-24,college-grad student,MT
+3136,F,25-34,college-grad student,AR
+1932,M,25-34,executive-managerial,CA
+528,F,18-24,technician-engineer,ID
+774,M,18-24,college-grad student,VA
+1860,M,>56,self-employed,CA
+345,M,25-34,programmer,CA
+4763,M,>56,lawyer,ME
+5112,M,35-44,retired,NV
+2299,F,18-24,K-12 student,NY
+2793,M,35-44,executive-managerial,LA
+611,M,35-44,other,MD
+5845,F,25-34,clerical-admin,TX
+5547,F,18-24,college-grad student,NY
+4493,F,<18,K-12 student,NY
+4974,M,35-44,writer,CA
+947,M,18-24,other,MD
+3516,M,18-24,college-grad student,KY
+3044,M,35-44,self-employed,TX
+26,M,25-34,executive-managerial,VA
+1869,M,45-49,sales-marketing,CA
+5483,F,25-34,doctor-health care,PA
+3787,F,25-34,other,CA
+4836,F,45-49,self-employed,ME
+3402,M,35-44,writer,GA
+3722,M,25-34,tradesman-craftsman,CO
+2327,M,18-24,K-12 student,MI
+3008,M,18-24,college-grad student,CA
+3283,M,35-44,self-employed,KS
+860,M,18-24,other,TX
+1360,M,25-34,writer,NY
+319,F,50-55,doctor-health care,FL
+2657,F,<18,K-12 student,IN
+1852,M,25-34,programmer,NY
+646,M,35-44,executive-managerial,NJ
+2532,F,>56,retired,TN
+3733,M,18-24,college-grad student,MA
+3093,F,45-49,writer,NV
+4762,F,25-34,sales-marketing,CA
+618,M,25-34,other,OK
+5471,M,18-24,executive-managerial,NY
+4385,M,25-34,college-grad student,CA
+5655,F,25-34,doctor-health care,TX
+2502,M,>56,retired,MI
+2661,M,>56,retired,PA
+2647,F,35-44,lawyer,PA
+2139,F,50-55,clerical-admin,FL
+2170,F,50-55,self-employed,WA
+922,M,>56,self-employed,MI
+5054,M,35-44,artist,MD
+4109,M,35-44,clerical-admin,OR
+3979,F,50-55,homemaker,MT
+4072,M,50-55,doctor-health care,CA
+1961,F,50-55,clerical-admin,CA
+1736,M,>56,farmer,PR
+4485,M,25-34,college-grad student,MO
+5319,M,18-24,technician-engineer,CA
+3116,M,25-34,programmer,WA
+1307,M,>56,retired,TX
+6001,F,25-34,executive-managerial,CA
+1925,M,50-55,executive-managerial,CA
+1288,F,35-44,unemployed,CA
+2287,M,>56,other,CT
+2031,M,35-44,writer,IL
+4174,F,35-44,clerical-admin,VA
+2664,M,35-44,executive-managerial,IA
+2855,M,25-34,college-grad student,CA
+1976,M,35-44,customer service,ND
+2577,M,25-34,executive-managerial,TX
+1476,F,18-24,other,CA
+3695,M,25-34,artist,WA
+1792,F,25-34,artist,WI
+2704,M,>56,retired,AR
+619,F,18-24,academic-educator,CA
+2002,F,>56,retired,N/A
+5160,F,18-24,college-grad student,CA
+5058,M,>56,technician-engineer,UT
+3852,M,50-55,self-employed,IL
+3051,M,18-24,technician-engineer,CA
+3368,M,25-34,sales-marketing,MN
+3192,M,18-24,college-grad student,RI
+4093,M,25-34,college-grad student,LA
+2433,M,25-34,college-grad student,VA
+5479,M,35-44,academic-educator,IA
+4456,F,35-44,artist,MI
+218,M,35-44,sales-marketing,CA
+518,F,35-44,programmer,TX
+1406,M,25-34,college-grad student,CA
+3880,M,25-34,executive-managerial,WI
+4759,F,50-55,other,ME
+5686,M,>56,self-employed,IL
+5976,F,25-34,academic-educator,WV
+1264,M,25-34,academic-educator,WI
+5366,M,18-24,programmer,CA
+1861,M,50-55,self-employed,CA
+3956,M,25-34,other,N/A
+1560,F,25-34,clerical-admin,AZ
+138,M,18-24,writer,VA
+391,M,45-49,lawyer,VA
+2585,M,45-49,scientist,N/A
+2715,F,50-55,college-grad student,HI
+873,M,>56,doctor-health care,PA
+2925,F,25-34,college-grad student,VA
+2039,M,50-55,self-employed,IL
+4176,M,45-49,executive-managerial,PA
+957,M,35-44,academic-educator,SC
+2752,M,25-34,scientist,TX
+3300,M,35-44,customer service,PA
+1271,F,45-49,doctor-health care,WI
+187,F,45-49,academic-educator,CA
+4395,M,50-55,doctor-health care,OH
+2505,M,25-34,executive-managerial,MN
+4631,M,18-24,college-grad student,CA
+5374,M,35-44,executive-managerial,TN
+3777,M,18-24,college-grad student,VA
+3655,F,25-34,executive-managerial,CA
+3267,M,25-34,college-grad student,TX
+3611,M,25-34,artist,UT
+3588,M,25-34,artist,CA
+1621,M,25-34,college-grad student,NY
+1530,M,25-34,college-grad student,WI
+3374,M,35-44,customer service,MO
+434,F,45-49,clerical-admin,WA
+4057,M,35-44,doctor-health care,PA
+4957,M,25-34,artist,MI
+2675,M,35-44,tradesman-craftsman,WA
+5334,F,>56,retired,IN
+5570,M,25-34,academic-educator,NJ
+5383,M,35-44,academic-educator,MN
+4886,F,35-44,technician-engineer,CA
+1026,F,45-49,other,PA
+3211,M,50-55,self-employed,DC
+3981,F,45-49,other,OR
+3807,F,35-44,unemployed,FL
+3916,M,25-34,college-grad student,MA
+3246,F,35-44,academic-educator,AZ
+2681,F,25-34,college-grad student,MI
+706,M,35-44,writer,TX
+4530,F,35-44,academic-educator,CA
+1675,F,25-34,doctor-health care,OR
+1301,F,25-34,artist,NY
+1332,M,25-34,executive-managerial,RI
+3517,M,18-24,programmer,WI
+340,F,25-34,clerical-admin,NC
+2888,M,25-34,sales-marketing,MN
+5911,F,25-34,technician-engineer,CO
+3783,M,25-34,executive-managerial,OR
+277,F,35-44,academic-educator,WA
+1185,F,35-44,academic-educator,OR
+4171,M,>56,self-employed,TX
+5840,F,<18,other,OH
+2346,F,<18,K-12 student,MI
+1756,F,25-34,academic-educator,TX
+5855,M,50-55,executive-managerial,PA
+5375,M,25-34,other,MA
+5132,M,35-44,executive-managerial,TX
+1805,M,18-24,college-grad student,VA
+4948,M,45-49,artist,CA
+1831,M,18-24,college-grad student,WI
+1879,M,25-34,college-grad student,SC
+4039,M,25-34,self-employed,OR
+4642,M,25-34,other,OH
+3868,M,18-24,programmer,OK
+3505,F,25-34,scientist,MN
+4335,M,35-44,other,OK
+4287,M,25-34,executive-managerial,AL
+845,F,18-24,other,DC
+1738,M,35-44,self-employed,GA
+3723,M,25-34,sales-marketing,WI
+5239,M,35-44,executive-managerial,NJ
+5874,M,25-34,college-grad student,MA
+224,F,18-24,college-grad student,NY
+2659,M,35-44,sales-marketing,MA
+992,F,35-44,clerical-admin,MA
+4954,M,45-49,other,CA
+765,M,25-34,technician-engineer,OK
+4165,F,25-34,sales-marketing,CA
+731,M,45-49,clerical-admin,MN
+2339,F,>56,clerical-admin,IA
+199,M,18-24,college-grad student,ID
+2727,M,25-34,lawyer,IL
+4026,M,25-34,executive-managerial,NE
+5830,F,18-24,college-grad student,TX
+4716,F,25-34,self-employed,MA
+3229,F,>56,academic-educator,CA
+811,M,50-55,other,CA
+1542,M,18-24,technician-engineer,NY
+5422,M,50-55,executive-managerial,CA
+5525,F,<18,K-12 student,MN
+999,M,25-34,scientist,IL
+222,M,25-34,academic-educator,MN
+3104,M,18-24,technician-engineer,MA
+4200,M,45-49,executive-managerial,NY
+2356,F,50-55,self-employed,NY
+1129,M,35-44,technician-engineer,VA
+3383,M,>56,self-employed,NH
+1918,F,45-49,doctor-health care,CA
+4535,M,18-24,unemployed,PA
+4345,F,25-34,sales-marketing,OH
+3571,M,18-24,college-grad student,NY
+3752,F,18-24,academic-educator,AZ
+4482,F,35-44,academic-educator,CA
+5568,M,18-24,college-grad student,MI
+2531,F,45-49,executive-managerial,IA
+4285,M,35-44,other,IL
+2486,M,18-24,programmer,WA
+3701,M,35-44,academic-educator,CA
+5920,F,25-34,academic-educator,VT
+1230,M,25-34,lawyer,CA
+1019,M,35-44,academic-educator,IL
+2580,F,45-49,academic-educator,NY
+5986,F,>56,academic-educator,MA
+565,M,25-34,self-employed,OH
+3074,M,25-34,other,VA
+2742,M,25-34,technician-engineer,AL
+4623,M,25-34,self-employed,VA
+2036,F,25-34,sales-marketing,CA
+897,M,25-34,doctor-health care,CA
+2055,M,50-55,lawyer,MI
+1096,M,<18,K-12 student,CO
+952,M,>56,self-employed,OR
+2347,M,35-44,academic-educator,MI
+5907,M,25-34,artist,NY
+3353,M,35-44,technician-engineer,CA
+867,M,45-49,programmer,CA
+1359,M,35-44,academic-educator,NY
+3876,M,25-34,other,NY
+2812,M,25-34,technician-engineer,IL
+5138,M,25-34,technician-engineer,AL
+3766,F,18-24,academic-educator,OH
+1410,M,50-55,executive-managerial,CA
+1489,F,35-44,artist,IL
+2636,M,18-24,programmer,TX
+707,M,35-44,executive-managerial,PA
+2456,M,25-34,customer service,MI
+3321,M,35-44,academic-educator,CA
+3991,M,25-34,executive-managerial,FL
+1440,M,35-44,programmer,CA
+2896,M,18-24,sales-marketing,IL
+4616,M,25-34,writer,NY
+1174,F,18-24,self-employed,CA
+1794,M,25-34,lawyer,MD
+2271,M,50-55,sales-marketing,NY
+741,M,25-34,customer service,OH
+311,M,18-24,college-grad student,GA
+5338,M,25-34,technician-engineer,NC
+487,F,35-44,technician-engineer,MN
+5589,F,25-34,other,ME
+5350,M,18-24,customer service,MN
+3011,M,25-34,academic-educator,NY
+126,M,18-24,homemaker,WA
+3847,M,25-34,executive-managerial,NY
+2988,F,18-24,doctor-health care,CA
+3088,F,25-34,college-grad student,NM
+1761,M,35-44,other,AR
+4554,F,25-34,homemaker,MI
+105,M,45-49,programmer,CA
+580,M,<18,K-12 student,NJ
+3775,M,35-44,programmer,NY
+5511,M,45-49,academic-educator,CA
+4073,M,25-34,doctor-health care,LA
+702,M,35-44,executive-managerial,CA
+4998,F,18-24,college-grad student,MI
+3489,M,18-24,college-grad student,IL
+5022,M,35-44,executive-managerial,CA
+3354,M,25-34,executive-managerial,PA
+3670,M,45-49,sales-marketing,MN
+169,M,25-34,executive-managerial,MN
+698,M,18-24,college-grad student,TX
+5183,F,18-24,writer,OH
+428,F,18-24,college-grad student,MN
+5193,M,35-44,programmer,NY
+4548,M,18-24,artist,NC
+5037,M,35-44,programmer,NY
+2309,F,45-49,other,NJ
+4753,M,>56,academic-educator,NH
+5489,M,18-24,executive-managerial,CA
+1400,M,25-34,executive-managerial,CA
+2544,M,45-49,academic-educator,IA
+5577,M,50-55,academic-educator,NY
+4499,M,25-34,doctor-health care,IL
+5639,F,18-24,college-grad student,IL
+4136,M,50-55,self-employed,IL
+5057,M,50-55,executive-managerial,UT
+418,F,25-34,clerical-admin,WI
+5464,M,35-44,executive-managerial,TX
+4118,M,25-34,clerical-admin,CA
+2216,F,25-34,writer,IL
+3658,F,25-34,executive-managerial,NJ
+3877,M,45-49,academic-educator,FL
+2186,M,18-24,customer service,KY
+110,M,25-34,artist,CA
+227,M,35-44,writer,CA
+3141,M,25-34,sales-marketing,N/A
+4643,M,25-34,other,WA
+673,M,25-34,writer,NY
+633,M,25-34,technician-engineer,CA
+1524,M,18-24,college-grad student,CT
+1208,M,25-34,other,NY
+1101,M,35-44,academic-educator,CT
+1117,M,18-24,sales-marketing,NY
+1709,M,25-34,other,OK
+3889,M,45-49,doctor-health care,KS
+1182,M,<18,K-12 student,CA
+1245,M,25-34,technician-engineer,CO
+907,F,45-49,doctor-health care,CA
+4431,M,<18,sales-marketing,CO
+4566,M,35-44,technician-engineer,PA
+2846,F,18-24,college-grad student,CA
+2438,M,35-44,academic-educator,VA
+1595,M,35-44,academic-educator,N/A
+5630,M,35-44,technician-engineer,CT
+2305,M,50-55,writer,MI
+4928,F,25-34,clerical-admin,CA
+4148,F,35-44,executive-managerial,MN
+1900,M,>56,programmer,CA
+3338,M,45-49,self-employed,NJ
+2923,M,35-44,programmer,OH
+850,M,35-44,other,IL
+2864,F,35-44,clerical-admin,NY
+5638,M,18-24,academic-educator,FL
+3372,M,>56,retired,MN
+2481,M,35-44,sales-marketing,NH
+2370,M,50-55,academic-educator,NY
+5944,F,18-24,K-12 student,NC
+1260,M,25-34,technician-engineer,NC
+1205,F,>56,other,IN
+685,M,25-34,college-grad student,NC
+844,M,25-34,other,CA
+4153,M,50-55,technician-engineer,PA
+1517,M,18-24,other,NY
+1471,M,25-34,technician-engineer,NY
+568,F,50-55,technician-engineer,DE
+3747,M,45-49,retired,NV
+3998,M,45-49,other,OK
+426,M,18-24,college-grad student,MN
+31,M,>56,executive-managerial,CT
+4915,M,25-34,programmer,CA
+4622,M,25-34,programmer,MN
+4986,M,18-24,programmer,MN
+5825,F,25-34,college-grad student,OH
+658,F,25-34,other,NY
+3974,M,35-44,other,GA
+5914,M,35-44,artist,CA
+5507,M,45-49,executive-managerial,OH
+4311,M,50-55,retired,NE
+4387,F,18-24,college-grad student,MO
+142,M,25-34,executive-managerial,NY
+3727,M,35-44,executive-managerial,OK
+1983,M,25-34,sales-marketing,CA
+766,F,25-34,executive-managerial,CA
+3712,M,25-34,technician-engineer,IL
+1649,M,18-24,unemployed,WA
+4049,M,45-49,lawyer,FL
+5813,M,25-34,executive-managerial,CA
+2878,F,50-55,writer,NM
+5781,M,25-34,artist,NY
+4645,F,50-55,doctor-health care,MI
+2446,M,18-24,executive-managerial,NY
+5657,M,50-55,sales-marketing,CA
+1431,M,>56,doctor-health care,CA
+4534,M,18-24,college-grad student,AR
+1668,M,35-44,artist,CA
+4598,F,35-44,clerical-admin,MI
+556,F,25-34,homemaker,TN
+1774,M,25-34,technician-engineer,WA
+4809,F,50-55,college-grad student,MD
+19,M,<18,K-12 student,MI
+1702,M,18-24,K-12 student,OR
+3647,M,25-34,executive-managerial,CO
+1283,F,18-24,academic-educator,CA
+4650,M,25-34,executive-managerial,GA
+5770,M,25-34,other,CO
+5252,M,25-34,writer,IL
+529,M,35-44,programmer,CA
+5288,M,>56,retired,CA
+1408,M,25-34,other,CA
+5671,M,25-34,academic-educator,N/A
+2379,M,18-24,tradesman-craftsman,NY
+5603,M,50-55,executive-managerial,MA
+1888,M,35-44,programmer,CA
+1240,F,18-24,sales-marketing,MA
+3579,M,18-24,other,FL
+2470,M,35-44,tradesman-craftsman,IA
+5636,M,25-34,executive-managerial,WA
+1640,M,35-44,technician-engineer,CA
+1742,M,25-34,scientist,NJ
+5712,M,35-44,academic-educator,CA
+2711,F,25-34,college-grad student,MA
+5999,F,25-34,academic-educator,MN
+2272,M,25-34,other,AR
+2350,M,18-24,college-grad student,OH
+5341,F,25-34,clerical-admin,AZ
+4488,M,35-44,executive-managerial,AR
+3602,M,25-34,programmer,MN
+667,M,25-34,tradesman-craftsman,WA
+3912,M,25-34,college-grad student,PA
+5273,M,>56,writer,CA
+4702,M,25-34,lawyer,NY
+1134,M,18-24,writer,PA
+3245,M,18-24,artist,NJ
+4228,M,50-55,tradesman-craftsman,MD
+1427,M,25-34,programmer,MD
+1177,F,25-34,technician-engineer,MA
+1995,M,25-34,academic-educator,AZ
+560,M,45-49,scientist,CO
+1737,M,35-44,writer,IN
+3967,F,18-24,artist,NY
+1105,M,35-44,doctor-health care,MI
+5919,M,18-24,other,IN
+4332,F,25-34,clerical-admin,IL
+4760,M,35-44,technician-engineer,CT
+2852,M,25-34,programmer,WA
+958,M,35-44,artist,MI
+5750,M,18-24,academic-educator,ME
+4624,M,25-34,programmer,UT
+4765,F,35-44,self-employed,NH
+4010,M,25-34,sales-marketing,CA
+4860,M,25-34,artist,IL
+4054,M,35-44,clerical-admin,NE
+5965,M,25-34,technician-engineer,TX
+95,M,45-49,other,WA
+1927,M,35-44,executive-managerial,CA
+2954,M,18-24,artist,NY
+2423,F,45-49,homemaker,MA
+2253,F,50-55,other,IN
+2107,M,25-34,academic-educator,VA
+3212,F,25-34,technician-engineer,NY
+3725,M,18-24,college-grad student,FL
+5798,M,35-44,other,CO
+3472,M,25-34,doctor-health care,FL
+1282,M,50-55,academic-educator,WA
+5831,M,25-34,academic-educator,CA
+309,M,25-34,college-grad student,PA
+5496,M,25-34,executive-managerial,CA
+4083,M,>56,sales-marketing,CA
+2354,M,35-44,lawyer,CA
+4323,M,18-24,college-grad student,WY
+4135,M,<18,K-12 student,IN
+806,M,35-44,other,FL
+5759,F,25-34,academic-educator,NJ
+451,M,>56,retired,WI
+5680,M,50-55,writer,CA
+4972,M,35-44,other,CA
+2000,M,18-24,college-grad student,OH
+4110,F,45-49,executive-managerial,KY
+2943,M,35-44,programmer,CA
+182,M,18-24,college-grad student,NH
+5136,M,25-34,programmer,CA
+2680,M,25-34,programmer,MA
+4794,F,35-44,other,IN
+3007,M,35-44,other,FL
+5873,M,18-24,programmer,NY
+5526,F,35-44,artist,NC
+5684,M,18-24,self-employed,CA
+356,M,>56,writer,MN
+3087,F,<18,academic-educator,CA
+703,F,>56,academic-educator,OH
+2076,M,18-24,college-grad student,NY
+4632,M,25-34,other,WA
+3613,M,25-34,other,TN
+5089,F,35-44,self-employed,TX
+5356,M,45-49,other,TX
+1540,M,45-49,other,OR
+2409,F,35-44,homemaker,CT
+5975,M,25-34,sales-marketing,MN
+3962,F,>56,other,WA
+1619,M,50-55,clerical-admin,MI
+2787,M,25-34,college-grad student,IL
+4152,M,25-34,sales-marketing,OK
+2123,F,35-44,other,NY
+3493,M,25-34,technician-engineer,IL
+1622,M,18-24,college-grad student,WI
+5857,F,45-49,artist,OH
+359,M,25-34,technician-engineer,MN
+279,M,25-34,sales-marketing,CA
+5083,M,25-34,college-grad student,PA
+4105,M,50-55,executive-managerial,FL
+1872,M,50-55,writer,CA
+610,M,25-34,college-grad student,TX
+3574,F,35-44,doctor-health care,FL
+4224,F,45-49,academic-educator,MI
+4457,M,35-44,sales-marketing,CA
+4752,F,18-24,college-grad student,CA
+4895,F,25-34,clerical-admin,IA
+886,F,>56,other,NY
+4608,F,25-34,other,MA
+2521,M,35-44,technician-engineer,MI
+2019,M,50-55,academic-educator,NC
+5378,M,35-44,tradesman-craftsman,NY
+4486,M,35-44,farmer,WA
+5084,M,18-24,college-grad student,NY
+3420,F,25-34,executive-managerial,MI
+1563,F,<18,K-12 student,NM
+5345,F,25-34,technician-engineer,CO
+2701,M,45-49,academic-educator,IL
+605,F,18-24,college-grad student,OH
+2391,M,50-55,tradesman-craftsman,NY
+5068,M,35-44,executive-managerial,PA
+1966,M,25-34,writer,CA
+1278,M,18-24,college-grad student,WA
+2993,M,18-24,unemployed,NY
+394,M,18-24,other,MN
+3918,M,25-34,tradesman-craftsman,GA
+2786,M,25-34,college-grad student,IL
+4591,M,25-34,scientist,MA
+310,F,18-24,college-grad student,GA
+220,M,25-34,programmer,VA
+3556,M,25-34,technician-engineer,NH
+1094,F,18-24,other,CA
+4983,F,45-49,self-employed,MN
+5318,M,18-24,technician-engineer,WA
+5274,M,25-34,other,IL
+4852,M,35-44,other,KY
+4261,F,35-44,doctor-health care,NJ
+4309,M,25-34,other,AL
+5118,M,<18,K-12 student,CA
+1286,M,35-44,technician-engineer,CA
+5860,F,25-34,college-grad student,N/A
+5695,F,35-44,clerical-admin,MD
+2740,M,45-49,technician-engineer,VA
+460,M,45-49,tradesman-craftsman,MN
+926,M,<18,K-12 student,NJ
+2676,M,>56,writer,TX
+5922,M,>56,clerical-admin,CA
+3950,M,25-34,college-grad student,IL
+5572,F,25-34,college-grad student,MO
+6033,M,50-55,retired,TX
+1256,M,25-34,writer,NY
+425,M,25-34,programmer,MN
+651,M,35-44,executive-managerial,MD
+450,M,45-49,academic-educator,VA
+1963,F,50-55,homemaker,CA
+495,M,18-24,K-12 student,MN
+661,M,45-49,academic-educator,NY
+2720,M,35-44,other,N/A
+1462,M,35-44,self-employed,CA
+4134,F,45-49,programmer,AZ
+768,M,25-34,programmer,PA
+1862,M,50-55,sales-marketing,CA
+2795,M,50-55,retired,FL
+4970,F,25-34,programmer,CA
+1395,M,25-34,artist,NJ
+733,M,35-44,self-employed,GA
+4502,M,50-55,other,MA
+1973,M,25-34,academic-educator,VA
+3016,M,18-24,programmer,TX
+3544,F,25-34,college-grad student,CA
+1277,F,18-24,other,CT
+5998,M,18-24,college-grad student,IL
+2153,M,18-24,self-employed,OR
+5859,M,25-34,executive-managerial,NV
+1140,F,45-49,artist,OK
+4423,M,18-24,college-grad student,IA
+3340,M,45-49,self-employed,MI
+5833,F,35-44,other,TX
+630,F,35-44,sales-marketing,CO
+5373,M,18-24,programmer,MN
+3756,M,18-24,programmer,WI
+5140,M,25-34,doctor-health care,AL
+584,F,25-34,other,CA
+4342,M,25-34,other,KS
+3835,M,25-34,executive-managerial,KY
+5033,F,>56,retired,IL
+2871,F,25-34,sales-marketing,WA
+2224,M,25-34,programmer,IL
+4887,M,18-24,artist,PA
+4737,M,35-44,self-employed,PA
+682,M,25-34,college-grad student,NC
+5076,M,25-34,clerical-admin,PA
+4973,F,>56,artist,N/A
+2427,F,25-34,sales-marketing,CA
+2554,M,25-34,academic-educator,OR
+2618,F,18-24,college-grad student,WI
+3501,F,35-44,executive-managerial,GA
+532,M,25-34,executive-managerial,CA
+1543,M,25-34,lawyer,NY
+2944,F,18-24,college-grad student,MI
+5985,F,18-24,college-grad student,N/A
+961,M,18-24,K-12 student,NY
+1337,M,>56,technician-engineer,OR
+4503,M,>56,academic-educator,AZ
+5716,M,<18,K-12 student,NH
+4636,M,18-24,artist,NY
+1015,M,35-44,clerical-admin,NY
+2632,M,>56,other,OH
+4827,M,35-44,other,NY
+1921,M,>56,programmer,CA
+2256,F,45-49,scientist,MT
+349,M,<18,K-12 student,NJ
+1411,M,35-44,academic-educator,NJ
+3143,F,50-55,self-employed,CA
+543,M,25-34,customer service,MN
+4606,F,<18,K-12 student,CA
+5504,M,45-49,executive-managerial,N/A
+1279,M,35-44,academic-educator,WA
+4910,M,18-24,programmer,UT
+4990,F,25-34,college-grad student,MN
+5377,F,18-24,clerical-admin,NY
+4,M,45-49,executive-managerial,MA
+1329,M,18-24,sales-marketing,IL
+613,M,35-44,writer,NY
+5197,F,>56,clerical-admin,TX
+2365,M,50-55,executive-managerial,NY
+251,M,>56,technician-engineer,MN
+24,F,25-34,executive-managerial,NY
+5099,M,18-24,other,MA
+5316,M,18-24,college-grad student,MN
+4882,M,45-49,lawyer,NH
+2667,F,35-44,doctor-health care,NJ
+4923,M,45-49,tradesman-craftsman,AK
+4830,M,<18,K-12 student,MN
+1399,M,18-24,technician-engineer,NY
+5785,F,25-34,executive-managerial,IL
+387,F,35-44,executive-managerial,MN
+5398,M,>56,technician-engineer,LA
+204,M,25-34,executive-managerial,CA
+56,M,35-44,writer,IL
+1082,M,45-49,executive-managerial,MI
+1809,F,25-34,sales-marketing,NY
+5401,F,18-24,academic-educator,DC
+4816,F,45-49,doctor-health care,ME
+4471,M,25-34,doctor-health care,CA
+3716,M,18-24,programmer,AL
+4231,F,50-55,tradesman-craftsman,MD
+2179,F,25-34,other,NC
+2281,M,45-49,lawyer,MI
+3816,F,25-34,clerical-admin,CA
+5254,M,18-24,college-grad student,FL
+5809,M,25-34,executive-managerial,TN
+3330,F,35-44,academic-educator,IN
+4615,M,25-34,technician-engineer,IL
+3220,M,35-44,executive-managerial,WI
+4962,M,25-34,doctor-health care,MN
+2757,M,25-34,artist,NY
+2686,M,25-34,other,AZ
+4151,M,45-49,writer,OH
+5726,M,25-34,academic-educator,TX
+2037,M,>56,sales-marketing,MA
+4359,M,18-24,college-grad student,FL
+1840,M,25-34,programmer,NY
+4301,M,35-44,lawyer,TN
+4004,M,50-55,other,MD
+1144,M,25-34,executive-managerial,CA
+1901,M,50-55,executive-managerial,CA
+1156,F,50-55,artist,FL
+559,F,25-34,executive-managerial,IL
+1198,M,<18,K-12 student,MI
+4698,F,25-34,doctor-health care,MN
+5900,M,25-34,executive-managerial,IL
+4003,M,>56,retired,IN
+3465,M,25-34,sales-marketing,OH
+3294,M,18-24,college-grad student,TX
+1025,M,25-34,self-employed,FL
+3867,M,35-44,clerical-admin,OH
+5772,M,35-44,executive-managerial,PA
+5984,M,25-34,academic-educator,IL
+4523,M,18-24,artist,MN
+4383,F,18-24,college-grad student,CA
+301,M,18-24,college-grad student,IL
+2976,M,18-24,writer,AZ
+5704,F,18-24,college-grad student,CA
+2921,M,50-55,academic-educator,WI
+2447,M,25-34,sales-marketing,NH
+2215,F,25-34,other,CA
+1511,M,35-44,programmer,NJ
+2313,F,50-55,doctor-health care,N/A
+5182,F,35-44,executive-managerial,MN
+1223,M,25-34,artist,IL
+4397,M,18-24,college-grad student,OH
+5580,M,45-49,executive-managerial,MA
+4881,M,45-49,self-employed,MN
+2332,M,>56,sales-marketing,MA
+3437,F,25-34,other,TN
+4912,F,50-55,writer,WA
+5540,M,35-44,academic-educator,PA
+1727,M,35-44,self-employed,IA
+2779,M,35-44,executive-managerial,NY
+2394,M,35-44,doctor-health care,TN
+3866,M,45-49,sales-marketing,MO
+1419,F,25-34,academic-educator,CA
+5011,M,18-24,college-grad student,MO
+2044,F,45-49,other,MI
+192,M,18-24,academic-educator,NY
+793,F,35-44,sales-marketing,TN
+4104,M,18-24,self-employed,KY
+1052,F,35-44,artist,TX
+4512,M,25-34,academic-educator,PA
+1874,M,45-49,executive-managerial,CA
+2291,M,45-49,academic-educator,NY
+5351,F,45-49,academic-educator,AZ
+911,M,50-55,other,WA
+234,M,35-44,executive-managerial,MS
+5964,M,18-24,customer service,OR
+1859,F,25-34,college-grad student,KS
+2015,M,18-24,college-grad student,MA
+2328,M,>56,executive-managerial,NY
+2644,M,18-24,scientist,OH
+2586,M,25-34,writer,IN
+2623,M,>56,academic-educator,GA
+5946,F,>56,academic-educator,MN
+1297,M,25-34,executive-managerial,CA
+5,M,25-34,writer,MN
+1172,F,25-34,other,IL
+2639,F,25-34,doctor-health care,CO
+400,F,18-24,clerical-admin,MN
+2230,F,45-49,academic-educator,IL
+5331,M,35-44,sales-marketing,CT
+3581,M,18-24,academic-educator,SD
+4246,F,35-44,executive-managerial,MI
+1929,F,<18,K-12 student,CA
+357,M,18-24,other,WA
+12,M,25-34,programmer,FL
+4717,M,45-49,technician-engineer,MI
+3895,F,35-44,other,MD
+3042,M,>56,academic-educator,MI
+4511,M,35-44,executive-managerial,IL
+5468,M,25-34,programmer,CA
+1673,M,<18,K-12 student,N/A
+4603,F,35-44,artist,FL
+788,M,25-34,other,TN
+4721,M,35-44,lawyer,CA
+3555,M,>56,executive-managerial,MN
+5908,M,25-34,college-grad student,DE
+175,F,25-34,artist,CA
+5500,F,35-44,writer,NY
+3844,M,18-24,college-grad student,OK
+4848,F,35-44,doctor-health care,WI
+1971,F,25-34,sales-marketing,CO
+3810,M,50-55,executive-managerial,DC
+716,M,18-24,college-grad student,WA
+2780,M,25-34,technician-engineer,CA
+9,M,25-34,technician-engineer,IL
+4160,M,35-44,writer,NY
+1731,F,18-24,other,CA
+2886,M,18-24,college-grad student,IL
+4035,M,18-24,college-grad student,OH
+3968,M,25-34,artist,RI
+5248,F,45-49,sales-marketing,VA
+2567,M,25-34,other,CT
+3542,M,25-34,scientist,NY
+2204,M,>56,clerical-admin,CA
+4829,M,25-34,other,DC
+2273,M,25-34,doctor-health care,VA
+4621,M,25-34,college-grad student,CA
+3244,F,18-24,college-grad student,CA
+4036,M,25-34,academic-educator,IN
+1842,M,18-24,college-grad student,WI
+934,F,35-44,executive-managerial,OR
+1163,M,<18,K-12 student,LA
+5494,F,35-44,technician-engineer,CA
+5337,F,35-44,clerical-admin,N/A
+4400,F,18-24,college-grad student,OH
+5445,M,25-34,other,OH
+226,M,35-44,academic-educator,CA
+589,M,18-24,artist,CA
+2468,M,50-55,academic-educator,OH
+627,M,50-55,artist,OR
+3719,M,25-34,academic-educator,MS
+3442,M,18-24,programmer,MD
+2728,M,35-44,programmer,NC
+3685,M,25-34,customer service,N/A
+1217,M,25-34,programmer,CA
+626,M,18-24,college-grad student,TX
+1315,M,35-44,executive-managerial,TX
+2654,F,35-44,homemaker,MI
+607,M,25-34,other,OH
+3404,M,25-34,farmer,CA
+1826,M,45-49,lawyer,MI
+622,M,25-34,other,CA
+4772,M,>56,technician-engineer,NH
+5415,F,25-34,executive-managerial,NH
+3740,M,18-24,customer service,MN
+4312,M,25-34,tradesman-craftsman,TX
+3864,M,50-55,writer,SC
+2796,M,25-34,sales-marketing,CA
+1570,M,18-24,technician-engineer,TX
+4788,M,35-44,executive-managerial,AZ
+13,M,45-49,academic-educator,CA
+1320,M,25-34,college-grad student,VA
+1954,M,25-34,self-employed,CA
+3674,M,25-34,writer,SC
+4247,M,25-34,college-grad student,WY
+5163,M,45-49,doctor-health care,WI
+83,F,25-34,artist,CA
+171,F,50-55,technician-engineer,MN
+1098,M,35-44,executive-managerial,CA
+1196,F,18-24,sales-marketing,VA
+1367,M,25-34,programmer,WI
+3334,M,35-44,other,AE
+2805,M,>56,unemployed,CT
+4121,M,45-49,executive-managerial,NJ
+1202,M,35-44,programmer,OR
+3715,M,18-24,customer service,MN
+3436,M,35-44,other,WA
+4637,F,35-44,homemaker,MI
+890,M,18-24,college-grad student,CA
+5097,M,>56,self-employed,PA
+2343,F,45-49,academic-educator,MA
+650,M,25-34,technician-engineer,MI
+432,M,45-49,self-employed,MN
+4274,F,45-49,academic-educator,ME
+2340,M,35-44,artist,MI
+3024,M,35-44,technician-engineer,NY
+5003,M,35-44,programmer,MI
+3758,F,35-44,customer service,MA
+1149,M,25-34,programmer,WA
+753,M,<18,K-12 student,KY
+2804,F,35-44,other,IN
+3337,M,25-34,college-grad student,OR
+2421,M,35-44,executive-managerial,OH
+3326,M,45-49,executive-managerial,MO
+2199,M,<18,K-12 student,IL
+690,M,25-34,programmer,CA
+1757,M,25-34,college-grad student,TX
+4583,M,50-55,academic-educator,MI
+1027,M,18-24,college-grad student,TX
+152,M,18-24,college-grad student,MI
+4501,M,25-34,technician-engineer,CA
+2606,M,50-55,executive-managerial,FL
+3838,F,25-34,sales-marketing,NY
+821,M,18-24,artist,NY
+1402,M,18-24,college-grad student,CA
+1912,M,25-34,college-grad student,CA
+134,M,25-34,other,KS
+2488,F,45-49,artist,GA
+140,F,35-44,academic-educator,MN
+2806,M,<18,K-12 student,PA
+2802,M,35-44,writer,NY
+1090,M,25-34,executive-managerial,CA
+2092,M,>56,academic-educator,MI
+1958,F,25-34,academic-educator,PA
+2865,F,25-34,doctor-health care,MD
+639,M,45-49,technician-engineer,AZ
+954,F,25-34,other,MD
+6019,M,25-34,other,NY
+3380,M,50-55,other,MD
+5856,F,25-34,executive-managerial,TX
+2778,M,>56,retired,CA
+1197,M,35-44,academic-educator,OH
+4953,M,35-44,programmer,MN
+4319,M,35-44,executive-managerial,OH
+3567,M,25-34,sales-marketing,WI
+2235,M,<18,K-12 student,IN
+5771,M,25-34,executive-managerial,CA
+5180,M,35-44,lawyer,AZ
+4352,M,18-24,college-grad student,NY
+2768,M,25-34,technician-engineer,CA
+1461,F,45-49,other,CA
+1088,F,<18,K-12 student,WA
+1468,M,<18,sales-marketing,PA
+1430,M,18-24,college-grad student,OR
+3957,M,35-44,lawyer,KY
+334,F,>56,artist,MN
+2674,M,25-34,college-grad student,CA
+2439,M,45-49,technician-engineer,MI
+3759,M,35-44,doctor-health care,WI
+4745,F,18-24,college-grad student,CT
+4803,F,25-34,self-employed,OH
+3726,M,25-34,technician-engineer,CA
+4639,M,35-44,lawyer,MD
+5513,M,35-44,academic-educator,CA
+697,F,50-55,doctor-health care,OR
+74,M,35-44,sales-marketing,CA
+5721,M,45-49,lawyer,CA
+5488,M,25-34,scientist,CA
+2403,M,18-24,college-grad student,TN
+2739,F,35-44,executive-managerial,CA
+4969,M,18-24,unemployed,CA
+5929,F,35-44,other,FL
+1200,M,<18,other,OR
+284,M,25-34,programmer,CA
+1768,M,45-49,self-employed,TX
+438,M,18-24,lawyer,WI
+3274,M,25-34,writer,MA
+5597,F,18-24,college-grad student,CA
+4851,M,18-24,technician-engineer,OH
+1521,F,25-34,executive-managerial,NJ
+1207,M,50-55,other,OH
+5691,M,35-44,sales-marketing,KS
+540,M,18-24,academic-educator,PA
+2835,M,35-44,writer,IL
+2185,M,45-49,technician-engineer,NC
+3660,M,35-44,executive-managerial,PA
+2736,M,45-49,programmer,CO
+1751,M,35-44,writer,TX
+4339,M,25-34,artist,TX
+2903,M,25-34,self-employed,MD
+3709,M,25-34,programmer,NV
+168,F,50-55,other,IN
+3228,M,25-34,sales-marketing,VT
+1588,M,25-34,lawyer,VA
+2542,F,45-49,retired,TN
+99,F,<18,K-12 student,PA
+3833,M,25-34,academic-educator,NE
+5348,M,18-24,customer service,MN
+3669,M,25-34,sales-marketing,IL
+5326,M,25-34,artist,MN
+1830,M,18-24,college-grad student,NY
+4414,M,25-34,college-grad student,KY
+5100,M,50-55,doctor-health care,N/A
+1541,M,>56,technician-engineer,N/A
+4210,M,25-34,technician-engineer,AZ
+4087,M,<18,college-grad student,MO
+1178,M,>56,other,MI
+5912,M,25-34,academic-educator,TX
+5711,M,25-34,executive-managerial,IN
+5665,M,18-24,college-grad student,N/A
+4300,F,18-24,college-grad student,WA
+1418,M,18-24,college-grad student,MI
+1818,M,<18,farmer,N/A
+1434,F,<18,K-12 student,N/A
+1325,M,25-34,academic-educator,TX
+3003,M,18-24,scientist,CA
+3333,M,18-24,self-employed,N/A
+1978,M,<18,K-12 student,OH
+2573,M,45-49,self-employed,CA
+5001,F,25-34,artist,MO
+1775,M,25-34,college-grad student,LA
+3215,F,50-55,retired,MN
+5010,M,45-49,scientist,MO
+381,M,35-44,technician-engineer,NV
+3123,M,25-34,artist,CA
+4600,M,25-34,other,IN
+4963,M,45-49,technician-engineer,CA
+181,M,18-24,technician-engineer,FL
+4038,M,50-55,doctor-health care,N/A
+25,M,18-24,college-grad student,MA
+1160,M,18-24,sales-marketing,NJ
+2263,M,25-34,doctor-health care,LA
+3946,F,25-34,programmer,VA
+761,M,18-24,executive-managerial,N/A
+3905,M,25-34,technician-engineer,N/A
+4664,F,45-49,executive-managerial,TX
+5228,M,<18,other,TX
+2223,M,25-34,artist,IL
+5480,F,25-34,sales-marketing,NJ
+5023,M,35-44,writer,CA
+3070,F,18-24,college-grad student,NY
+60,M,50-55,academic-educator,AR
+3039,F,50-55,clerical-admin,FL
+4712,M,35-44,technician-engineer,NH
+816,M,45-49,other,CA
+344,M,35-44,sales-marketing,TX
+2321,M,25-34,executive-managerial,GA
+918,F,45-49,academic-educator,CA
+3683,M,25-34,artist,GA
+4629,F,18-24,college-grad student,CA
+3144,F,25-34,executive-managerial,AZ
+3296,M,18-24,sales-marketing,CA
+2924,F,18-24,college-grad student,CA
+4518,M,25-34,other,CO
+1641,M,25-34,other,CA
+5905,F,35-44,writer,TX
+5754,F,18-24,academic-educator,IL
+1892,M,25-34,writer,CA
+3732,M,25-34,technician-engineer,IL
+1390,M,35-44,self-employed,WA
+4280,M,35-44,technician-engineer,NC
+1148,M,35-44,technician-engineer,CA
+4891,M,35-44,technician-engineer,CA
+5006,M,35-44,clerical-admin,MI
+2578,M,50-55,executive-managerial,CA
+770,M,18-24,college-grad student,WA
+888,F,<18,K-12 student,NJ
+1133,M,18-24,artist,CA
+2298,M,35-44,technician-engineer,TX
+1708,M,25-34,other,MO
+4452,F,25-34,executive-managerial,TX
+609,M,25-34,executive-managerial,NY
+379,F,35-44,academic-educator,WI
+5806,F,50-55,academic-educator,NJ
+2571,M,35-44,technician-engineer,VA
+1184,F,25-34,college-grad student,CA
+5406,F,35-44,other,MI
+3198,M,25-34,programmer,CA
+4597,F,25-34,college-grad student,VA
+2259,F,>56,self-employed,LA
+1896,M,>56,retired,CA
+4302,M,50-55,academic-educator,OH
+1127,M,25-34,other,NY
+2982,M,25-34,college-grad student,WI
+366,M,50-55,scientist,MN
+5251,F,25-34,technician-engineer,OR
+2248,F,35-44,programmer,IN
+4741,M,35-44,executive-managerial,PA
+2842,M,35-44,technician-engineer,GA
+2241,M,45-49,customer service,IL
+977,M,25-34,artist,CO
+2584,F,>56,academic-educator,CA
+4406,M,25-34,self-employed,CO
+3379,M,35-44,academic-educator,DC
+3600,M,35-44,writer,CA
+4579,F,18-24,college-grad student,MO
+3694,M,25-34,programmer,NC
+3097,F,25-34,customer service,NY
+2012,M,25-34,college-grad student,MI
+3564,M,25-34,lawyer,MA
+4371,F,18-24,college-grad student,MO
+2275,M,>56,executive-managerial,MS
+3761,M,25-34,technician-engineer,NC
+1894,F,35-44,executive-managerial,CA
+217,M,18-24,college-grad student,VA
+767,M,25-34,programmer,OH
+4875,M,35-44,other,OR
+5125,M,45-49,other,NY
+3038,F,35-44,artist,OR
+3521,M,25-34,other,WI
+253,F,25-34,lawyer,OR
+2760,M,>56,other,MA
+2475,F,25-34,tradesman-craftsman,WA
+1118,M,50-55,retired,MA
+2970,M,18-24,college-grad student,MI
+4011,M,25-34,technician-engineer,AZ
+4268,F,45-49,writer,ME
+4489,M,18-24,college-grad student,TX
+5607,M,18-24,college-grad student,NY
+2450,M,45-49,self-employed,MA
+1732,M,18-24,college-grad student,NY
+3200,F,25-34,academic-educator,WA
+289,F,25-34,other,NY
+4672,M,>56,retired,CA
+2973,F,18-24,college-grad student,MI
+3021,F,45-49,scientist,TX
+1034,F,35-44,academic-educator,WY
+1139,M,25-34,academic-educator,N/A
+269,M,25-34,artist,MN
+1442,M,18-24,artist,NY
+1684,M,18-24,clerical-admin,AZ
+652,M,18-24,writer,NY
+5021,M,50-55,doctor-health care,CA
+5591,M,18-24,other,NY
+5249,F,45-49,sales-marketing,TX
+4913,F,25-34,academic-educator,N/A
+3370,M,18-24,college-grad student,CA
+2932,M,25-34,programmer,MN
+2062,M,18-24,college-grad student,OH
+405,M,>56,academic-educator,NY
+5887,F,35-44,writer,IL
+5392,M,50-55,academic-educator,WA
+1902,M,25-34,unemployed,CA
+90,M,>56,retired,AZ
+4369,M,50-55,executive-managerial,GA
+5206,M,35-44,executive-managerial,CA
+156,F,45-49,executive-managerial,NY
+5293,M,25-34,programmer,CA
+5352,F,35-44,customer service,MN
+1574,M,25-34,doctor-health care,CO
+3597,M,25-34,technician-engineer,MN
+4421,M,45-49,other,CA
+2023,M,18-24,college-grad student,MN
+3551,F,>56,other,WA
+2947,F,25-34,other,MA
+5007,F,18-24,college-grad student,CA
+3824,M,25-34,technician-engineer,FL
+831,F,45-49,other,MD
+734,M,25-34,executive-managerial,CA
+447,F,45-49,lawyer,MN
+683,M,25-34,college-grad student,NC
+1630,M,45-49,technician-engineer,CA
+109,M,45-49,scientist,CA
+2289,F,50-55,academic-educator,IA
+4653,M,35-44,programmer,CA
+636,M,18-24,writer,CA
+1492,M,25-34,programmer,WA
+1592,M,35-44,executive-managerial,IA
+1195,F,<18,K-12 student,N/A
+852,M,25-34,customer service,CA
+564,M,45-49,academic-educator,MI
+1969,F,25-34,clerical-admin,CA
+5485,M,25-34,college-grad student,NJ
+883,F,35-44,sales-marketing,CA
+489,M,18-24,college-grad student,MN
+2762,M,50-55,self-employed,MO
+723,M,25-34,programmer,WA
+2111,M,>56,retired,FL
+4389,M,25-34,college-grad student,MI
+2038,F,45-49,academic-educator,FL
+679,M,35-44,self-employed,SC
+2527,M,35-44,scientist,AL
+2020,M,25-34,executive-managerial,OH
+3063,M,18-24,college-grad student,NH
+795,F,35-44,sales-marketing,PA
+2080,M,25-34,lawyer,TN
+3440,M,>56,technician-engineer,FL
+693,M,35-44,programmer,WA
+5394,M,18-24,other,IL
+1789,M,<18,K-12 student,PA
+972,M,45-49,academic-educator,MA
+1497,M,50-55,customer service,CO
+2363,M,50-55,sales-marketing,CA
+1393,M,18-24,college-grad student,N/A
+3013,M,45-49,technician-engineer,OR
+4161,M,45-49,other,CA
+4756,M,>56,self-employed,MN
+1677,M,18-24,sales-marketing,OR
+2648,M,25-34,technician-engineer,NC
+4237,M,25-34,sales-marketing,TX
+5932,M,18-24,sales-marketing,CA
+535,M,35-44,doctor-health care,CA
+2491,M,35-44,executive-managerial,VA
+5032,M,18-24,technician-engineer,MA
+1582,M,18-24,other,NY
+4146,M,35-44,technician-engineer,OH
+4573,M,50-55,self-employed,NY
+557,M,>56,academic-educator,GA
+3043,M,18-24,artist,CA
+1420,M,18-24,college-grad student,MA
+1755,F,18-24,college-grad student,TX
+2406,F,>56,programmer,MA
+5235,M,25-34,college-grad student,NY
+5656,M,25-34,scientist,NH
+4790,F,25-34,artist,CA
+1192,M,50-55,self-employed,WA
+2990,M,35-44,programmer,OH
+4863,F,25-34,homemaker,UT
+265,F,35-44,executive-managerial,MN
+1923,M,35-44,executive-managerial,CA
+5519,M,35-44,scientist,FL
+3737,M,25-34,sales-marketing,TN
+55,F,35-44,programmer,MN
+783,M,25-34,college-grad student,WI
+839,M,25-34,other,WA
+4669,M,35-44,executive-managerial,PA
+1300,M,<18,K-12 student,OR
+166,M,18-24,college-grad student,CA
+3760,M,50-55,other,MN
+1562,M,18-24,writer,OH
+3459,M,18-24,college-grad student,TX
+2536,M,>56,retired,TN
+5528,M,50-55,academic-educator,OH
+3772,M,35-44,technician-engineer,CT
+485,M,>56,executive-managerial,MN
+3261,M,45-49,writer,NM
+1980,M,35-44,executive-managerial,CT
+885,M,35-44,other,MI
+1215,M,35-44,technician-engineer,VA
+4835,M,25-34,writer,NY
+4536,M,18-24,programmer,WI
+5470,M,>56,executive-managerial,N/A
+5821,M,25-34,scientist,MA
+4746,M,50-55,academic-educator,N/A
+843,M,25-34,executive-managerial,MI
+5066,F,25-34,academic-educator,VA
+1017,M,35-44,other,GA
+6008,M,18-24,college-grad student,TX
+5116,M,35-44,doctor-health care,CA
+4906,M,50-55,technician-engineer,MI
+2135,M,50-55,academic-educator,MA
+1612,M,25-34,technician-engineer,NY
+4543,M,25-34,artist,NY
+2615,M,25-34,executive-managerial,MD
+648,F,25-34,programmer,CA
+5829,F,25-34,college-grad student,TX
+2614,M,25-34,executive-managerial,PA
+1011,M,25-34,farmer,CA
+5159,M,35-44,executive-managerial,TN
+4693,M,18-24,academic-educator,IL
+2882,M,18-24,writer,TX
+2330,M,45-49,executive-managerial,MI
+6013,F,25-34,writer,FL
+3805,F,35-44,academic-educator,NV
+353,F,35-44,executive-managerial,CA
+943,F,45-49,programmer,NJ
+2929,M,18-24,artist,IL
+5260,M,35-44,executive-managerial,TX
+2225,M,25-34,customer service,HI
+784,M,18-24,other,NY
+4521,M,35-44,programmer,PA
+4155,M,50-55,technician-engineer,AZ
+2428,M,45-49,technician-engineer,OH
+1868,M,50-55,lawyer,CA
+5810,M,50-55,self-employed,CA
+3593,F,25-34,homemaker,WI
+5355,M,>56,other,TX
+1780,M,35-44,academic-educator,VA
+5899,M,35-44,technician-engineer,GA
+1503,M,25-34,programmer,CA
+1602,F,25-34,executive-managerial,NY
+5705,F,18-24,college-grad student,CA
+2075,F,25-34,college-grad student,NY
+5462,M,25-34,technician-engineer,NV
+1745,M,45-49,other,CA
+637,M,35-44,programmer,OR
+1866,M,25-34,executive-managerial,CA
+4466,M,35-44,lawyer,NY
+880,M,35-44,technician-engineer,CA
+1914,F,35-44,sales-marketing,CA
+2961,M,50-55,technician-engineer,CA
+5664,M,18-24,college-grad student,MI
+5514,F,<18,K-12 student,TX
+5788,M,25-34,other,CA
+3799,M,18-24,other,PA
+404,M,18-24,college-grad student,NY
+1723,M,35-44,technician-engineer,IL
+491,M,18-24,college-grad student,MN
+4346,M,18-24,technician-engineer,OH
+1387,F,50-55,retired,CA
+1004,M,25-34,clerical-admin,CA
+1454,M,18-24,college-grad student,CA
+3000,M,25-34,college-grad student,MN
+5938,M,25-34,academic-educator,AL
+5966,F,35-44,homemaker,NY
+3293,M,45-49,sales-marketing,TN
+329,M,35-44,executive-managerial,MA
+2454,M,18-24,other,OR
+5618,F,18-24,college-grad student,CA
+4265,M,25-34,programmer,NH
+1378,F,45-49,executive-managerial,MD
+1687,M,25-34,clerical-admin,AZ
+4326,F,45-49,retired,CA
+361,F,25-34,sales-marketing,CA
+1251,M,25-34,executive-managerial,MI
+4723,M,35-44,executive-managerial,N/A
+3823,M,>56,executive-managerial,CA
+1669,F,25-34,technician-engineer,TX
+3226,M,35-44,college-grad student,NY
+4067,M,45-49,writer,CA
+1328,M,35-44,sales-marketing,IL
+4978,M,35-44,sales-marketing,NE
+2938,F,25-34,other,MN
+6006,F,<18,other,MA
+2413,F,>56,executive-managerial,CT
+148,M,50-55,technician-engineer,SD
+210,F,<18,K-12 student,WV
+2945,F,35-44,technician-engineer,NV
+4967,M,18-24,college-grad student,CA
+2974,M,18-24,college-grad student,MI
+953,M,50-55,writer,OR
+3552,F,35-44,artist,RI
+5563,F,25-34,executive-managerial,NY
+3794,F,18-24,college-grad student,WI
+4696,M,18-24,programmer,NY
+3869,M,18-24,technician-engineer,MO
+1993,M,35-44,technician-engineer,AK
+2500,M,>56,academic-educator,SC
+628,F,35-44,other,MD
+3181,M,25-34,programmer,NJ
+382,F,35-44,writer,KS
+2509,M,25-34,customer service,AL
+2457,M,25-34,other,IL
+3239,F,25-34,programmer,NJ
+4068,M,>56,clerical-admin,NV
+3790,F,25-34,technician-engineer,CA
+680,M,25-34,programmer,TN
+1594,F,35-44,writer,NY
+2331,M,>56,academic-educator,MI
+4601,M,35-44,sales-marketing,MN
+5449,M,18-24,programmer,MA
+2211,M,45-49,doctor-health care,MA
+3269,F,18-24,writer,OH
+1962,F,18-24,academic-educator,IL
+275,M,25-34,other,MI
+1696,M,35-44,executive-managerial,CA
+3159,F,25-34,scientist,PA
+378,F,18-24,other,MN
+413,M,25-34,lawyer,MN
+2229,M,45-49,other,IL
+1841,M,18-24,other,CA
+1087,M,25-34,self-employed,NJ
+5133,M,18-24,lawyer,NY
+3596,F,35-44,college-grad student,PA
+257,M,18-24,tradesman-craftsman,MN
+4327,M,35-44,technician-engineer,TN
+2303,M,50-55,technician-engineer,NJ
+3697,M,25-34,scientist,NE
+245,M,35-44,self-employed,KS
+3060,F,35-44,academic-educator,CA
+5699,M,35-44,scientist,CA
+5784,M,18-24,K-12 student,MN
+812,M,25-34,doctor-health care,TN
+1405,M,>56,retired,FL
+4178,F,50-55,self-employed,NJ
+51,F,<18,K-12 student,NY
+6011,M,35-44,scientist,CO
+3137,M,25-34,lawyer,NY
+5459,F,<18,K-12 student,WA
+5688,F,18-24,college-grad student,TX
+3107,M,25-34,technician-engineer,CA
+2081,M,18-24,technician-engineer,MI
+5895,M,25-34,academic-educator,OH
+5562,F,35-44,academic-educator,WI
+3771,M,25-34,academic-educator,N/A
+719,M,<18,other,TX
+2771,M,18-24,academic-educator,CA
+3788,F,18-24,other,CA
+3025,F,35-44,other,CA
+457,M,18-24,college-grad student,WI
+117,M,25-34,technician-engineer,FL
+5765,M,25-34,lawyer,OH
+4177,M,35-44,technician-engineer,CA
+3450,M,25-34,customer service,TX
+4893,M,25-34,technician-engineer,MI
+5384,F,25-34,clerical-admin,CA
+2412,M,>56,retired,MA
+2716,F,50-55,college-grad student,HI
+4411,M,18-24,college-grad student,CA
+5143,M,18-24,college-grad student,OH
+5157,M,35-44,academic-educator,OK
+899,F,25-34,academic-educator,GA
+2687,M,<18,K-12 student,NJ
+675,M,25-34,writer,MA
+4390,M,25-34,other,NY
+1114,F,18-24,homemaker,TX
+40,M,45-49,other,NY
+5834,M,>56,self-employed,CA
+4426,M,45-49,technician-engineer,CA
+2463,M,25-34,executive-managerial,FL
+4939,M,25-34,executive-managerial,MO
+1566,M,35-44,self-employed,TX
+2695,M,35-44,lawyer,IN
+1166,M,>56,doctor-health care,CA
+3642,F,25-34,executive-managerial,WA
+173,M,25-34,other,OH
+4999,F,>56,retired,CA
+3006,M,18-24,college-grad student,OH
+4063,F,35-44,academic-educator,SC
+4194,M,18-24,college-grad student,IL
+5779,M,25-34,customer service,NY
+2141,F,50-55,self-employed,MI
+2477,M,45-49,other,KY
+1152,M,18-24,college-grad student,GA
+1781,F,35-44,other,NJ
+2214,F,25-34,academic-educator,IN
+2899,M,35-44,sales-marketing,CA
+4804,F,35-44,academic-educator,OH
+1482,M,25-34,executive-managerial,CA
+5191,F,25-34,college-grad student,MN
+4250,F,50-55,other,FL
+2717,M,25-34,college-grad student,HI
+2918,M,25-34,programmer,WA
+1907,M,35-44,technician-engineer,CA
+2693,M,>56,retired,AR
+5455,F,18-24,technician-engineer,MN
+2706,F,25-34,academic-educator,NC
+5613,F,35-44,other,WA
+312,F,50-55,artist,VA
+3952,F,45-49,academic-educator,NY
+223,M,25-34,technician-engineer,NC
+4586,M,25-34,college-grad student,MA
+5085,M,>56,technician-engineer,TX
+4295,M,18-24,tradesman-craftsman,CA
+463,M,25-34,executive-managerial,MN
+5619,F,18-24,college-grad student,VA
+3757,M,25-34,executive-managerial,CA
+68,M,18-24,college-grad student,WI
+2803,M,25-34,executive-managerial,CA
+3339,M,25-34,technician-engineer,OH
+2415,M,25-34,executive-managerial,VA
+3528,M,35-44,customer service,KY
+4289,M,35-44,sales-marketing,FL
+2009,F,35-44,executive-managerial,IL
+1617,M,25-34,programmer,OH
+5727,M,25-34,college-grad student,CA
+3828,M,25-34,writer,CA
+3481,M,18-24,college-grad student,CA
+1496,M,25-34,technician-engineer,CA
+1772,M,>56,artist,CA
+4644,M,50-55,academic-educator,PA
+2400,F,25-34,self-employed,CA
+2995,M,25-34,scientist,OR
+2060,M,<18,academic-educator,MI
+4122,M,18-24,unemployed,WY
+5108,F,25-34,homemaker,CA
+744,M,25-34,technician-engineer,TX
+5743,F,35-44,other,MN
+3428,M,45-49,academic-educator,IN
+1061,M,45-49,other,IN
+3629,F,50-55,executive-managerial,NY
+2277,F,45-49,homemaker,NY
+853,M,25-34,technician-engineer,MN
+2557,F,18-24,unemployed,MA
+410,F,25-34,academic-educator,MN
+1683,F,25-34,executive-managerial,WA
+1691,F,25-34,technician-engineer,AZ
+1670,F,>56,retired,CA
+4692,F,25-34,executive-managerial,TX
+5768,F,<18,executive-managerial,MD
+2022,M,25-34,executive-managerial,IL
+2458,M,25-34,executive-managerial,AZ
+1456,M,25-34,artist,WA
+3464,F,25-34,sales-marketing,TX
+5077,M,25-34,artist,DC
+5783,F,45-49,academic-educator,CA
+3637,M,25-34,doctor-health care,CA
+4477,M,25-34,executive-managerial,WA
+3933,F,35-44,doctor-health care,MI
+5621,M,25-34,executive-managerial,MA
+5508,M,25-34,writer,CA
+206,M,25-34,technician-engineer,VA
+5044,F,35-44,doctor-health care,VA
+5694,F,25-34,programmer,CA
+3639,M,18-24,college-grad student,TX
+5048,F,35-44,executive-managerial,GA
+1495,M,18-24,other,TX
+6030,M,25-34,technician-engineer,FL
+3511,M,50-55,other,NM
+2508,F,35-44,clerical-admin,TX
+5046,M,25-34,self-employed,IL
+4683,M,25-34,other,VA
+3537,M,<18,K-12 student,OR
+5594,F,45-49,other,MN
+4297,M,45-49,scientist,MN
+5289,M,45-49,artist,CA
+4506,M,50-55,self-employed,SC
+1623,M,50-55,scientist,NJ
+5762,F,35-44,doctor-health care,MN
+2315,M,>56,executive-managerial,MI
+5658,M,>56,other,FL
+5218,M,18-24,other,NV
+1168,F,25-34,other,CA
+763,M,18-24,K-12 student,RI
+4839,F,50-55,doctor-health care,CA
+728,M,25-34,doctor-health care,NY
+5280,M,18-24,college-grad student,NY
+2169,M,<18,other,CA
+642,F,35-44,academic-educator,TX
+3311,M,25-34,college-grad student,CA
+384,M,25-34,lawyer,MN
+4666,M,35-44,academic-educator,WI
+1295,F,35-44,doctor-health care,CA
+3098,M,25-34,college-grad student,MN
+3054,M,18-24,college-grad student,OH
+5096,M,25-34,lawyer,TX
+3035,F,25-34,executive-managerial,CA
+4375,F,25-34,customer service,KY
+5354,F,45-49,clerical-admin,TX
+796,M,50-55,doctor-health care,WA
+4880,F,45-49,homemaker,CA
+1911,F,18-24,college-grad student,CA
+4956,M,35-44,scientist,TX
+5190,F,35-44,other,AZ
+5847,F,18-24,college-grad student,MA
+157,M,35-44,self-employed,NY
+5973,M,<18,K-12 student,WI
+4931,M,50-55,technician-engineer,CA
+570,M,25-34,college-grad student,FL
+3917,F,35-44,homemaker,IL
+1002,M,50-55,lawyer,NJ
+4916,M,18-24,writer,AZ
+2351,F,25-34,other,NY
+5117,F,25-34,other,LA
+5201,M,50-55,executive-managerial,CA
+3914,M,35-44,college-grad student,UT
+4596,F,18-24,college-grad student,CA
+278,M,45-49,tradesman-craftsman,IL
+1752,M,25-34,clerical-admin,HI
+5353,M,25-34,doctor-health care,TX
+5223,M,>56,K-12 student,NY
+4748,M,45-49,self-employed,IL
+4734,M,50-55,academic-educator,CA
+5841,F,35-44,executive-managerial,NY
+4844,M,45-49,executive-managerial,NH
+971,M,25-34,programmer,OH
+2975,M,35-44,lawyer,MD
+1157,M,45-49,executive-managerial,GA
+2462,M,35-44,academic-educator,OH
+3620,M,25-34,executive-managerial,CA
+4232,F,35-44,writer,TX
+1883,F,50-55,other,CA
+2448,M,35-44,doctor-health care,TN
+3996,M,18-24,sales-marketing,FL
+1460,F,18-24,college-grad student,CA
+3376,M,35-44,self-employed,NY
+3977,M,35-44,sales-marketing,VA
+3165,M,35-44,executive-managerial,IL
+1062,M,50-55,unemployed,MT
+339,M,50-55,executive-managerial,CO
+4266,M,>56,retired,TX
+836,M,25-34,lawyer,NY
+5127,M,45-49,customer service,WA
+2777,M,18-24,college-grad student,CA
+1296,M,<18,other,TX
+1005,M,35-44,lawyer,NJ
+1699,F,25-34,unemployed,WA
+5493,M,35-44,programmer,HI
+5640,M,35-44,technician-engineer,TX
+3863,M,25-34,other,CA
+501,M,25-34,artist,MN
+3349,F,18-24,college-grad student,CA
+3802,M,18-24,other,CA
+1934,M,25-34,technician-engineer,CA
+5052,M,35-44,self-employed,MA
+725,M,>56,lawyer,NJ
+76,M,35-44,executive-managerial,MN
+2418,F,<18,K-12 student,CT
+2178,M,45-49,sales-marketing,AZ
+657,F,50-55,retired,FL
+3811,M,25-34,scientist,WA
+1373,F,25-34,academic-educator,MN
+2243,M,45-49,artist,N/A
+1807,M,18-24,technician-engineer,MD
+5134,M,25-34,technician-engineer,CA
+2713,M,25-34,executive-managerial,HI
+4732,M,25-34,sales-marketing,VA
+4439,M,35-44,doctor-health care,TN
+2269,F,45-49,other,NY
+213,F,18-24,college-grad student,MA
+1659,F,18-24,homemaker,AK
+5673,F,35-44,academic-educator,MN
+4409,M,25-34,sales-marketing,MO
+5309,M,25-34,other,MA
+2017,M,25-34,technician-engineer,AL
+687,F,25-34,executive-managerial,NY
+3161,M,25-34,executive-managerial,MN
+5035,F,25-34,technician-engineer,DE
+3930,M,>56,clerical-admin,IA
+1715,M,25-34,self-employed,WI
+191,M,18-24,college-grad student,ME
+1478,M,<18,K-12 student,CA
+6012,M,35-44,scientist,RI
+3743,F,35-44,executive-managerial,NV
+401,M,18-24,other,MN
+3504,M,18-24,executive-managerial,MA
+2628,F,25-34,artist,NY
+3367,M,50-55,self-employed,NY
+5433,F,35-44,technician-engineer,OH
+2599,M,25-34,programmer,WI
+520,F,35-44,writer,MN
+735,M,25-34,sales-marketing,ME
+5994,M,35-44,academic-educator,FL
+4186,M,25-34,executive-managerial,FL
+1646,M,25-34,writer,CA
+1302,M,18-24,college-grad student,AZ
+2913,F,35-44,writer,WA
+4430,F,25-34,other,CA
+572,M,18-24,college-grad student,IL
+2941,M,35-44,programmer,WA
+2840,M,25-34,other,IL
+5428,F,25-34,doctor-health care,NC
+4314,M,25-34,technician-engineer,TX
+2574,M,50-55,doctor-health care,CT
+4587,M,35-44,sales-marketing,NJ
+2906,M,35-44,unemployed,MN
+1336,F,50-55,writer,CA
+5648,M,25-34,technician-engineer,MI
+1333,M,25-34,technician-engineer,CT
+1516,F,25-34,programmer,WI
+700,M,50-55,technician-engineer,NY
+2449,M,>56,retired,TN
+1059,F,25-34,other,OR
+2028,M,45-49,doctor-health care,OH
+3188,M,>56,retired,MN
+2809,M,25-34,executive-managerial,NY
+4558,M,35-44,sales-marketing,MI
+3145,M,18-24,college-grad student,MA
+2927,M,25-34,programmer,VA
+740,M,25-34,sales-marketing,VA
+3356,M,35-44,executive-managerial,CA
+3022,M,25-34,technician-engineer,TX
+5390,M,<18,other,TX
+5687,F,<18,other,MN
+212,M,25-34,self-employed,WI
+5000,M,25-34,college-grad student,IN
+5419,F,18-24,programmer,VT
+3944,F,35-44,self-employed,CO
+4131,M,45-49,executive-managerial,OR
+2467,M,<18,K-12 student,OH
+2133,F,<18,K-12 student,MA
+4002,M,45-49,self-employed,MD
+372,F,18-24,college-grad student,AR
+3513,M,25-34,self-employed,MA
+4056,M,<18,K-12 student,NC
+1964,F,25-34,doctor-health care,NV
+3840,F,25-34,other,MA
+2078,M,18-24,college-grad student,NY
+2928,M,25-34,artist,CA
+1112,M,18-24,doctor-health care,PA
+2219,M,25-34,doctor-health care,IL
+2641,M,25-34,doctor-health care,PA
+872,M,50-55,academic-educator,MD
+5411,F,<18,unemployed,NY
+5989,F,<18,K-12 student,OK
+125,M,45-49,sales-marketing,MA
+1229,F,25-34,college-grad student,MI
+4668,M,35-44,sales-marketing,OK
+4715,M,25-34,artist,OR
+4055,M,50-55,other,WA
+1957,F,18-24,college-grad student,VA
+1972,M,45-49,technician-engineer,CA
+1153,M,18-24,K-12 student,FL
+4934,F,25-34,other,MN
+4682,M,25-34,executive-managerial,VT
+2769,M,25-34,executive-managerial,VA
+2419,M,25-34,other,CT
+5466,M,25-34,programmer,WA
+4283,F,25-34,homemaker,WA
+2047,M,<18,K-12 student,CT
+2979,M,35-44,artist,OH
+1945,M,25-34,writer,CA
+1843,M,25-34,programmer,NY
+1799,M,35-44,lawyer,LA
+3965,M,18-24,lawyer,MO
+3109,F,25-34,lawyer,OH
+5439,M,>56,retired,PA
+792,M,25-34,technician-engineer,MA
+3885,M,25-34,programmer,CA
+533,M,25-34,programmer,NC
+1036,M,35-44,executive-managerial,NC
+4996,M,35-44,executive-managerial,CA
+4735,M,45-49,clerical-admin,IA
+511,F,45-49,college-grad student,PA
+2611,M,25-34,clerical-admin,NJ
+5697,M,25-34,other,CA
+1412,M,25-34,technician-engineer,CA
+4687,M,35-44,sales-marketing,MA
+1171,M,45-49,programmer,CA
+4053,M,25-34,tradesman-craftsman,AL
+3609,F,25-34,technician-engineer,MI
+2524,F,>56,homemaker,TN
+2959,M,35-44,technician-engineer,CT
+558,M,35-44,writer,MN
+5336,M,>56,executive-managerial,TX
+350,M,45-49,writer,NJ
+2322,F,>56,retired,MI
+4071,M,25-34,technician-engineer,FL
+2601,M,35-44,self-employed,NC
+2424,M,25-34,technician-engineer,CA
+2056,M,25-34,college-grad student,MN
+364,F,35-44,academic-educator,IN
+1534,M,50-55,programmer,NY
+5056,M,45-49,academic-educator,PA
+4175,M,35-44,other,KS
+1263,M,<18,K-12 student,CO
+1637,M,>56,other,CA
+2278,M,50-55,technician-engineer,MA
+2375,F,50-55,executive-managerial,NY
+4214,F,25-34,other,VA
+3248,F,25-34,executive-managerial,CA
+2435,M,25-34,college-grad student,VA
+625,F,35-44,programmer,OH
+5491,M,18-24,executive-managerial,NY
+205,M,35-44,programmer,OR
+5947,F,45-49,self-employed,OR
+1765,M,18-24,college-grad student,NY
+4699,F,18-24,other,CA
+4659,F,25-34,sales-marketing,TN
+1730,F,18-24,college-grad student,IL
+5620,M,35-44,sales-marketing,MN
+931,F,>56,academic-educator,CT
+5078,M,45-49,executive-managerial,PA
+755,F,35-44,other,CA
+2547,F,35-44,other,TN
+1698,M,35-44,artist,OR
+2936,F,18-24,college-grad student,CA
+4441,M,18-24,college-grad student,WA
+950,M,35-44,executive-managerial,MD
+4933,M,25-34,scientist,CA
+862,M,35-44,executive-managerial,NY
+4559,M,25-34,executive-managerial,VT
+527,F,25-34,artist,NY
+4894,M,35-44,executive-managerial,NY
+1593,M,25-34,self-employed,TX
+260,M,18-24,unemployed,WA
+5145,M,35-44,executive-managerial,N/A
+3423,M,25-34,executive-managerial,UT
+3936,F,35-44,programmer,MA
+3019,M,50-55,programmer,OR
+1030,M,25-34,executive-managerial,OR
+2088,M,50-55,executive-managerial,IL
+2814,M,35-44,executive-managerial,MA
+2426,M,>56,other,MA
+5335,M,25-34,sales-marketing,TX
+5036,M,35-44,executive-managerial,NY
+6023,M,25-34,other,OH
+4993,M,45-49,technician-engineer,WI
+1979,M,>56,technician-engineer,MI
+2436,M,25-34,executive-managerial,VA
+5600,F,45-49,other,N/A
+2537,M,35-44,lawyer,TN
+4366,M,18-24,scientist,MA
+3020,F,35-44,executive-managerial,IL
+1750,M,50-55,customer service,NY
+2616,M,35-44,executive-managerial,MA
+3282,M,45-49,clerical-admin,DC
+2338,M,45-49,technician-engineer,NY
+2342,M,35-44,clerical-admin,MI
+4640,M,25-34,college-grad student,MN
+3345,M,25-34,executive-managerial,PA
+2118,M,25-34,sales-marketing,MA
+70,M,18-24,college-grad student,WI
+136,M,18-24,artist,MD
+3441,F,25-34,sales-marketing,CA
+3665,M,25-34,other,CA
+692,F,25-34,other,AZ
+1586,M,45-49,executive-managerial,TX
+186,M,18-24,customer service,CA
+4539,M,35-44,unemployed,MA
+4744,M,50-55,scientist,NY
+2949,M,25-34,technician-engineer,WA
+1686,M,35-44,programmer,CA
+1735,M,18-24,writer,GA
+5846,M,45-49,self-employed,TX
+5646,M,18-24,college-grad student,HI
+333,M,35-44,artist,MN
+4820,M,50-55,lawyer,ME
+2966,F,25-34,college-grad student,MI
+4042,M,35-44,scientist,CA
+2797,F,25-34,executive-managerial,CA
+6020,M,50-55,self-employed,NY
+3343,F,18-24,college-grad student,TX
+574,M,25-34,unemployed,N/A
+5240,F,25-34,other,CA
+3056,M,25-34,tradesman-craftsman,NY
+1654,F,45-49,other,CA
+1162,F,35-44,other,OR
+1437,M,50-55,clerical-admin,NV
+3540,M,18-24,technician-engineer,SD
+3520,M,25-34,other,KY
+3455,F,25-34,other,NJ
+1104,M,35-44,lawyer,NY
+5717,M,25-34,other,NH
+1713,M,25-34,other,IN
+4029,F,>56,clerical-admin,MD
+2265,M,>56,retired,IL
+2416,M,45-49,executive-managerial,MA
+5858,M,25-34,college-grad student,MA
+4634,M,50-55,writer,WA
+3891,F,>56,self-employed,CA
+4290,M,25-34,technician-engineer,WA
+2381,F,35-44,homemaker,NY
+4382,M,25-34,tradesman-craftsman,NY
+748,M,25-34,other,IL
+5662,M,<18,K-12 student,NJ
+2042,M,<18,K-12 student,TX
+717,M,25-34,lawyer,CA
+1706,M,25-34,writer,PA
+1169,M,25-34,writer,CA
+5724,M,25-34,scientist,CA
+5838,F,45-49,executive-managerial,MA
+2398,M,25-34,other,WA
+1618,M,50-55,other,OH
+3691,M,25-34,executive-managerial,MD
+3635,M,50-55,academic-educator,IL
+6007,M,35-44,technician-engineer,CO
+3624,M,25-34,programmer,IL
+362,M,35-44,writer,MN
+3622,M,18-24,academic-educator,MA
+4720,M,25-34,artist,CA
+5906,F,18-24,college-grad student,DE
+5945,F,35-44,artist,AL
+4172,M,35-44,executive-managerial,DE
+3653,M,18-24,scientist,AP
+3969,M,>56,executive-managerial,NY
+2694,M,18-24,college-grad student,CA
+4584,F,45-49,other,NY
+4540,F,25-34,sales-marketing,CA
+820,M,35-44,executive-managerial,TX
+2665,M,35-44,lawyer,WA
+990,M,18-24,doctor-health care,NY
+1567,M,25-34,programmer,CT
+2748,M,25-34,college-grad student,AZ
+1029,M,25-34,other,DC
+1502,M,18-24,college-grad student,NY
+5297,M,25-34,programmer,PA
+4245,M,50-55,programmer,OH
+5692,F,25-34,executive-managerial,SC
+1952,M,35-44,academic-educator,CA
+1327,M,<18,K-12 student,NY
+444,M,>56,other,MN
+4560,M,25-34,other,NE
+2826,M,35-44,programmer,NY
+2951,F,35-44,sales-marketing,CA
+331,M,25-34,executive-managerial,MN
+4143,F,25-34,customer service,IL
+5045,M,35-44,other,OH
+3532,F,35-44,sales-marketing,NY
+551,M,35-44,writer,MN
+3075,F,25-34,lawyer,CT
+5869,F,25-34,executive-managerial,PA
+4679,M,>56,retired,TX
+412,M,35-44,scientist,MN
+3860,M,45-49,technician-engineer,OH
+1095,F,>56,doctor-health care,NJ
+4854,F,50-55,retired,NH
+2529,F,35-44,homemaker,CA
+4350,M,18-24,artist,SC
+4537,F,45-49,academic-educator,MA
+2295,M,45-49,lawyer,AR
+1475,F,25-34,artist,TX
+3197,F,18-24,sales-marketing,CA
+4298,F,18-24,sales-marketing,AZ
+4648,M,18-24,college-grad student,OK
+2189,M,<18,K-12 student,IL
+1910,M,<18,K-12 student,CA
+5306,F,25-34,technician-engineer,CA
+6039,F,45-49,other,MA
+4491,M,18-24,college-grad student,IA
+143,M,18-24,clerical-admin,N/A
+2798,M,35-44,writer,NY
+1714,M,25-34,technician-engineer,OH
+1812,F,25-34,programmer,MI
+4478,M,<18,programmer,MA
+5008,M,25-34,writer,IL
+3804,M,25-34,doctor-health care,CT
+246,F,18-24,college-grad student,IL
+2983,M,18-24,college-grad student,OR
+1694,M,25-34,programmer,WA
+4904,M,50-55,scientist,MO
+1380,M,<18,K-12 student,ND
+5469,M,35-44,programmer,VA
+2172,M,18-24,writer,IL
+4674,F,35-44,executive-managerial,NJ
+1455,F,45-49,other,CA
+5661,F,25-34,scientist,NH
+2040,F,25-34,executive-managerial,MA
+414,M,25-34,other,MN
+714,M,18-24,college-grad student,TX
+170,M,25-34,lawyer,NJ
+3129,M,25-34,executive-managerial,MD
+1435,M,25-34,sales-marketing,MI
+2173,M,50-55,retired,NM
+1811,M,>56,artist,NJ
+4156,M,>56,writer,CA
+5211,M,25-34,academic-educator,KY
+2220,F,50-55,clerical-admin,N/A
+5361,F,50-55,self-employed,CA
+3435,M,45-49,academic-educator,MI
+2205,F,25-34,executive-managerial,NY
+6034,M,25-34,sales-marketing,CA
+5766,M,>56,sales-marketing,HI
+1633,F,45-49,executive-managerial,AK
+2093,M,18-24,other,MI
+5038,M,25-34,writer,NY
+908,F,50-55,academic-educator,CA
+4940,F,50-55,lawyer,CA
+1422,M,35-44,technician-engineer,MN
+4755,F,>56,executive-managerial,CA
+1827,F,25-34,academic-educator,NJ
+2105,M,25-34,academic-educator,VA
+1561,F,18-24,college-grad student,NY
+3427,M,25-34,sales-marketing,N/A
+1553,F,25-34,scientist,MO
+5943,F,45-49,academic-educator,DE
+4244,M,35-44,technician-engineer,MI
+355,M,18-24,clerical-admin,MN
+2217,M,<18,K-12 student,OH
+3460,M,<18,college-grad student,NY
+5667,M,35-44,executive-managerial,NY
+973,F,25-34,academic-educator,CO
+5012,M,50-55,scientist,MI
+3782,F,25-34,other,CA
+5804,F,35-44,executive-managerial,CA
+3717,M,35-44,technician-engineer,CA
+1507,M,35-44,technician-engineer,CA
+5230,M,25-34,programmer,CA
+4425,M,35-44,executive-managerial,WA
+5379,M,25-34,executive-managerial,UT
+3677,F,25-34,programmer,CT
+3806,M,18-24,college-grad student,MN
+3122,F,25-34,executive-managerial,VA
+1878,M,<18,K-12 student,CA
+5179,M,25-34,programmer,CA
+2922,M,25-34,technician-engineer,IA
+236,M,25-34,customer service,MN
+2997,F,35-44,self-employed,OH
+2770,M,35-44,academic-educator,NY
+5689,M,25-34,other,UT
+801,F,25-34,writer,CA
+3512,M,18-24,technician-engineer,MA
+287,M,50-55,retired,CA
+3149,M,18-24,college-grad student,CA
+659,F,25-34,other,NC
+1583,M,35-44,doctor-health care,CA
+598,M,35-44,executive-managerial,CA
+1439,M,35-44,clerical-admin,WA
+4719,F,35-44,homemaker,RI
+2978,M,35-44,writer,OH
+4872,M,45-49,academic-educator,ME
+2646,M,45-49,technician-engineer,PA
+2967,M,25-34,other,CA
+1358,M,35-44,technician-engineer,MI
+4373,M,50-55,programmer,FL
+5774,M,18-24,college-grad student,CA
+2726,M,45-49,lawyer,MA
+2634,M,>56,academic-educator,PA
+1136,F,35-44,executive-managerial,CA
+937,M,25-34,scientist,IL
+1998,F,50-55,homemaker,VA
+5930,F,35-44,technician-engineer,TX
+5677,M,25-34,academic-educator,NY
+524,M,18-24,other,CA
+114,F,25-34,artist,ID
+5615,M,35-44,executive-managerial,NJ
+1109,M,18-24,K-12 student,N/A
+4046,M,45-49,technician-engineer,WI
+5778,M,35-44,programmer,AZ
+3398,M,18-24,writer,GA
+5237,M,25-34,executive-managerial,MN
+2480,F,18-24,writer,N/A
+2061,M,>56,academic-educator,OH
+5019,M,25-34,executive-managerial,NY
+5210,F,35-44,technician-engineer,IL
+2089,M,35-44,technician-engineer,PA
+4282,M,35-44,other,PA
+3809,M,35-44,doctor-health care,MD
+4703,M,25-34,executive-managerial,MA
+1065,F,25-34,other,CA
+983,F,25-34,self-employed,WA
+5317,F,25-34,other,MA
+4258,M,25-34,technician-engineer,DE
+4733,M,18-24,tradesman-craftsman,IA
+3375,M,25-34,college-grad student,NV
+4783,M,25-34,other,IL
+4476,M,45-49,academic-educator,IA
+4987,F,>56,farmer,CA
+4242,M,50-55,executive-managerial,TX
+5866,F,25-34,doctor-health care,CT
+710,M,25-34,writer,AZ
+4220,M,35-44,other,OR
+5826,M,18-24,college-grad student,IL
+1338,M,25-34,other,CA
+5791,M,18-24,college-grad student,OH
+2312,M,45-49,other,NY
+5365,M,18-24,programmer,CA
+3405,M,35-44,sales-marketing,CA
+4018,F,45-49,writer,TX
+4188,M,50-55,executive-managerial,OK
+3534,M,35-44,technician-engineer,NE
+4517,F,18-24,academic-educator,MI
+2268,F,35-44,academic-educator,IN
+5199,F,25-34,academic-educator,AL
+1908,M,>56,retired,CA
+927,F,25-34,writer,CA
+3896,M,35-44,other,IL
+871,M,<18,K-12 student,TX
+2244,M,<18,K-12 student,IL
+896,M,18-24,scientist,CA
+5676,M,25-34,writer,TX
+5865,M,25-34,technician-engineer,CA
+2297,M,>56,retired,IA
+4293,F,45-49,homemaker,MN
+4711,M,25-34,technician-engineer,FL
+4221,M,35-44,college-grad student,WI
+4992,F,25-34,artist,MN
+3692,M,35-44,technician-engineer,NV
+1498,M,18-24,college-grad student,MA
+2393,M,>56,retired,NY
+578,M,18-24,technician-engineer,CA
+3439,M,18-24,technician-engineer,TX
+4864,M,18-24,writer,MO
+97,F,35-44,clerical-admin,KS
+5608,M,18-24,clerical-admin,TX
+2719,M,25-34,programmer,N/A
+4292,M,25-34,other,WA
+1682,M,25-34,artist,WA
+621,M,18-24,college-grad student,CA
+1820,M,25-34,writer,IA
+4497,M,50-55,other,SC
+4686,M,18-24,academic-educator,IA
+1767,M,25-34,writer,TX
+2744,M,18-24,technician-engineer,WI
+4563,F,25-34,doctor-health care,VA
+5780,M,18-24,technician-engineer,CA
+2494,M,18-24,college-grad student,IA
+2097,M,18-24,customer service,MI
+2001,M,50-55,academic-educator,MI
+640,M,18-24,college-grad student,IN
+3189,M,25-34,self-employed,CA
+3399,M,25-34,college-grad student,NY
+209,M,35-44,academic-educator,CA
+5416,F,25-34,customer service,MA
+5735,M,25-34,doctor-health care,PA
+3729,M,18-24,college-grad student,DC
+5454,M,35-44,executive-managerial,NY
+3242,M,50-55,retired,CA
+1942,M,35-44,customer service,ME
+2247,M,45-49,artist,IL
+1396,F,25-34,programmer,CA
+1710,M,18-24,other,CA
+1813,F,35-44,doctor-health care,CA
+4361,M,35-44,scientist,ID
+3557,M,18-24,customer service,MI
+3693,M,25-34,scientist,CA
+2946,M,35-44,self-employed,CA
+1666,M,25-34,sales-marketing,PA
+4941,M,>56,writer,OH
+541,F,18-24,college-grad student,N/A
+1753,M,35-44,doctor-health care,CA
+2640,M,35-44,programmer,TX
+3853,M,25-34,sales-marketing,CA
+478,M,50-55,self-employed,MN
+5243,M,<18,K-12 student,WI
+4949,M,18-24,college-grad student,MN
+582,M,18-24,college-grad student,KS
+464,F,18-24,college-grad student,MN
+5040,M,45-49,programmer,OH
+4438,M,50-55,other,NY
+2827,M,25-34,technician-engineer,CA
+1920,F,35-44,executive-managerial,CO
+5681,F,25-34,executive-managerial,CA
+1674,M,35-44,artist,CA
+3920,M,35-44,technician-engineer,MO
+1224,M,50-55,retired,MA
+1473,M,25-34,sales-marketing,CT
+3196,F,18-24,college-grad student,OH
+4014,M,25-34,other,N/A
+4413,M,<18,retired,TN
+3001,M,18-24,college-grad student,CA
+4454,M,25-34,writer,N/A
+3796,M,45-49,sales-marketing,MA
+5013,M,18-24,college-grad student,WV
+1161,M,25-34,other,NY
+1539,M,25-34,clerical-admin,MA
+3160,M,25-34,technician-engineer,TX
+1858,F,18-24,college-grad student,MT
+5505,F,25-34,college-grad student,MA
+3236,M,18-24,scientist,NM
+4569,M,25-34,other,MD
+4520,M,25-34,college-grad student,OH
+2559,M,18-24,K-12 student,WI
+2968,F,18-24,other,MI
+2116,M,18-24,college-grad student,MI
+3394,M,35-44,executive-managerial,CA
+321,M,18-24,college-grad student,MN
+2182,F,25-34,college-grad student,IL
+2847,M,18-24,college-grad student,NY
+1231,M,25-34,programmer,IL
+5158,F,18-24,college-grad student,OH
+4181,F,25-34,executive-managerial,FL
+2934,F,35-44,writer,CA
+2112,F,45-49,programmer,VA
+4947,M,35-44,technician-engineer,CA
+2821,M,18-24,writer,NY
+308,M,25-34,artist,NY
+2841,M,50-55,programmer,WA
+539,M,25-34,artist,MN
+249,F,18-24,sales-marketing,MI
+5115,M,>56,programmer,MA
+2479,F,25-34,academic-educator,VA
+5814,M,25-34,other,CA
+3445,F,35-44,writer,CA
+5434,F,25-34,executive-managerial,IL
+1092,F,18-24,college-grad student,MI
+1312,M,25-34,sales-marketing,IL
+5808,F,25-34,executive-managerial,TN
+2316,M,35-44,other,NY
+341,F,>56,retired,CA
+2227,M,50-55,sales-marketing,IL
+5387,F,25-34,academic-educator,OH
+4017,M,25-34,sales-marketing,PA
+5534,M,45-49,self-employed,GA
+3580,F,18-24,clerical-admin,FL
+3411,M,18-24,college-grad student,MA
+3959,F,45-49,academic-educator,NH
+292,M,35-44,executive-managerial,PA
+5404,M,25-34,other,GA
+2232,M,25-34,sales-marketing,IL
+2702,M,45-49,doctor-health care,MO
+2314,F,25-34,academic-educator,NY
+631,M,35-44,technician-engineer,NC
+3387,M,18-24,academic-educator,CA
+3183,M,50-55,executive-managerial,IL
+33,M,45-49,clerical-admin,MN
+4656,M,25-34,technician-engineer,CA
+1039,F,35-44,academic-educator,MA
+2264,F,45-49,executive-managerial,TN
+1913,M,25-34,technician-engineer,CA
+4958,M,18-24,executive-managerial,MN
+1137,M,18-24,college-grad student,NY
+5294,M,25-34,artist,IL
+3323,M,35-44,sales-marketing,NY
+3549,F,35-44,executive-managerial,IL
+3543,M,25-34,technician-engineer,IL
+1663,M,18-24,college-grad student,TX
+4260,M,25-34,self-employed,MT
+3829,F,25-34,academic-educator,VA
+4942,M,45-49,programmer,KY
+2126,M,>56,sales-marketing,MA
+2621,M,18-24,other,IN
+709,M,18-24,other,CA
+3073,M,25-34,other,CA
+1372,M,<18,K-12 student,CA
+1904,M,18-24,academic-educator,GA
+386,M,25-34,other,MN
+396,M,25-34,academic-educator,MN
+5088,M,25-34,technician-engineer,TN
+158,M,>56,executive-managerial,NC
+704,F,35-44,farmer,AZ
+3814,M,25-34,scientist,WA
+841,F,50-55,sales-marketing,CA
+2545,M,>56,retired,TN
+3689,M,25-34,other,CO
+4766,M,35-44,self-employed,NY
+1848,M,35-44,customer service,NY
+5956,F,18-24,college-grad student,MA
+3180,M,25-34,sales-marketing,NJ
+2909,M,25-34,executive-managerial,OH
+4084,M,>56,retired,NY
+5321,M,25-34,college-grad student,MA
+2600,M,25-34,sales-marketing,PA
+790,M,25-34,technician-engineer,OH
+5298,M,35-44,technician-engineer,MN
+3929,M,25-34,customer service,CO
+5234,F,25-34,other,IL
+4284,M,50-55,executive-managerial,KY
+5482,M,18-24,executive-managerial,NY
+975,M,35-44,other,WA
+4347,F,18-24,writer,TX
+4394,M,25-34,college-grad student,OH
+1111,F,50-55,self-employed,OH
+2627,M,25-34,academic-educator,CT
+1796,M,50-55,lawyer,MD
+3299,F,25-34,college-grad student,PA
+2282,M,50-55,artist,FL
+600,M,35-44,technician-engineer,KS
+3628,M,25-34,executive-managerial,TX
+4791,M,18-24,college-grad student,MN
+3926,M,25-34,artist,CA
+3503,M,18-24,college-grad student,MT
+3275,M,35-44,executive-managerial,NY
+1943,M,18-24,college-grad student,CA
+4811,M,35-44,academic-educator,MA
+5495,F,18-24,college-grad student,CA
+948,M,>56,programmer,OH
+930,M,25-34,customer service,WA
+5884,M,18-24,college-grad student,DC
+3735,M,25-34,other,NY
+3015,M,>56,doctor-health care,IL
+2791,M,>56,executive-managerial,NY
+4207,M,35-44,academic-educator,CA
+2181,M,25-34,other,OH
+4331,M,35-44,doctor-health care,OH
+5718,F,35-44,sales-marketing,TN
+808,M,25-34,executive-managerial,AZ
+423,M,18-24,college-grad student,MN
+3023,F,25-34,executive-managerial,CA
+5872,M,25-34,technician-engineer,IL
+1073,F,25-34,doctor-health care,AR
+2440,M,50-55,technician-engineer,MA
+4899,M,25-34,programmer,CA
+5529,M,18-24,doctor-health care,N/A
+4546,M,25-34,executive-managerial,MI
+5130,F,50-55,academic-educator,FL
+5139,M,50-55,self-employed,NY
+4697,M,18-24,K-12 student,TX
+4743,M,>56,retired,MO
+5423,F,50-55,customer service,IL
+513,M,25-34,other,MN
+2831,M,25-34,other,FL
+5579,F,35-44,executive-managerial,NJ
+5550,M,35-44,scientist,MI
+1485,F,25-34,homemaker,CO
+587,M,25-34,writer,CA
+1451,M,35-44,writer,CA
+3110,M,25-34,other,NY
+4689,M,18-24,programmer,MA
+4729,M,50-55,self-employed,MN
+5720,M,25-34,other,IL
+4254,M,25-34,technician-engineer,MS
+1988,F,25-34,academic-educator,AZ
+1718,M,18-24,college-grad student,OH
+5327,M,25-34,executive-managerial,MN
+1236,F,25-34,academic-educator,MI
+3125,M,25-34,executive-managerial,NY
+2132,M,>56,sales-marketing,MA
+779,M,25-34,other,IL
+5278,F,25-34,executive-managerial,MN
+4649,M,>56,retired,NY
+1037,M,45-49,executive-managerial,MA
+3187,M,35-44,programmer,FL
+769,M,45-49,technician-engineer,MA
+3506,M,18-24,programmer,CO
+1289,M,45-49,doctor-health care,TX
+2860,M,35-44,technician-engineer,DC
+4472,F,45-49,self-employed,NY
+1939,F,35-44,artist,CA
+4278,F,45-49,executive-managerial,AE
+4749,M,45-49,other,VA
+2240,M,45-49,programmer,MO
+4337,M,18-24,writer,TX
+4905,F,45-49,academic-educator,IL
+1170,M,>56,clerical-admin,NY
+5652,M,18-24,other,IN
+2127,M,18-24,college-grad student,NY
+4051,M,18-24,sales-marketing,MA
+5073,M,>56,artist,CA
+678,M,25-34,other,FL
+2385,F,45-49,artist,MA
+3793,M,18-24,college-grad student,MD
+4768,M,25-34,college-grad student,VA
+5978,M,35-44,academic-educator,MI
+101,F,18-24,clerical-admin,FL
+5196,M,>56,executive-managerial,MD
+3591,M,35-44,doctor-health care,CA
+3202,F,18-24,college-grad student,VA
+1676,M,18-24,college-grad student,CA
+2221,M,>56,technician-engineer,CA
+4060,M,25-34,tradesman-craftsman,MN
+3263,M,50-55,lawyer,KS
+1692,M,35-44,writer,OR
+3984,M,25-34,executive-managerial,TX
+4259,M,35-44,technician-engineer,OH
+5081,F,18-24,college-grad student,PA
+73,M,18-24,college-grad student,WI
+2165,M,25-34,executive-managerial,FL
+4815,F,50-55,tradesman-craftsman,ME
+5592,M,25-34,academic-educator,WI
+5150,M,25-34,clerical-admin,WA
+1449,M,35-44,writer,PA
+1210,M,25-34,technician-engineer,NC
+1313,M,18-24,college-grad student,OH
+330,M,>56,executive-managerial,CA
+5918,M,25-34,programmer,MN
+4975,M,35-44,other,CA
+67,F,50-55,customer service,IL
+430,F,18-24,K-12 student,MN
+5527,M,25-34,academic-educator,LA
+2856,M,35-44,lawyer,VA
+4316,M,25-34,doctor-health care,TX
+1040,M,25-34,lawyer,TX
+5363,M,>56,retired,GA
+1138,M,18-24,programmer,NY
+3091,F,25-34,other,PA
+4782,M,45-49,academic-educator,TX
+817,M,18-24,college-grad student,KY
+935,M,35-44,sales-marketing,IL
+671,M,18-24,college-grad student,IL
+1453,M,25-34,sales-marketing,PA
+5649,F,18-24,college-grad student,CA
+989,M,50-55,other,MD
+2751,F,25-34,self-employed,NC
+1201,M,18-24,college-grad student,N/A
+3213,F,25-34,academic-educator,ID
+4162,F,25-34,sales-marketing,VA
+1535,F,18-24,writer,CA
+3964,M,>56,self-employed,KS
+4984,M,35-44,other,MN
+759,F,>56,clerical-admin,NV
+2158,M,25-34,programmer,IL
+2392,F,>56,clerical-admin,CT
+3419,M,45-49,academic-educator,PA
+3156,M,35-44,executive-managerial,NJ
+2999,M,25-34,executive-managerial,FL
+4968,F,50-55,writer,CA
+3922,M,18-24,college-grad student,WI
+691,M,35-44,lawyer,HI
+1873,M,35-44,executive-managerial,MA
+2100,F,25-34,other,VA
+2849,M,45-49,lawyer,CA
+439,M,35-44,sales-marketing,MN
+3538,M,35-44,other,KY
+2183,F,>56,academic-educator,NY
+5148,M,25-34,writer,WA
+2082,M,<18,unemployed,MI
+3092,M,35-44,scientist,WA
+3385,F,25-34,homemaker,FL
+1725,M,18-24,unemployed,KS
+392,M,18-24,executive-managerial,DC
+2673,M,35-44,executive-managerial,TX
+884,M,<18,K-12 student,MI
+970,M,25-34,other,NC
+5272,M,25-34,executive-managerial,CA
+2638,M,25-34,sales-marketing,CT
+2274,M,18-24,artist,GA
+2775,F,18-24,college-grad student,CA
+3755,F,50-55,sales-marketing,NJ
+3474,M,35-44,lawyer,NY
+1424,M,35-44,other,NC
+2357,F,35-44,sales-marketing,NY
+2460,F,50-55,academic-educator,AL
+4013,M,25-34,academic-educator,TX
+5092,M,>56,sales-marketing,PA
+4344,M,25-34,academic-educator,OH
+172,M,25-34,clerical-admin,NJ
+5954,M,45-49,lawyer,LA
+599,M,50-55,doctor-health care,WI
+5889,M,50-55,writer,CT
+644,M,25-34,writer,CA
+1361,F,25-34,other,OR
+470,F,<18,K-12 student,MN
+3178,F,35-44,customer service,OH
+4349,M,18-24,artist,CA
+1339,M,35-44,tradesman-craftsman,AZ
+509,M,25-34,artist,MN
+5265,M,45-49,academic-educator,OR
+590,F,35-44,doctor-health care,WA
+2942,F,50-55,academic-educator,CA
+2911,F,25-34,college-grad student,MN
+2808,M,>56,self-employed,IL
+5904,F,45-49,programmer,N/A
+1967,M,50-55,executive-managerial,CA
+5090,F,35-44,unemployed,TX
+782,M,>56,academic-educator,NC
+4238,M,35-44,self-employed,OH
+3710,M,<18,K-12 student,RI
+980,M,25-34,doctor-health care,CA
+3928,M,25-34,other,MN
+1722,M,35-44,other,AR
+1441,M,35-44,self-employed,WI
+2960,M,18-24,college-grad student,MI
+475,F,25-34,artist,MN
+1179,M,50-55,academic-educator,CA
+4574,M,25-34,college-grad student,IL
+3308,F,18-24,writer,N/A
+3332,M,25-34,executive-managerial,CT
+46,M,18-24,unemployed,TX
+190,M,25-34,technician-engineer,MN
+5522,M,25-34,sales-marketing,MA
+3837,M,25-34,technician-engineer,NC
+2007,M,50-55,self-employed,CO
+2063,M,25-34,college-grad student,OH
+561,F,18-24,sales-marketing,MO
+5014,M,45-49,other,CA
+5715,M,18-24,college-grad student,CA
+4243,M,>56,executive-managerial,FL
+3948,F,45-49,programmer,IL
+3434,M,18-24,college-grad student,MI
+5111,M,35-44,artist,TX
+4588,F,25-34,college-grad student,MI
+11,F,25-34,academic-educator,ME
+3817,M,35-44,clerical-admin,VA
+4964,M,35-44,other,CA
+4340,F,25-34,technician-engineer,TX
+2610,M,45-49,executive-managerial,MI
+1228,M,25-34,academic-educator,CA
+2514,M,>56,sales-marketing,TN
+5465,F,25-34,other,NY
+48,M,25-34,college-grad student,CA
+5305,F,18-24,college-grad student,CA
+3,M,25-34,scientist,MN
+2626,M,>56,academic-educator,ME
+876,M,25-34,college-grad student,OH
+4206,F,35-44,academic-educator,VA
+2633,F,35-44,homemaker,NJ
+4911,F,25-34,other,MN
+4262,F,35-44,doctor-health care,CT
+5346,F,25-34,clerical-admin,OR
+1433,F,18-24,sales-marketing,MI
+1505,M,50-55,lawyer,CA
+5161,M,25-34,college-grad student,GA
+4610,F,25-34,college-grad student,WI
+4609,F,25-34,college-grad student,WI
+3872,M,25-34,academic-educator,NY
+4514,M,18-24,clerical-admin,MI
+116,M,25-34,technician-engineer,MN
+113,M,18-24,programmer,TN
+5558,M,<18,K-12 student,MA
+2822,M,50-55,executive-managerial,NY
+203,F,18-24,college-grad student,WI
+488,M,25-34,programmer,MN
+1944,F,18-24,college-grad student,CA
+965,M,>56,executive-managerial,NY
+4449,M,25-34,programmer,NC
+5901,F,35-44,executive-managerial,CA
+1656,M,25-34,technician-engineer,CA
+3679,M,25-34,college-grad student,NE
+4919,M,18-24,other,UT
+4908,M,35-44,scientist,AZ
+1186,M,18-24,unemployed,WA
+3036,M,>56,retired,NY
+2267,F,>56,retired,TN
+4241,M,35-44,executive-managerial,NY
+1006,M,18-24,college-grad student,WI
+921,M,25-34,technician-engineer,CA
+5864,F,50-55,academic-educator,NC
+4549,F,<18,K-12 student,WA
+946,M,35-44,executive-managerial,N/A
+1054,M,<18,K-12 student,TX
+449,M,25-34,executive-managerial,AZ
+3384,M,35-44,executive-managerial,CA
+5758,F,50-55,academic-educator,SC
+4098,M,35-44,executive-managerial,WI
+5268,F,25-34,artist,NE
+5438,M,25-34,sales-marketing,IL
+4847,M,25-34,programmer,CA
+794,M,50-55,writer,NY
+2845,M,25-34,college-grad student,OK
+4459,M,25-34,academic-educator,NC
+3832,F,25-34,executive-managerial,OH
+1635,M,25-34,other,OR
+3382,F,<18,K-12 student,MN
+2202,F,<18,K-12 student,NY
+2668,F,25-34,college-grad student,CA
+2790,M,25-34,writer,AZ
+2560,F,45-49,doctor-health care,UT
+1603,F,25-34,other,NY
+3938,M,25-34,artist,N/A
+4971,M,35-44,executive-managerial,CA
+4901,M,25-34,executive-managerial,NY
+688,M,>56,retired,NY
+4680,M,35-44,other,ME
+5393,M,35-44,executive-managerial,NY
+2140,M,45-49,sales-marketing,IN
+2437,M,25-34,college-grad student,VA
+3359,M,25-34,writer,VA
+4234,F,45-49,clerical-admin,MI
+5426,M,25-34,sales-marketing,CA
+4952,F,25-34,sales-marketing,MI
+81,F,25-34,other,IL
+442,M,25-34,academic-educator,MN
+1383,F,25-34,executive-managerial,DE
+3995,M,35-44,technician-engineer,VA
+5610,F,25-34,academic-educator,WI
+20,M,25-34,sales-marketing,MN
+2969,M,25-34,executive-managerial,CT
+3718,M,50-55,technician-engineer,NJ
+5185,F,35-44,college-grad student,OH
+1599,M,25-34,other,CA
+1070,F,45-49,artist,DC
+3080,M,25-34,writer,MN
+2283,M,35-44,tradesman-craftsman,OH
+1246,M,18-24,college-grad student,WA
+5025,M,25-34,writer,IL
+4101,M,18-24,college-grad student,VA
+2670,M,35-44,doctor-health care,CA
+1833,M,18-24,technician-engineer,NJ
+4168,F,45-49,doctor-health care,TN
+3206,M,18-24,writer,OH
+2685,M,45-49,executive-managerial,MA
+1589,M,25-34,other,CA
+2046,M,35-44,academic-educator,CA
+4671,M,25-34,programmer,CA
+3031,M,18-24,college-grad student,MI
+3492,M,35-44,executive-managerial,TX
+5555,M,<18,K-12 student,TN
+3983,M,25-34,other,GA
+1348,F,<18,K-12 student,ME
+133,F,25-34,other,MN
+288,F,25-34,programmer,OR
+4019,M,35-44,technician-engineer,WI
+1474,M,25-34,college-grad student,WA
+1376,F,45-49,academic-educator,FL
+184,F,25-34,other,PA
+2503,M,35-44,technician-engineer,PA
+2168,M,<18,K-12 student,IL
+1477,F,45-49,academic-educator,CA
+4500,M,50-55,executive-managerial,TX
+293,M,>56,academic-educator,N/A
+1992,M,18-24,college-grad student,AZ
+2284,M,25-34,writer,CA
+3584,M,18-24,other,TX
+3546,M,25-34,writer,N/A
+3839,M,50-55,sales-marketing,MA
+3845,M,25-34,programmer,CA
+1845,M,25-34,artist,NY
+4834,F,45-49,homemaker,NH
+1838,M,35-44,executive-managerial,NY
+729,M,35-44,programmer,AZ
+4676,M,45-49,sales-marketing,IN
+3077,M,18-24,college-grad student,OH
+5323,M,25-34,writer,CA
+1159,M,18-24,other,MI
+5637,M,<18,K-12 student,NY
+5880,M,25-34,academic-educator,NJ
+891,M,25-34,academic-educator,CO
+1108,M,>56,academic-educator,CA
+1642,M,50-55,retired,IL
+5403,M,<18,K-12 student,MT
+4846,F,25-34,artist,CA
+469,M,35-44,doctor-health care,MN
+1968,M,25-34,lawyer,AZ
+686,M,18-24,college-grad student,NC
+4492,M,>56,retired,N/A
+5977,M,35-44,academic-educator,CA
+4855,M,25-34,programmer,CA
+5402,F,25-34,other,GA
+2953,M,25-34,writer,VA
+1470,M,18-24,college-grad student,CA
+5364,F,25-34,clerical-admin,MN
+1821,M,25-34,writer,OH
+1785,M,18-24,college-grad student,ME
+2785,M,>56,retired,SC
+5729,M,18-24,K-12 student,WA
+5757,M,<18,K-12 student,VT
+5707,M,25-34,programmer,MA
+237,M,25-34,doctor-health care,IN
+2497,F,50-55,sales-marketing,TN
+5453,M,18-24,college-grad student,GA
+4321,M,45-49,executive-managerial,CO
+696,M,25-34,programmer,CA
+3849,M,35-44,other,NY
+858,M,35-44,sales-marketing,NY
+3249,F,25-34,college-grad student,CA
+5631,M,35-44,programmer,MA
+2594,M,35-44,executive-managerial,GA
+3652,M,25-34,programmer,CA
+2027,F,25-34,homemaker,MI
+5928,M,45-49,academic-educator,NY
+1590,M,35-44,academic-educator,CA
+2109,M,25-34,self-employed,NY
+3778,M,25-34,other,IL
+5358,M,35-44,executive-managerial,N/A
+1701,F,25-34,college-grad student,OR
+2262,M,45-49,technician-engineer,MI
+4128,M,35-44,doctor-health care,IL
+3779,F,45-49,artist,WA
+80,M,>56,academic-educator,MI
+3484,M,18-24,college-grad student,NC
+6027,M,18-24,college-grad student,MD
+5330,F,25-34,other,PA
+924,M,50-55,technician-engineer,WA
+842,F,18-24,other,MN
+5315,M,25-34,programmer,VA
+1164,F,25-34,unemployed,CA
+4849,F,18-24,college-grad student,OH
+5556,M,45-49,doctor-health care,CA
+2119,M,35-44,college-grad student,NY
+3881,M,18-24,artist,OH
+5408,M,25-34,writer,N/A
+2875,M,25-34,artist,NY
+3857,M,18-24,sales-marketing,NJ
+3190,M,<18,technician-engineer,OR
+2534,F,50-55,doctor-health care,TN
+3908,M,25-34,other,NY
+300,M,25-34,executive-managerial,TX
+3204,M,45-49,self-employed,CO
+2360,M,50-55,doctor-health care,NY
+5974,F,25-34,academic-educator,FL
+3999,M,35-44,technician-engineer,GA
+1445,M,25-34,artist,WA
+5678,M,35-44,technician-engineer,WA
+5533,F,50-55,artist,NY
+4167,M,25-34,writer,VA
+2155,F,<18,K-12 student,IA
+2318,M,>56,executive-managerial,MI
+5837,M,25-34,executive-managerial,IL
+3201,M,45-49,executive-managerial,AL
+778,M,18-24,technician-engineer,FL
+5628,M,18-24,college-grad student,CA
+5172,F,35-44,lawyer,VT
+3432,M,25-34,programmer,NC
+549,M,25-34,doctor-health care,WI
+2535,F,>56,artist,NH
+771,F,50-55,academic-educator,TX
+3430,F,45-49,academic-educator,PA
+5521,F,25-34,doctor-health care,MA
+870,F,25-34,academic-educator,MA
+3587,M,35-44,clerical-admin,CA
+5734,F,25-34,sales-marketing,NY
+956,M,35-44,academic-educator,MN
+5440,F,45-49,artist,TN
+2900,M,18-24,programmer,CA
+787,M,18-24,college-grad student,TX
+4907,F,50-55,executive-managerial,MN
+2451,M,45-49,programmer,TN
+5585,M,25-34,college-grad student,NY
+5405,F,50-55,executive-managerial,NY
+3687,F,50-55,academic-educator,IL
+215,M,35-44,sales-marketing,CA
+1797,M,35-44,executive-managerial,IA
+3230,M,35-44,self-employed,CA
+3205,F,35-44,self-employed,CO
+2258,F,18-24,college-grad student,NY
+2602,M,45-49,programmer,CA
+4867,M,25-34,self-employed,ME
+3797,M,25-34,executive-managerial,MA
+1147,M,25-34,writer,WA
+1206,F,50-55,executive-managerial,FL
+5122,M,25-34,other,DC
+3082,F,35-44,doctor-health care,OH
+4991,F,>56,sales-marketing,CA
+5244,M,18-24,college-grad student,MA
+1276,M,35-44,technician-engineer,CA
+4959,M,25-34,technician-engineer,VA
+5300,M,25-34,writer,CA
+4062,M,25-34,executive-managerial,IL
+5913,F,18-24,other,IN
+5520,M,45-49,academic-educator,PA
+3151,F,25-34,other,CA
+2285,F,<18,K-12 student,NY
+832,M,18-24,artist,PA
+196,F,35-44,homemaker,CA
+91,M,35-44,executive-managerial,NJ
+3115,M,35-44,technician-engineer,MI
+5739,M,25-34,executive-managerial,CA
+1716,M,25-34,other,OH
+2506,F,25-34,sales-marketing,WA
+623,M,25-34,technician-engineer,IL
+2862,M,45-49,executive-managerial,MN
+149,M,25-34,academic-educator,SC
+3124,M,25-34,programmer,GA
+1766,F,45-49,other,CA
+1190,M,45-49,other,WA
+900,F,>56,retired,CA
+2919,M,18-24,technician-engineer,N/A
+662,M,18-24,college-grad student,WA
+1554,F,35-44,programmer,PA
+5971,M,35-44,executive-managerial,MI
+28,F,25-34,academic-educator,NY
+4695,M,18-24,tradesman-craftsman,MN
+3643,M,25-34,technician-engineer,VA
+3519,F,25-34,sales-marketing,NY
+103,M,45-49,executive-managerial,CA
+3605,M,18-24,programmer,IL
+5970,M,35-44,lawyer,MN
+3668,F,45-49,executive-managerial,FL
+2750,F,25-34,scientist,CA
+3005,M,25-34,technician-engineer,CA
+2301,F,25-34,programmer,MA
+2358,F,>56,doctor-health care,CT
+5053,M,25-34,college-grad student,UT
+818,M,18-24,college-grad student,IL
+1615,F,45-49,executive-managerial,NY
+4424,M,25-34,executive-managerial,CA
+3253,F,35-44,college-grad student,WV
+1679,M,25-34,programmer,WA
+5262,F,25-34,sales-marketing,IN
+2176,M,<18,unemployed,OK
+3749,F,25-34,other,IL
+2191,M,18-24,college-grad student,OH
+4106,M,25-34,self-employed,CA
+320,M,35-44,doctor-health care,AK
+3662,M,35-44,self-employed,NJ
+3487,M,18-24,college-grad student,IL
+2161,F,35-44,artist,CA
+5213,M,18-24,other,GA
+2136,M,35-44,tradesman-craftsman,NY
+544,M,35-44,programmer,CA
+2011,F,35-44,clerical-admin,MA
+2476,M,50-55,programmer,TX
+3682,F,50-55,academic-educator,NY
+4034,M,25-34,other,MD
+5706,M,18-24,technician-engineer,NJ
+5842,M,25-34,college-grad student,OH
+3483,F,45-49,executive-managerial,GA
+5175,F,35-44,homemaker,FL
+3527,M,25-34,other,WI
+5805,F,25-34,other,CA
+3468,M,25-34,writer,CA
+2592,M,50-55,executive-managerial,N/A
+2873,F,18-24,college-grad student,MO
+827,M,45-49,artist,MN
+1970,M,50-55,retired,NV
+44,M,45-49,technician-engineer,WA
+932,F,35-44,doctor-health care,OR
+2138,F,18-24,college-grad student,NM
+3795,F,18-24,college-grad student,CA
+183,F,45-49,academic-educator,MN
+3623,M,35-44,lawyer,OH
+5582,M,45-49,academic-educator,IA
+2455,M,35-44,executive-managerial,MI
+4189,M,35-44,sales-marketing,CA
+668,F,25-34,clerical-admin,VA
+3154,F,25-34,college-grad student,CA
+4324,M,25-34,customer service,IL
+798,F,25-34,writer,MI
+1417,M,35-44,self-employed,NY
+5049,M,25-34,programmer,IL
+3057,F,25-34,programmer,MN
+4235,M,50-55,artist,CA
+393,M,35-44,technician-engineer,MN
+5650,F,35-44,programmer,CA
+2490,M,25-34,programmer,CA
+823,M,25-34,other,CA
+1758,F,25-34,other,N/A
+5264,M,18-24,college-grad student,PA
+3454,M,18-24,other,CA
+3438,F,25-34,other,TX
+5698,M,35-44,sales-marketing,MN
+3678,M,25-34,other,CT
+906,M,<18,K-12 student,LA
+4859,F,18-24,sales-marketing,IA
+3240,M,18-24,college-grad student,MN
+3243,M,25-34,programmer,WA
+1506,M,25-34,executive-managerial,NJ
+4463,M,50-55,executive-managerial,NJ
+3904,M,<18,K-12 student,MI
+2848,M,25-34,other,IN
+916,F,25-34,academic-educator,CA
+5644,F,18-24,college-grad student,CA
+5004,F,>56,academic-educator,CA
+3223,M,25-34,writer,NY
+2590,M,18-24,college-grad student,CA
+3157,M,25-34,programmer,CA
+1079,M,25-34,executive-managerial,WA
+588,F,25-34,lawyer,VA
+2125,M,35-44,clerical-admin,IN
+5340,F,50-55,clerical-admin,CA
+1120,M,18-24,college-grad student,CA
+2121,M,>56,retired,MA
+4233,M,35-44,college-grad student,TN
+486,M,>56,other,CA
+315,F,>56,academic-educator,MN
+5764,F,50-55,programmer,TX
+4187,F,>56,writer,MO
+4922,M,18-24,technician-engineer,WA
+1905,F,35-44,writer,CA
+1568,F,<18,K-12 student,CA
+4374,M,18-24,college-grad student,OH
+1855,M,18-24,college-grad student,CA
+3217,F,35-44,other,CA
+5753,M,18-24,technician-engineer,TX
+314,F,>56,homemaker,IN
+1076,F,25-34,clerical-admin,NC
+3625,M,18-24,K-12 student,MI
+3010,M,25-34,programmer,TX
+2556,M,25-34,college-grad student,N/A
+5510,M,18-24,college-grad student,N/A
+1319,F,25-34,clerical-admin,WA
+4353,M,25-34,executive-managerial,NY
+4132,M,25-34,technician-engineer,CO
+814,F,18-24,college-grad student,CA
+810,M,25-34,programmer,WA
+4031,M,25-34,other,KY
+5407,F,35-44,technician-engineer,GA
+1893,F,35-44,other,CA
+2390,F,25-34,doctor-health care,FL
+5135,M,35-44,executive-managerial,MO
+2563,M,45-49,retired,WI
+4909,F,35-44,programmer,CA
+5324,M,25-34,executive-managerial,MA
+216,M,45-49,retired,IA
+3400,M,25-34,sales-marketing,NJ
+5475,M,25-34,college-grad student,CA
+4219,M,35-44,technician-engineer,CA
+1071,M,50-55,self-employed,NY
+3632,M,50-55,lawyer,FL
+2482,F,50-55,clerical-admin,TN
+3422,M,25-34,customer service,OH
+1044,M,25-34,writer,AR
+4410,M,18-24,unemployed,KY
+3736,M,35-44,academic-educator,OH
+167,F,25-34,lawyer,NY
+4407,M,18-24,college-grad student,MA
+2591,M,18-24,academic-educator,IA
+3381,M,25-34,other,AP
+4474,M,35-44,executive-managerial,NC
+1381,M,18-24,lawyer,NV
+5259,M,25-34,doctor-health care,CA
+4464,F,50-55,academic-educator,IL
+730,M,25-34,other,NY
+1001,M,25-34,college-grad student,CA
+2016,F,>56,artist,MD
+5281,M,25-34,artist,CA
+2130,M,45-49,other,NH
+1571,M,25-34,writer,WA
+5542,M,45-49,executive-managerial,NY
+4774,M,45-49,sales-marketing,NJ
+866,M,<18,K-12 student,NJ
+2008,M,25-34,clerical-admin,MI
+4937,M,35-44,other,MA
+3426,M,25-34,writer,CA
+2735,M,25-34,executive-managerial,VA
+804,M,25-34,writer,CA
+3083,F,50-55,other,OR
+2637,F,35-44,writer,OH
+2901,M,25-34,technician-engineer,TX
+3919,M,45-49,other,OK
+3533,M,25-34,artist,MN
+2819,M,45-49,sales-marketing,OH
+1347,F,18-24,academic-educator,NY
+3297,M,18-24,college-grad student,CA
+2987,M,18-24,college-grad student,PA
+5958,M,45-49,sales-marketing,CA
+4614,F,45-49,academic-educator,NY
+1031,M,35-44,self-employed,DE
+762,M,<18,K-12 student,MO
+519,F,35-44,sales-marketing,MN
+5925,F,25-34,other,N/A
+4785,F,25-34,sales-marketing,MN
+3626,M,25-34,technician-engineer,TX
+617,F,25-34,executive-managerial,CA
+3582,F,35-44,other,IA
+2589,M,25-34,other,PA
+5104,M,35-44,writer,PA
+4917,M,45-49,other,NC
+5822,F,35-44,college-grad student,TX
+3264,F,25-34,academic-educator,CA
+2368,F,>56,retired,NY
+3265,M,25-34,scientist,WI
+61,M,25-34,technician-engineer,CA
+4009,M,18-24,executive-managerial,OH
+4069,M,35-44,scientist,PA
+4102,M,<18,K-12 student,MI
+5888,M,25-34,writer,MO
+4270,M,45-49,executive-managerial,NY
+174,M,25-34,self-employed,MD
+5926,F,50-55,executive-managerial,MO
+4447,M,45-49,customer service,FL
+4787,M,<18,lawyer,CA
+4045,M,>56,retired,KY
+945,M,45-49,executive-managerial,MI
+4115,M,25-34,scientist,WA
+1293,M,25-34,customer service,IL
+4508,M,25-34,writer,PA
+5590,F,45-49,programmer,CA
+3746,M,25-34,customer service,WI
+4618,M,25-34,sales-marketing,OR
+121,M,35-44,executive-managerial,TX
+2156,M,18-24,unemployed,MN
+4399,F,18-24,college-grad student,OH
+727,M,35-44,lawyer,CA
+3329,M,50-55,tradesman-craftsman,AR
+2916,M,45-49,artist,WA
+3029,M,18-24,college-grad student,CA
+389,M,25-34,doctor-health care,NE
+5776,M,18-24,programmer,OR
+760,M,>56,scientist,CA
+4328,M,50-55,clerical-admin,TX
+5385,M,25-34,programmer,AZ
+468,F,<18,K-12 student,MN
+5669,M,>56,academic-educator,CA
+1069,M,25-34,writer,WA
+5215,F,>56,doctor-health care,CA
+5786,M,25-34,doctor-health care,WI
+4770,F,35-44,executive-managerial,NY
+1194,F,25-34,academic-educator,CA
+5997,F,25-34,executive-managerial,NY
+1651,M,25-34,programmer,CA
+807,M,18-24,college-grad student,NV
+3566,M,45-49,other,WI
+1704,M,25-34,college-grad student,WA
+3224,F,25-34,sales-marketing,CA
+929,M,25-34,scientist,WI
+2373,M,45-49,executive-managerial,CA
+2555,M,>56,executive-managerial,NY
+1707,M,50-55,academic-educator,CA
+2952,M,25-34,college-grad student,CT
+3012,M,25-34,programmer,TX
+2834,M,35-44,academic-educator,FL
+5515,M,18-24,college-grad student,PA
+1881,M,35-44,artist,CA
+4142,M,>56,executive-managerial,MA
+6032,M,45-49,executive-managerial,MN
+5883,F,18-24,other,MA
+5221,F,>56,academic-educator,HI
+2361,M,>56,executive-managerial,MI
+1268,M,50-55,artist,NY
+5238,F,50-55,self-employed,NJ
+2443,F,35-44,other,MI
+4738,M,>56,academic-educator,VA
+63,M,18-24,college-grad student,WI
+3898,M,45-49,lawyer,MA
+1103,F,45-49,executive-managerial,IL
+4047,M,18-24,college-grad student,GA
+1432,M,35-44,academic-educator,CA
+5075,M,50-55,doctor-health care,OR
+4412,M,18-24,college-grad student,PA
+2074,M,18-24,college-grad student,MI
+3818,M,45-49,technician-engineer,FL
+1444,F,25-34,college-grad student,CA
+440,M,>56,academic-educator,FL
+5181,M,25-34,executive-managerial,PA
+305,F,18-24,other,MN
+5219,M,18-24,college-grad student,CA
+5154,M,25-34,self-employed,DC
+4422,M,25-34,customer service,NY
+5282,F,18-24,college-grad student,MO
+5409,M,45-49,academic-educator,IL
+2755,M,35-44,executive-managerial,SC
+5863,F,25-34,sales-marketing,NV
+3865,F,<18,K-12 student,CA
+1401,F,18-24,academic-educator,CA
+1720,M,18-24,college-grad student,CA
+3485,M,25-34,other,CA
+4334,M,25-34,academic-educator,LA
+4275,F,45-49,self-employed,NY
+1724,M,18-24,college-grad student,PR
+5828,M,25-34,technician-engineer,CA
+52,M,18-24,college-grad student,AR
+5731,F,25-34,lawyer,NY
+5192,M,25-34,executive-managerial,CO
+64,M,18-24,academic-educator,WI
+4133,M,45-49,college-grad student,TX
+1258,M,45-49,executive-managerial,MD
+594,F,>56,retired,IL
+4840,F,45-49,doctor-health care,MO
+4902,M,35-44,sales-marketing,UT
+2337,M,35-44,technician-engineer,MI
+5818,M,25-34,college-grad student,CA
+2553,M,25-34,executive-managerial,SC
+1389,M,25-34,technician-engineer,DE
+5892,M,45-49,artist,NY
+34,F,18-24,other,MA
+5587,M,25-34,technician-engineer,VA
+4467,F,50-55,doctor-health care,PA
+270,M,50-55,sales-marketing,MN
+112,M,25-34,self-employed,OR
+3134,M,18-24,college-grad student,MN
+59,F,50-55,academic-educator,MN
+526,M,45-49,technician-engineer,CA
+2857,M,25-34,other,NY
+2884,F,50-55,clerical-admin,WI
+2880,M,18-24,programmer,MN
+750,F,35-44,homemaker,NY
+2731,M,35-44,executive-managerial,NY
+1834,M,35-44,customer service,NY
+3963,M,50-55,writer,GA
+2931,M,18-24,college-grad student,PA
+3633,M,35-44,tradesman-craftsman,IL
+3910,M,25-34,writer,CA
+955,F,50-55,executive-managerial,CA
+2402,M,45-49,technician-engineer,FL
+3168,F,35-44,customer service,CA
+2410,M,>56,executive-managerial,CT
+3237,M,35-44,executive-managerial,VT
+742,M,18-24,other,WI
+5308,M,>56,executive-managerial,NC
+3851,M,25-34,programmer,IL
+2861,M,25-34,scientist,CT
+3476,M,50-55,other,OH
+1985,M,45-49,programmer,CA
+5177,M,45-49,sales-marketing,GA
+1318,M,18-24,self-employed,CA
+129,M,25-34,lawyer,VA
+616,M,25-34,executive-managerial,CA
+3219,F,18-24,college-grad student,WI
+2749,M,25-34,programmer,NY
+3388,F,25-34,academic-educator,CA
+5121,M,25-34,executive-managerial,CA
+5747,M,25-34,other,NH
+367,M,50-55,programmer,MN
+676,M,18-24,self-employed,MN
+3606,F,25-34,scientist,MA
+2885,F,18-24,academic-educator,CO
+2090,M,35-44,technician-engineer,MI
+829,M,<18,unemployed,WI
+2562,M,18-24,other,WA
+780,M,25-34,technician-engineer,CA
+2203,M,45-49,programmer,WI
+1404,M,50-55,self-employed,CA
+225,M,25-34,executive-managerial,NY
+4417,M,25-34,scientist,MA
+5566,M,35-44,executive-managerial,MD
+5803,M,<18,K-12 student,N/A
+4982,M,25-34,programmer,MO
+5124,M,35-44,artist,MD
+3585,M,35-44,writer,IL
+4921,F,25-34,scientist,CA
+5344,F,50-55,academic-educator,WA
+3708,M,>56,executive-managerial,GA
+5710,M,25-34,scientist,CA
+1093,M,50-55,sales-marketing,IL
+2226,F,25-34,executive-managerial,NC
+4822,F,35-44,other,MA
+3059,M,35-44,other,TX
+2558,M,>56,technician-engineer,WI
+1309,M,25-34,sales-marketing,TX
+2579,M,35-44,scientist,CA
+3316,M,<18,unemployed,CA
+1906,F,25-34,customer service,CA
+3560,F,25-34,doctor-health care,OK
+1743,M,35-44,technician-engineer,TX
+5886,M,25-34,writer,MA
+3773,M,35-44,doctor-health care,IA
+1882,M,35-44,self-employed,CA
+3711,M,35-44,other,FL
+4708,M,25-34,other,IL
+3927,F,25-34,self-employed,KS
+441,M,35-44,academic-educator,MN
+2729,M,50-55,executive-managerial,PA
+2296,F,25-34,doctor-health care,VA
+5291,M,45-49,academic-educator,OH
+1607,M,45-49,academic-educator,MA
+2688,M,25-34,technician-engineer,WI
+3304,F,45-49,customer service,CA
+2096,F,25-34,technician-engineer,FL
+5110,M,35-44,scientist,TX
+5209,M,50-55,academic-educator,IN
+4240,M,35-44,technician-engineer,MN
+785,M,18-24,unemployed,SC
+4842,F,35-44,academic-educator,VA
+1013,M,>56,retired,MA
+991,F,25-34,homemaker,MI
+3235,M,18-24,college-grad student,NM
+1759,M,25-34,self-employed,N/A
+5942,M,45-49,academic-educator,MA
+2764,M,25-34,executive-managerial,CA
+1981,M,>56,academic-educator,CO
+4273,M,45-49,retired,GA
+1608,M,25-34,lawyer,TX
+3713,F,25-34,executive-managerial,VA
+4767,F,35-44,homemaker,NH
+5174,M,45-49,academic-educator,OH
+1610,M,25-34,lawyer,MN
+2745,F,35-44,academic-educator,GA
+4858,M,25-34,academic-educator,ME
+2772,M,35-44,technician-engineer,NY
+1354,F,25-34,artist,CA
+4355,M,50-55,sales-marketing,NJ
+1754,M,18-24,unemployed,NC
+2691,M,18-24,college-grad student,CT
+1500,M,25-34,technician-engineer,WA
+4527,M,18-24,other,TN
+351,M,18-24,college-grad student,MN
+268,F,18-24,programmer,SC
+1662,M,25-34,programmer,CA
+2660,M,>56,technician-engineer,NC
+4994,M,45-49,technician-engineer,MN
+1886,M,25-34,programmer,CA
+2754,M,50-55,programmer,IL
+987,F,35-44,technician-engineer,MI
+5339,M,18-24,technician-engineer,IL
+3648,M,18-24,college-grad student,AZ
+4813,F,35-44,homemaker,IN
+1851,M,25-34,unemployed,MT
+1416,M,25-34,sales-marketing,WA
+2957,M,18-24,college-grad student,MI
+5752,F,>56,other,NY
+2824,M,18-24,college-grad student,MA
+2276,M,>56,retired,OH
+5674,M,35-44,executive-managerial,CA
+5551,F,35-44,writer,WA
+4137,M,25-34,executive-managerial,CA
+2939,F,25-34,scientist,CA
+326,M,50-55,lawyer,WV
+5924,M,35-44,other,MN
+2630,F,18-24,customer service,TX
+5400,F,18-24,college-grad student,GA
+6014,M,45-49,academic-educator,CO
+3958,M,45-49,executive-managerial,IN
+3298,M,<18,K-12 student,MD
+5571,F,25-34,homemaker,NJ
+3310,M,45-49,sales-marketing,NY
+1131,M,>56,retired,NY
+3763,M,25-34,artist,WA
+2550,M,50-55,executive-managerial,TN
+5871,F,25-34,college-grad student,MA
+5420,F,<18,unemployed,NY
+3344,M,35-44,other,NJ
+5212,M,18-24,artist,CA
+5894,M,35-44,other,LA
+1,F,<18,K-12 student,MI
+1458,M,<18,other,NJ
+2245,M,<18,K-12 student,IL
+1261,M,18-24,college-grad student,KY
+962,F,25-34,academic-educator,CO
+1551,M,25-34,lawyer,DC
+670,M,25-34,programmer,GA
+4020,M,25-34,doctor-health care,TX
+5626,M,>56,self-employed,FL
+5605,F,18-24,artist,CA
+1128,M,25-34,academic-educator,AR
+5609,F,50-55,academic-educator,GA
+5503,F,25-34,homemaker,MN
+3266,F,25-34,college-grad student,CA
+5055,F,35-44,self-employed,OR
+354,M,35-44,academic-educator,MN
+5447,M,45-49,artist,IL
+3203,M,35-44,other,CA
+3784,F,25-34,academic-educator,WA
+5554,M,25-34,academic-educator,CA
+5848,M,50-55,writer,DC
+5940,M,50-55,programmer,NH
+1747,M,25-34,other,CA
+5696,F,25-34,sales-marketing,OR
+5523,M,35-44,other,IL
+93,M,25-34,technician-engineer,CA
+542,M,18-24,college-grad student,TX
+5382,M,18-24,college-grad student,NJ
+180,M,45-49,programmer,MA
+5850,F,25-34,executive-managerial,TX
+4865,F,35-44,sales-marketing,MA
+3285,M,25-34,college-grad student,OH
+3932,M,25-34,executive-managerial,MI
+230,M,45-49,academic-educator,OH
+1407,F,35-44,scientist,WI
+3254,F,35-44,doctor-health care,CA
+4690,F,<18,K-12 student,TX
+4198,M,18-24,college-grad student,CO
+592,M,18-24,other,CA
+2655,M,35-44,executive-managerial,KS
+4403,M,25-34,scientist,CA
+5968,M,>56,executive-managerial,WA
+3524,F,25-34,other,ID
+3342,F,25-34,customer service,CA
+1259,M,35-44,executive-managerial,N/A
+3940,M,35-44,writer,FL
+4646,F,25-34,doctor-health care,CA
+5588,F,25-34,writer,IL
+3128,M,18-24,artist,NY
+1931,M,25-34,artist,CA
+3798,M,25-34,executive-managerial,MI
+1613,M,18-24,writer,IL
+3162,M,25-34,academic-educator,N/A
+2300,M,>56,retired,MI
+2512,F,45-49,sales-marketing,AL
+4099,M,35-44,technician-engineer,CA
+2380,M,25-34,college-grad student,VA
+5777,M,<18,other,VT
+1493,F,25-34,sales-marketing,IL
+3890,M,18-24,college-grad student,FL
+1113,M,18-24,college-grad student,OR
+1141,F,25-34,clerical-admin,UT
+1746,M,25-34,college-grad student,FL
+3627,F,35-44,academic-educator,AZ
+3118,M,25-34,other,TX
+4058,M,25-34,doctor-health care,OK
+3545,M,35-44,programmer,CA
+3466,M,25-34,sales-marketing,CA
+3615,M,25-34,technician-engineer,TX
+4793,F,25-34,doctor-health care,MI
+5537,F,>56,academic-educator,NY
+805,M,35-44,programmer,TN
+1107,F,50-55,academic-educator,MA
+5955,F,25-34,executive-managerial,FL
+5672,F,25-34,college-grad student,OH
+864,F,25-34,other,OR
+4761,M,18-24,scientist,MD
+2196,M,25-34,programmer,OH
+2459,M,50-55,executive-managerial,OH
+5951,M,18-24,college-grad student,TX
+3786,F,25-34,other,CA
+1158,F,35-44,academic-educator,WA
+3631,M,18-24,college-grad student,TX
+2977,F,18-24,college-grad student,MI
+4348,M,45-49,other,GA
+537,M,45-49,sales-marketing,NJ
+2222,F,45-49,academic-educator,NY
+789,M,18-24,academic-educator,KS
+402,M,25-34,lawyer,MN
+22,M,18-24,scientist,WI
+2187,M,45-49,self-employed,IL
+247,M,25-34,technician-engineer,CA
+3614,M,25-34,other,OH
+3166,M,18-24,college-grad student,FL
+4075,M,25-34,self-employed,IN
+4807,M,<18,artist,ME
+5015,M,35-44,doctor-health care,CA
+193,F,45-49,scientist,OH
+4192,M,35-44,technician-engineer,TX
+5981,M,35-44,executive-managerial,MA
+3100,F,25-34,doctor-health care,CA
+4792,F,50-55,executive-managerial,CA
+1924,F,>56,doctor-health care,CA
+244,M,50-55,executive-managerial,PA

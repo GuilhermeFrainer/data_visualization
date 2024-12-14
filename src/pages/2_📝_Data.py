@@ -1,8 +1,6 @@
 import streamlit as st
 import polars as pl
 
-import hypothesis_row as hr
-
 
 DATA_DIR = "data/"
 DATA_FILES = {
