@@ -43,6 +43,7 @@ def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int, **kwa
             ids=df["child"],
             parents=df["parent"],
             labels=df["label"],
+            values=df["count"],
             **kwargs
         )
     )
