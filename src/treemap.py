@@ -21,7 +21,7 @@ __COLORS = [
 ]
 
 
-def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int, **kwargs) -> go.Figure:
+def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int, use_values=False, **kwargs) -> go.Figure:
     """
     Draws a treemap based on the list.
 
@@ -29,6 +29,8 @@ def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int, **kwa
         hs (list[HypothesisRow]): list of HypothesisRow elements.
         start (int): beginning of the range to be plotted.
         end (int): end of the range (non-inclusive).
+        use_values (bool, default False): determines if values are going to be used to determine the
+            size of the areas.
 
     Returns:
         go.Figure: treemap with the hypothesis in the range drawn.
@@ -38,15 +40,25 @@ def make_treemap_from_range(hs: list[HypothesisRow], start: int, end: int, **kwa
         df = __add_subroot_to_df(df, h)
 
     fig = go.Figure()
-    fig.add_trace(
-        go.Treemap(
-            ids=df["child"],
-            parents=df["parent"],
-            labels=df["label"],
-            values=df["count"],
-            **kwargs
+    if use_values:
+        fig.add_trace(
+            go.Treemap(
+                ids=df["child"],
+                parents=df["parent"],
+                labels=df["label"],
+                values=df["count"],
+                **kwargs
+            )
         )
-    )
+    else:
+        fig.add_trace(
+            go.Treemap(
+                ids=df["child"],
+                parents=df["parent"],
+                labels=df["label"],
+                **kwargs
+            )
+        )
     return fig
 
 
