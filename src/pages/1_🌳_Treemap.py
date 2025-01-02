@@ -17,6 +17,7 @@ ALGORITHMS = {
     "Greedy": "Greedy-HEP",
     "Reinforcement Learning": "RL-HEP",
 }
+FONT_SIZE = 20
 
 
 def main():
@@ -36,11 +37,15 @@ def main():
 
     proportional = st.sidebar.checkbox("Make areas proportional to user count")
 
+    st.markdown("# Treemap")
+
     df = pl.read_csv(DATA_DIR + DATA_FILES[dataset])
     users_df = pl.read_csv(DATA_DIR + "user_counts/" + DATA_FILES[dataset])
     hs = hr.HypothesisRow.df_to_list(df.filter(pl.col("algorithm") == algorithm), users_df)
-    treemap = tm.make_treemap_from_range(hs, MIN_ROW, MAX_ROW, use_values=proportional, maxdepth=depth)
-    treemap.update_layout(height=height, width=width)
+    treemap = tm.make_treemap_from_range(
+        hs, MIN_ROW, MAX_ROW, use_values=proportional, maxdepth=depth)
+        #hover_data=["count"])
+    treemap.update_layout(height=height, width=width, font=dict(size=FONT_SIZE))
     st.plotly_chart(treemap)
 
 
