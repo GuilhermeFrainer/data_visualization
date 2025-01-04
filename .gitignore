@@ -2,3 +2,4 @@ TODO.md
 src/__pycache__
 notebooks/__pycache__
 .gitignore
+data/original_datasets/*
