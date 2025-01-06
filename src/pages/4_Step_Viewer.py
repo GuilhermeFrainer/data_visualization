@@ -33,7 +33,7 @@ def main():
     df = pipeline_dataframe(hs).to_pandas()
 
     sorting_opts = st.multiselect("Sort by", [c for c in df.columns])
-    sorted_df = df.sort_values(by=sorting_opts, key=Sorter.super_sort)
+    sorted_df = df.sort_values(by=sorting_opts, key=Sorter.super_sort, na_position="first")
     # Reorders columns, putting those selected by the user first
     diff = sorted_df.columns.difference(sorting_opts)
     sorted_df = sorted_df[sorting_opts + diff.to_list()]

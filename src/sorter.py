@@ -3,6 +3,9 @@ import re
 
 
 class Sorter:
+    __AGE_RANGES = {None, "<18", "18-24", "25-34", "35-44", "45-49", "50-55", ">56"}
+    __RUNTIMES = {None, "Short", "Long", "Very Long"}
+
     @staticmethod
     def super_sort(s: pd.Series) -> pd.Series:
         def is_decade(x: str) -> bool:
@@ -11,19 +14,19 @@ class Sorter:
             elif not isinstance(x, str):
                 return False
             return bool(re.match(r"^\d{1,4}s$", x))
-        
-        age_ranges = {"<18", "18-24", "25-34", "35-44", "45-49", "50-55", ">56"}
-        if s.map(lambda x: True if x in age_ranges else False).any():
+
+        if s.map(lambda x: x in Sorter.__AGE_RANGES).all():
             return Sorter.sort_age(s)
         # unpopular, semipopular, popular
         elif s.map(lambda x: "" if not x else x).map(lambda x: True if "popular" in x else False).any():
             return Sorter.sort_fans(s)
-        # Short, Long
-        elif s.map(lambda x: x == "Short").any():
+        # Short, Long, Very Long
+        elif s.map(lambda x: x in Sorter.__RUNTIMES).all():
             return Sorter.sort_runtime(s)
         # 30s, 20s, 2000s, 1300s
         elif s.map(is_decade).all():
             return Sorter.sort_year(s)
+        return s
 
 
     @staticmethod
@@ -45,7 +48,8 @@ class Sorter:
         return runtimes.map({
             None: 0,
             "Short": 1,
-            "Long": 2
+            "Long": 2,
+            "Very Long": 3
         })
 
 
