@@ -44,9 +44,8 @@ def main():
     hs = hr.HypothesisRow.df_to_list(df.filter(pl.col("algorithm") == algorithm), users_df)
     treemap = tm.make_treemap_from_range(
         hs, MIN_ROW, MAX_ROW, use_values=proportional, maxdepth=depth)
-    treemap.update_layout(font=dict(size=FONT_SIZE))
+    treemap.update_layout(width=width, height=height, font=dict(size=FONT_SIZE))
     st.plotly_chart(treemap, use_container_width=True)
-
 
 
 if __name__ == "__main__":

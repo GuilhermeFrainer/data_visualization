@@ -23,6 +23,7 @@ def main():
     filtered_df = df.select(columns)
     filtered_df
 
+
 if __name__ == "__main__":
     main()
 
