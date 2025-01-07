@@ -45,6 +45,7 @@ def main():
     treemap = tm.make_treemap_from_range(
         hs, MIN_ROW, MAX_ROW, use_values=proportional, maxdepth=depth)
     treemap.update_layout(width=width, height=height, font=dict(size=FONT_SIZE))
+    treemap.update_traces(root_color="lightgrey")
     st.plotly_chart(treemap, use_container_width=True)
 
 
