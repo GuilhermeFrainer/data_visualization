@@ -45,7 +45,7 @@ def main():
     original_df = original_df.filter(pl.col("algorithm") == algorithm_name)
 
     hs = HypothesisRow.df_to_list(original_df, user_count_df)
-    df = HypothesisRow.hypothesis_rows_to_group_df(hs).to_pandas()
+    df = HypothesisRow.hypothesis_rows_to_group_df(hs, include_hipothesis=True).to_pandas()
 
     sorting_opts = st.multiselect("Sort by", [c for c in df.columns])
     sorted_df = df.sort_values(by=sorting_opts, key=Sorter.super_sort, na_position="first")
@@ -75,7 +75,7 @@ def main():
             relations_df = pl.read_csv(ORIGINAL_DATASETS / f"{dataset}.csv")
             filtered_df = relations_df
             for k, v in row_attributes.items():
-                if row_attributes[k]:
+                if row_attributes[k] and k != "hypothesis":
                     filtered_df = filtered_df.filter(pl.col(k) == v)
             
             filtered_df = filtered_df.unique(ID_COL[dataset]).select(COLUMS_OF_INTEREST[dataset])
