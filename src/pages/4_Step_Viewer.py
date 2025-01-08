@@ -16,6 +16,16 @@ DATA_FILES = {
     "MovieLens": "movie_lens.csv",
 }
 USER_COUNT_DIR = DATA_DIR / "user_counts"
+ORIGINAL_DATASETS = DATA_DIR / "original_datasets"
+ID_COL = {"BookCrossing": "book_id", "MovieLens": "item_id"}
+COLUMS_OF_INTEREST = {
+    "BookCrossing": ["book_title", "book_author", "year_of_publication", "language", "category"],
+    "MovieLens": ["title", "genre", "year"]
+}
+ALGORITHMS = {
+    "Greedy": "Greedy-HEP",
+    "Reinforcement Learning": "RL-HEP",
+}
 
 
 def main():
@@ -29,6 +39,11 @@ def main():
     file = DATA_FILES[dataset]
     original_df = pl.read_csv(DATA_DIR / file)
     user_count_df = pl.read_csv(USER_COUNT_DIR / file)
+
+    algorithm = st.sidebar.selectbox("Algorithm", [k for k in ALGORITHMS])
+    algorithm_name = ALGORITHMS[algorithm]
+    original_df = original_df.filter(pl.col("algorithm") == algorithm_name)
+
     hs = HypothesisRow.df_to_list(original_df, user_count_df)
     df = HypothesisRow.hypothesis_rows_to_group_df(hs).to_pandas()
 
@@ -44,7 +59,32 @@ def main():
         return color_map.get(val, "")
 
     
-    st.dataframe(sorted_df.style.map(lambda val: style_nominal_values(color_map, val)))
+    if dataset != "Yelp":
+        col1, col2 = st.columns(2)
+
+        with col1:
+            selection = st.dataframe(
+                sorted_df.style.map(lambda val: style_nominal_values(color_map, val)),
+                on_select="rerun",
+                selection_mode="single-row")
+
+        if selection["selection"]["rows"]:
+            selected_row = selection["selection"]["rows"][0]
+            row_attributes = sorted_df.iloc[selected_row].to_dict()
+
+            relations_df = pl.read_csv(ORIGINAL_DATASETS / f"{dataset}.csv")
+            filtered_df = relations_df
+            for k, v in row_attributes.items():
+                if row_attributes[k]:
+                    filtered_df = filtered_df.filter(pl.col(k) == v)
+            
+            filtered_df = filtered_df.unique(ID_COL[dataset]).select(COLUMS_OF_INTEREST[dataset])
+            
+            with col2:
+                filtered_df
+    else:
+        st.dataframe(
+            sorted_df.style.map(lambda val: style_nominal_values(color_map, val)))
 
 
 def get_color_map_for_dataframe(df: pd.DataFrame) -> dict:
