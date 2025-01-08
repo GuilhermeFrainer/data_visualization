@@ -30,7 +30,7 @@ def main():
     original_df = pl.read_csv(DATA_DIR / file)
     user_count_df = pl.read_csv(USER_COUNT_DIR / file)
     hs = HypothesisRow.df_to_list(original_df, user_count_df)
-    df = pipeline_dataframe(hs).to_pandas()
+    df = HypothesisRow.hypothesis_rows_to_group_df(hs).to_pandas()
 
     sorting_opts = st.multiselect("Sort by", [c for c in df.columns])
     sorted_df = df.sort_values(by=sorting_opts, key=Sorter.super_sort, na_position="first")
@@ -55,28 +55,6 @@ def get_color_map_for_dataframe(df: pd.DataFrame) -> dict:
         for val, color in zip(unique_values, palette)
     }
     return color_map
-
-
-def pipeline_dataframe(hs: list[HypothesisRow]) -> pl.DataFrame:
-    rows: list[dict] = []
-    all_attributes = set()
-
-    for h in hs:
-        for c in h.children:
-            attrs = {}
-            for k, v in c.attributes.items():
-                attrs[k] = v
-            rows.append(attrs)
-    for r in rows:
-        for k in r:
-            all_attributes.add(k)
-
-    for r in rows:
-        for a in all_attributes:
-            if a not in r:
-                r[a] = None
-
-    return pl.DataFrame(rows)
 
 
 if __name__ == "__main__":

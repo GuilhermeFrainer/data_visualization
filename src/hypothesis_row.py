@@ -72,6 +72,28 @@ class HypothesisRow:
                 "count": c.count
             })
         return pl.DataFrame(out_list)
+    
+
+    @staticmethod
+    def hypothesis_rows_to_group_df(hs: list["HypothesisRow"]) -> pl.DataFrame:
+        rows: list[dict] = []
+        all_attributes = set()
+
+        for h in hs:
+            for c in h.children:
+                attrs = {}
+                for k, v in c.attributes.items():
+                    attrs[k] = v
+                rows.append(attrs)
+        for r in rows:
+            for k in r:
+                all_attributes.add(k)
+
+        for r in rows:
+            for a in all_attributes:
+                if a not in r:
+                    r[a] = None
+        return pl.DataFrame(rows)
 
 
     # ---------------- #
