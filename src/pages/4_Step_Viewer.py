@@ -66,7 +66,8 @@ def main():
             selection = st.dataframe(
                 sorted_df.style.map(lambda val: style_nominal_values(color_map, val)),
                 on_select="rerun",
-                selection_mode="single-row")
+                selection_mode="single-row",
+                use_container_width=True)
 
         if selection["selection"]["rows"]:
             selected_row = selection["selection"]["rows"][0]
@@ -81,10 +82,11 @@ def main():
             filtered_df = filtered_df.unique(ID_COL[dataset]).select(COLUMS_OF_INTEREST[dataset])
             
             with col2:
-                filtered_df
+                st.dataframe(filtered_df, use_container_width=True)
     else:
         st.dataframe(
-            sorted_df.style.map(lambda val: style_nominal_values(color_map, val)))
+            sorted_df.style.map(lambda val: style_nominal_values(color_map, val)),
+            use_container_width=True)
 
 
 def get_color_map_for_dataframe(df: pd.DataFrame) -> dict:

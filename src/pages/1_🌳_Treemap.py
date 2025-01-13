@@ -28,7 +28,7 @@ def main():
     dataset = st.sidebar.selectbox("Dataset", dataset_options)
     algorithm = ALGORITHMS[st.sidebar.selectbox("Algorithm", algo_options)]
     depth = st.sidebar.selectbox(
-        "Depth", ["All", 2, 3], index=2
+        "Depth", ["All", 2, 3, 4, 5], index=2
     )
     if depth == "All":
         depth = -1
