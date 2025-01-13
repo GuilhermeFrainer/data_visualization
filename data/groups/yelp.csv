@@ -1,0 +1,192 @@
+fans,hypothesis,algorithm,gender,city,category
+semipopular,Mean is greater than 3.5,Greedy-HEP,,,
+popular,Mean is greater than 3.5,Greedy-HEP,,,
+unpopular,Mean is greater than 3.5,Greedy-HEP,,,
+popular,Mean is greater than 3.5,Greedy-HEP,,,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,,,Mass Media
+popular,Mean is greater than 3.5,Greedy-HEP,,Calgary,
+semipopular,Mean is greater than 3.5,Greedy-HEP,,,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,,,Religious Organizations
+semipopular,Mean is greater than 3.5,Greedy-HEP,,Calgary,
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,,Calgary,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,,Religious Organizations
+semipopular,Mean is greater than 3.5,Greedy-HEP,,Mesa,Religious Organizations
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,,Religious Organizations
+popular,Mean is greater than 3.5,Greedy-HEP,,Mississauga,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,,Peoria,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,,Las Vegas,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,Toronto,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,Phoenix,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,Las Vegas,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,,Madison,
+unpopular,Mean is greater than 3.5,Greedy-HEP,,,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,,,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,,Calgary,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,,Montréal,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,,Madison,Pets
+unpopular,Mean is greater than 3.5,Greedy-HEP,,Madison,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,,Madison,Education
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,Phoenix,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,Las Vegas,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,Toronto,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Toronto,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Phoenix,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Las Vegas,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,,Calgary,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,,Calgary,Education
+semipopular,Mean is greater than 3.5,Greedy-HEP,,Calgary,Health & Medical
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Las Vegas,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Toronto,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Phoenix,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,Las Vegas,Religious Organizations
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,Phoenix,Religious Organizations
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,Pittsburgh,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Pittsburgh,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Las Vegas,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Phoenix,Religious Organizations
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,Pittsburgh,Religious Organizations
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,Las Vegas,Religious Organizations
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,Phoenix,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Phoenix,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Las Vegas,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Pittsburgh,Religious Organizations
+popular,Mean is greater than 3.5,Greedy-HEP,,Calgary,Restaurants
+popular,Mean is greater than 3.5,Greedy-HEP,,Calgary,Pets
+popular,Mean is greater than 3.5,Greedy-HEP,,Calgary,Public Services & Government
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Montréal,Religious Organizations
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Montréal,Religious Organizations
+popular,Mean is greater than 3.5,Greedy-HEP,F,Calgary,Public Services & Government
+popular,Mean is greater than 3.5,Greedy-HEP,M,Calgary,Public Services & Government
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Madison,Education
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Madison,Education
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,Calgary,Health & Medical
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,Calgary,Health & Medical
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Madison,Pets
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Madison,Pets
+popular,Mean is greater than 3.5,Greedy-HEP,F,Peoria,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,M,Peoria,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,F,Mississauga,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,M,Mississauga,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,F,Calgary,Restaurants
+popular,Mean is greater than 3.5,Greedy-HEP,M,Calgary,Restaurants
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,Calgary,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,Calgary,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,M,Calgary,Restaurant
+semipopular,Mean is greater than 3.5,Greedy-HEP,F,Calgary,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Calgary,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Calgary,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,F,Madison,Restaurant
+unpopular,Mean is greater than 3.5,Greedy-HEP,M,Madison,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,F,Las Vegas,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,M,Las Vegas,Restaurant
+popular,Mean is greater than 3.5,Greedy-HEP,,Las Vegas,Mass Media
+popular,Mean is greater than 3.5,Greedy-HEP,F,,Mass Media
+popular,Mean is greater than 3.5,Greedy-HEP,M,Las Vegas,Mass Media
+popular,Mean is greater than 3.5,Greedy-HEP,F,Las Vegas,Mass Media
+popular,Mean is greater than 3.5,RL-HEP,M,,
+semipopular,Mean is greater than 3.5,RL-HEP,M,,
+unpopular,Mean is greater than 3.5,RL-HEP,M,,
+semipopular,Mean is greater than 3.5,RL-HEP,M,,Restaurant
+semipopular,Mean is greater than 3.5,RL-HEP,M,,Religious Organizations
+semipopular,Mean is greater than 3.5,RL-HEP,M,Calgary,
+semipopular,Mean is greater than 3.5,RL-HEP,M,Phoenix,Religious Organizations
+semipopular,Mean is greater than 3.5,RL-HEP,M,Las Vegas,Religious Organizations
+semipopular,Mean is greater than 3.5,RL-HEP,M,Pittsburgh,Religious Organizations
+unpopular,Mean is greater than 3.5,RL-HEP,F,,
+popular,Mean is greater than 3.5,RL-HEP,F,,
+semipopular,Mean is greater than 3.5,RL-HEP,F,,
+popular,Mean is greater than 3.5,RL-HEP,,Calgary,
+popular,Mean is greater than 3.5,RL-HEP,,,Mass Media
+popular,Mean is greater than 3.5,RL-HEP,,,Restaurant
+semipopular,Mean is greater than 3.5,RL-HEP,,,Home Services
+popular,Mean is greater than 3.5,RL-HEP,,,Home Services
+unpopular,Mean is greater than 3.5,RL-HEP,,,Home Services
+unpopular,Mean is greater than 3.5,RL-HEP,,Madison,
+unpopular,Mean is greater than 3.5,RL-HEP,,,Religious Organizations
+unpopular,Mean is greater than 3.5,RL-HEP,,,Restaurant
+semipopular,Mean is greater than 3.5,RL-HEP,,,Restaurant
+semipopular,Mean is greater than 3.5,RL-HEP,,,Religious Organizations
+semipopular,Mean is greater than 3.5,RL-HEP,,Calgary,
+semipopular,Mean is greater than 3.5,RL-HEP,,Calgary,Restaurant
+semipopular,Mean is greater than 3.5,RL-HEP,,Calgary,Education
+semipopular,Mean is greater than 3.5,RL-HEP,,Calgary,Health & Medical
+semipopular,Mean is greater than 3.5,RL-HEP,F,Calgary,Health & Medical
+semipopular,Mean is greater than 3.5,RL-HEP,M,Calgary,Health & Medical
+popular,Mean is greater than 3.5,RL-HEP,,Mesa,
+unpopular,Mean is greater than 3.5,RL-HEP,,Mesa,
+semipopular,Mean is greater than 3.5,RL-HEP,,Mesa,
+semipopular,Mean is greater than 3.5,RL-HEP,,Mesa,Professional Services
+semipopular,Mean is greater than 3.5,RL-HEP,,Mesa,Restaurant
+semipopular,Mean is greater than 3.5,RL-HEP,,Mesa,Religious Organizations
+semipopular,Mean is greater than 3.5,RL-HEP,M,Mesa,Restaurant
+semipopular,Mean is greater than 3.5,RL-HEP,F,Mesa,Restaurant
+popular,Mean is greater than 3.5,RL-HEP,,,Food
+unpopular,Mean is greater than 3.5,RL-HEP,,,Food
+semipopular,Mean is greater than 3.5,RL-HEP,,,Food
+unpopular,Mean is greater than 3.5,RL-HEP,,Calgary,Food
+unpopular,Mean is greater than 3.5,RL-HEP,F,,Food
+unpopular,Mean is greater than 3.5,RL-HEP,M,,Food
+unpopular,Mean is greater than 3.5,RL-HEP,F,Las Vegas,Food
+unpopular,Mean is greater than 3.5,RL-HEP,F,Phoenix,Food
+unpopular,Mean is greater than 3.5,RL-HEP,F,Toronto,Food
+popular,Mean is greater than 3.5,RL-HEP,,,Event Planning & Services
+unpopular,Mean is greater than 3.5,RL-HEP,,,Event Planning & Services
+semipopular,Mean is greater than 3.5,RL-HEP,,,Event Planning & Services
+unpopular,Mean is greater than 3.5,RL-HEP,F,,Event Planning & Services
+unpopular,Mean is greater than 3.5,RL-HEP,,Glendale,Event Planning & Services
+unpopular,Mean is greater than 3.5,RL-HEP,,Montréal,Event Planning & Services
+unpopular,Mean is greater than 3.5,RL-HEP,F,Phoenix,Event Planning & Services
+unpopular,Mean is greater than 3.5,RL-HEP,F,Toronto,Event Planning & Services
+unpopular,Mean is greater than 3.5,RL-HEP,F,Charlotte,Event Planning & Services
+,Mean is greater than 3.5,RL-HEP,,Toronto,Pets
+,Mean is greater than 3.5,RL-HEP,,Toronto,Restaurant
+popular,Mean is greater than 3.5,RL-HEP,,Toronto,
+popular,Mean is greater than 3.5,RL-HEP,,,Shopping
+unpopular,Mean is greater than 3.5,RL-HEP,,,Shopping
+semipopular,Mean is greater than 3.5,RL-HEP,,,Shopping
+popular,Mean is greater than 3.5,RL-HEP,,Peoria,Shopping
+popular,Mean is greater than 3.5,RL-HEP,M,,Shopping
+popular,Mean is greater than 3.5,RL-HEP,F,,Shopping
+popular,Mean is greater than 3.5,RL-HEP,,,Restaurant
+unpopular,Mean is greater than 3.5,RL-HEP,,,Restaurant
+semipopular,Mean is greater than 3.5,RL-HEP,,,Restaurant
+popular,Mean is greater than 3.5,RL-HEP,,,Nightlife
+unpopular,Mean is greater than 3.5,RL-HEP,,,Nightlife
+semipopular,Mean is greater than 3.5,RL-HEP,,,Nightlife
+popular,Mean is greater than 3.5,RL-HEP,,Chandler,
+semipopular,Mean is greater than 3.5,RL-HEP,,Chandler,
+unpopular,Mean is greater than 3.5,RL-HEP,,Chandler,
+semipopular,Mean is greater than 3.5,RL-HEP,,Chandler,Mass Media
+semipopular,Mean is greater than 3.5,RL-HEP,,Chandler,Religious Organizations
+semipopular,Mean is greater than 3.5,RL-HEP,,Chandler,Restaurant
+popular,Mean is greater than 3.5,RL-HEP,,,Hotels & Travel
+,Mean is greater than 3.5,RL-HEP,,Montréal,Hotels & Travel
+,Mean is greater than 3.5,RL-HEP,,Scottsdale,Hotels & Travel
+,Mean is greater than 3.5,RL-HEP,F,,Arts & Entertainment
+,Mean is greater than 3.5,RL-HEP,,Mississauga,Arts & Entertainment
+,Mean is greater than 3.5,RL-HEP,M,,Arts & Entertainment
+semipopular,Mean is greater than 3.5,RL-HEP,M,,Arts & Entertainment
+,Mean is greater than 3.5,RL-HEP,M,Peoria,Arts & Entertainment
+popular,Mean is greater than 3.5,RL-HEP,M,,Arts & Entertainment
+,Mean is greater than 3.5,RL-HEP,,Pittsburgh,Restaurant
+,Mean is greater than 3.5,RL-HEP,,Pittsburgh,Religious Organizations
+,Mean is greater than 3.5,RL-HEP,,Pittsburgh,Pets
+semipopular,Mean is greater than 3.5,RL-HEP,,Tempe,
+unpopular,Mean is greater than 3.5,RL-HEP,,Tempe,
+popular,Mean is greater than 3.5,RL-HEP,,Tempe,
+unpopular,Mean is greater than 3.5,RL-HEP,,Tempe,Restaurant
+unpopular,Mean is greater than 3.5,RL-HEP,,Tempe,Religious Organizations
+unpopular,Mean is greater than 3.5,RL-HEP,,Tempe,Local Services
+unpopular,Mean is greater than 3.5,RL-HEP,F,Tempe,Religious Organizations
+popular,Mean is greater than 3.5,RL-HEP,,Henderson,
+semipopular,Mean is greater than 3.5,RL-HEP,,Henderson,
+unpopular,Mean is greater than 3.5,RL-HEP,,Henderson,
+semipopular,Mean is greater than 3.5,RL-HEP,,Henderson,Restaurants
+semipopular,Mean is greater than 3.5,RL-HEP,,Henderson,Religious Organizations
+semipopular,Mean is greater than 3.5,RL-HEP,,Henderson,Professional Services

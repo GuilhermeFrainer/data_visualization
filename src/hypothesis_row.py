@@ -75,7 +75,11 @@ class HypothesisRow:
     
 
     @staticmethod
-    def hypothesis_rows_to_group_df(hs: list["HypothesisRow"], include_hipothesis=False) -> pl.DataFrame:
+    def hypothesis_rows_to_group_df(
+        hs: list["HypothesisRow"],
+        include_hipothesis=False,
+        include_algorithm=False
+        ) -> pl.DataFrame:
         rows: list[dict] = []
         all_attributes = set()
 
@@ -86,6 +90,8 @@ class HypothesisRow:
                     attrs[k] = v
                 if include_hipothesis:
                     attrs["hypothesis"] = h.hypothesis
+                if include_algorithm:
+                    attrs["algorithm"] = h.algorithm
                 rows.append(attrs)
         for r in rows:
             for k in r:

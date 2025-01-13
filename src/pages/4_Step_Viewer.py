@@ -5,11 +5,11 @@ import pandas as pd
 import seaborn as sns
 from matplotlib.colors import to_hex
 
-from hypothesis_row import HypothesisRow
 from sorter import Sorter
 
 
 DATA_DIR = pathlib.Path("data")
+GROUPS_DIR = DATA_DIR / "groups"
 DATA_FILES = {
     "BookCrossing": "book_crossing.csv",
     "Yelp": "yelp.csv",
@@ -34,18 +34,16 @@ def main():
         Here you'll be able to get a better intuition of how groups are selected by the algorithm.
     """)
     
-    
     dataset = st.sidebar.selectbox("Dataset", [k for k in DATA_FILES])
     file = DATA_FILES[dataset]
-    original_df = pl.read_csv(DATA_DIR / file)
-    user_count_df = pl.read_csv(USER_COUNT_DIR / file)
+    df = pl.read_csv(GROUPS_DIR / file)
 
     algorithm = st.sidebar.selectbox("Algorithm", [k for k in ALGORITHMS])
     algorithm_name = ALGORITHMS[algorithm]
-    original_df = original_df.filter(pl.col("algorithm") == algorithm_name)
+    df = df.filter(pl.col("algorithm") == algorithm_name)
+    df = df.drop(["algorithm"])
 
-    hs = HypothesisRow.df_to_list(original_df, user_count_df)
-    df = HypothesisRow.hypothesis_rows_to_group_df(hs, include_hipothesis=True).to_pandas()
+    df = df.to_pandas() # Needed for coloring
 
     sorting_opts = st.multiselect("Sort by", [c for c in df.columns])
     sorted_df = df.sort_values(by=sorting_opts, key=Sorter.super_sort, na_position="first")

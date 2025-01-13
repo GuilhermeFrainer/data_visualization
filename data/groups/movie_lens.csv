@@ -1,0 +1,164 @@
+runtime_minutes,hypothesis,algorithm,genre,gender,age,location,occupation,year
+Long,Mean is greater than 3.5,Greedy-HEP,,,,,,
+,Mean is greater than 3.5,Greedy-HEP,,,,AL,,
+,Mean is greater than 3.5,Greedy-HEP,,,,RI,,
+Long,Mean is greater than 3.5,Greedy-HEP,,,,HI,,
+Long,Mean is greater than 3.5,Greedy-HEP,,,,RI,,
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,,,
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,NE,,
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,AL,,
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,,,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,,,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,AL,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,25-34,,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,35-44,,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,18-24,,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,18-24,,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,35-44,,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,25-34,,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,18-24,,other,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,18-24,,programmer,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,18-24,,college-grad student,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,18-24,NY,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,18-24,,other,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,18-24,,college-grad student,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,35-44,,executive-managerial,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,35-44,,technician-engineer,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,35-44,,other,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,25-34,NY,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,25-34,CA,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,25-34,MN,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,25-34,CA,technician-engineer,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,25-34,CA,programmer,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,25-34,CA,executive-managerial,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,35-44,MN,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,35-44,CA,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,35-44,NY,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,25-34,CA,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,25-34,IL,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,F,25-34,MN,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,18-24,OH,college-grad student,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,18-24,NY,college-grad student,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,M,18-24,CA,college-grad student,90s
+,Mean is greater than 3.5,Greedy-HEP,,,,AL,,70s
+,Mean is greater than 3.5,Greedy-HEP,Crime,,,AL,,
+,Mean is greater than 3.5,Greedy-HEP,Action,,,AL,,
+Long,Mean is greater than 3.5,Greedy-HEP,Romance,,,HI,,
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,HI,,
+Long,Mean is greater than 3.5,Greedy-HEP,,,,HI,,70s
+Long,Mean is greater than 3.5,Greedy-HEP,Crime,,,RI,,
+Long,Mean is greater than 3.5,Greedy-HEP,Thriller,,,RI,,
+Long,Mean is greater than 3.5,Greedy-HEP,Comedy,,,RI,,
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,HI,,80s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,HI,,90s
+,Mean is greater than 3.5,Greedy-HEP,Crime,,,RI,,
+,Mean is greater than 3.5,Greedy-HEP,Comedy,,,RI,,
+,Mean is greater than 3.5,Greedy-HEP,Drama,,,RI,,
+,Mean is greater than 3.5,Greedy-HEP,Drama,,,RI,,80s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,RI,,
+,Mean is greater than 3.5,Greedy-HEP,Drama,,,RI,,90s
+,Mean is greater than 3.5,Greedy-HEP,Comedy,,,RI,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Comedy,,,RI,,
+,Mean is greater than 3.5,Greedy-HEP,Comedy,,,RI,,80s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,RI,,80s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,RI,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,RI,,80s
+Long,Mean is greater than 3.5,Greedy-HEP,Crime,,,RI,,90s
+,Mean is greater than 3.5,Greedy-HEP,Crime,,,RI,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Crime,,,RI,,
+Long,Mean is greater than 3.5,Greedy-HEP,Crime,,,RI,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Crime,,,RI,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Crime,,,AL,,
+Long,Mean is greater than 3.5,Greedy-HEP,,,,AL,,70s
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,RI,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Comedy,,,RI,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Comedy,,,RI,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Comedy,,,RI,,90s
+Long,Mean is greater than 3.5,Greedy-HEP,Action,,,AL,,
+Long,Mean is greater than 3.5,Greedy-HEP,Drama,,,AL,,90s
+Long,Mean is greater than 3.5,RL-HEP,Thriller,,,,,
+,Mean is greater than 3.5,RL-HEP,Thriller,,,DC,,
+,Mean is greater than 3.5,RL-HEP,Thriller,,,AL,,
+Long,Mean is greater than 3.5,RL-HEP,Thriller,M,,,,
+Long,Mean is greater than 3.5,RL-HEP,Thriller,F,,,,
+Long,Mean is greater than 3.5,RL-HEP,Thriller,,,AL,,
+Long,Mean is greater than 3.5,RL-HEP,Thriller,M,,NV,,
+Long,Mean is greater than 3.5,RL-HEP,Thriller,M,,,,80s
+Long,Mean is greater than 3.5,RL-HEP,Thriller,M,,DC,,
+Long,Mean is greater than 3.5,RL-HEP,,,,RI,,
+Long,Mean is greater than 3.5,RL-HEP,Drama,,,,,
+Long,Mean is greater than 3.5,RL-HEP,,,,HI,,
+Long,Mean is greater than 3.5,RL-HEP,Crime,,,RI,,
+Long,Mean is greater than 3.5,RL-HEP,Comedy,,,RI,,
+Long,Mean is greater than 3.5,RL-HEP,Thriller,,,RI,,
+Long,Mean is greater than 3.5,RL-HEP,Crime,,,RI,,90s
+,Mean is greater than 3.5,RL-HEP,Drama,,,,,90s
+,Mean is greater than 3.5,RL-HEP,,,,AL,,90s
+,Mean is greater than 3.5,RL-HEP,,,,RI,,90s
+,Mean is greater than 3.5,RL-HEP,Drama,,,AL,,90s
+Long,Mean is greater than 3.5,RL-HEP,Drama,,,,,90s
+,Mean is greater than 3.5,RL-HEP,Drama,,,RI,,90s
+Long,Mean is greater than 3.5,RL-HEP,Drama,,,AL,,90s
+,Mean is greater than 3.5,RL-HEP,,F,,,lawyer,
+,Mean is greater than 3.5,RL-HEP,,F,,ME,,
+Long,Mean is greater than 3.5,RL-HEP,,F,,,,
+,Mean is greater than 3.5,RL-HEP,Comedy,F,,,lawyer,
+,Mean is greater than 3.5,RL-HEP,Crime,F,,,lawyer,
+,Mean is greater than 3.5,RL-HEP,War,F,,,lawyer,
+,Mean is greater than 3.5,RL-HEP,Comedy,F,,,lawyer,80s
+Long,Mean is greater than 3.5,RL-HEP,Comedy,F,,,lawyer,
+Long,Mean is greater than 3.5,RL-HEP,,M,,,,
+,Mean is greater than 3.5,RL-HEP,,M,,DC,,
+,Mean is greater than 3.5,RL-HEP,,M,,SC,,
+Long,Mean is greater than 3.5,RL-HEP,,M,,DC,,
+Long,Mean is greater than 3.5,RL-HEP,,M,,SC,,
+Long,Mean is greater than 3.5,RL-HEP,Drama,M,,,,
+Long,Mean is greater than 3.5,RL-HEP,Comedy,M,,DC,,
+Long,Mean is greater than 3.5,RL-HEP,,M,,DC,,60s
+Long,Mean is greater than 3.5,RL-HEP,Film-Noir,M,,DC,,
+,Mean is greater than 3.5,RL-HEP,Romance,,,HI,,
+Long,Mean is greater than 3.5,RL-HEP,Romance,,,,,
+,Mean is greater than 3.5,RL-HEP,Romance,,,RI,,
+Long,Mean is greater than 3.5,RL-HEP,Romance,,,HI,,
+,Mean is greater than 3.5,RL-HEP,,,45-49,MI,,
+,Mean is greater than 3.5,RL-HEP,Drama,,45-49,,,
+,Mean is greater than 3.5,RL-HEP,,,45-49,IL,,
+,Mean is greater than 3.5,RL-HEP,Thriller,,45-49,MI,,
+,Mean is greater than 3.5,RL-HEP,,,45-49,MI,,60s
+,Mean is greater than 3.5,RL-HEP,Action,,45-49,MI,,
+,Mean is greater than 3.5,RL-HEP,Thriller,,45-49,MI,,90s
+Long,Mean is greater than 3.5,RL-HEP,Thriller,,45-49,MI,,
+Long,Mean is greater than 3.5,RL-HEP,,,,,other,
+,Mean is greater than 3.5,RL-HEP,,,,MI,other,
+,Mean is greater than 3.5,RL-HEP,,,,PA,other,
+Long,Mean is greater than 3.5,RL-HEP,,,,PA,other,
+Long,Mean is greater than 3.5,RL-HEP,Drama,,,,other,
+Long,Mean is greater than 3.5,RL-HEP,,,,MI,other,
+Long,Mean is greater than 3.5,RL-HEP,Crime,,,PA,other,
+Long,Mean is greater than 3.5,RL-HEP,War,,,PA,other,
+Long,Mean is greater than 3.5,RL-HEP,Action,,,PA,other,
+,Mean is greater than 3.5,RL-HEP,,,,IL,college-grad student,
+,Mean is greater than 3.5,RL-HEP,,,,PA,college-grad student,
+,Mean is greater than 3.5,RL-HEP,Drama,,,,college-grad student,
+,Mean is greater than 3.5,RL-HEP,Action,,,IL,college-grad student,
+,Mean is greater than 3.5,RL-HEP,,,,IL,college-grad student,50s
+,Mean is greater than 3.5,RL-HEP,,,,IL,college-grad student,60s
+,Mean is greater than 3.5,RL-HEP,Action,M,,IL,college-grad student,
+,Mean is greater than 3.5,RL-HEP,Action,,,IL,college-grad student,80s
+Long,Mean is greater than 3.5,RL-HEP,Action,,,IL,college-grad student,
+Short,Mean is greater than 3.5,RL-HEP,,,,,unemployed,
+Short,Mean is greater than 3.5,RL-HEP,,,,,homemaker,
+Short,Mean is greater than 3.5,RL-HEP,,,,,,90s
+,Mean is greater than 3.5,RL-HEP,,,50-55,MN,,
+,Mean is greater than 3.5,RL-HEP,,,>56,MN,,
+,Mean is greater than 3.5,RL-HEP,Comedy,,,MN,,
+,Mean is greater than 3.5,RL-HEP,Action,,50-55,MN,,
+,Mean is greater than 3.5,RL-HEP,,M,50-55,MN,,
+,Mean is greater than 3.5,RL-HEP,,,50-55,MN,,40s
+,Mean is greater than 3.5,RL-HEP,Action,M,50-55,MN,,
+Long,Mean is greater than 3.5,RL-HEP,Action,,50-55,MN,,
+,Mean is greater than 3.5,RL-HEP,Drama,,,NE,,
+Long,Mean is greater than 3.5,RL-HEP,Drama,,,,,
+,Mean is greater than 3.5,RL-HEP,Drama,,,HI,,
+Long,Mean is greater than 3.5,RL-HEP,Drama,,,NE,,

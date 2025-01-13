@@ -1,0 +1,175 @@
+language,hypothesis,algorithm,year_of_publication,age,country,category
+de,Mean is greater than 2,Greedy-HEP,,,,
+en,Mean is greater than 2,Greedy-HEP,,,,
+,Mean is greater than 2,Greedy-HEP,,,romania,
+de,Mean is greater than 2,Greedy-HEP,,<18,,
+de,Mean is greater than 2,Greedy-HEP,,,,other
+de,Mean is greater than 2,Greedy-HEP,,45-49,,
+de,Mean is greater than 2,Greedy-HEP,,,austria,other
+de,Mean is greater than 2,Greedy-HEP,,,germany,other
+de,Mean is greater than 2,Greedy-HEP,,,switzerland,other
+en,Mean is greater than 2,Greedy-HEP,,,romania,
+en,Mean is greater than 2,Greedy-HEP,,,norway,
+en,Mean is greater than 2,Greedy-HEP,,,,Fiction
+en,Mean is greater than 2,Greedy-HEP,,,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,,,united kingdom,Fiction
+en,Mean is greater than 2,Greedy-HEP,,,usa,Fiction
+en,Mean is greater than 2,Greedy-HEP,,<18,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,90s,,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,,50-55,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,90s,18-24,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,90s,35-44,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,90s,25-34,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,90s,,usa,Fiction
+en,Mean is greater than 2,Greedy-HEP,,<18,usa,Fiction
+en,Mean is greater than 2,Greedy-HEP,60s,,usa,Fiction
+en,Mean is greater than 2,Greedy-HEP,90s,25-34,usa,Fiction
+en,Mean is greater than 2,Greedy-HEP,90s,18-24,usa,Fiction
+en,Mean is greater than 2,Greedy-HEP,90s,35-44,usa,Fiction
+de,Mean is greater than 2,Greedy-HEP,2000s,,germany,other
+de,Mean is greater than 2,Greedy-HEP,,<18,germany,other
+de,Mean is greater than 2,Greedy-HEP,,50-55,germany,other
+de,Mean is greater than 2,Greedy-HEP,2000s,35-44,germany,other
+de,Mean is greater than 2,Greedy-HEP,2000s,25-34,germany,other
+de,Mean is greater than 2,Greedy-HEP,2000s,18-24,germany,other
+en,Mean is greater than 2,Greedy-HEP,2000s,,united kingdom,Fiction
+en,Mean is greater than 2,Greedy-HEP,70s,,united kingdom,Fiction
+en,Mean is greater than 2,Greedy-HEP,,>56,united kingdom,Fiction
+en,Mean is greater than 2,Greedy-HEP,2000s,35-44,united kingdom,Fiction
+en,Mean is greater than 2,Greedy-HEP,2000s,25-34,united kingdom,Fiction
+en,Mean is greater than 2,Greedy-HEP,2000s,18-24,united kingdom,Fiction
+de,Mean is greater than 2,Greedy-HEP,,35-44,switzerland,other
+de,Mean is greater than 2,Greedy-HEP,2000s,,switzerland,other
+de,Mean is greater than 2,Greedy-HEP,,18-24,switzerland,other
+en,Mean is greater than 2,Greedy-HEP,90s,<18,usa,Fiction
+en,Mean is greater than 2,Greedy-HEP,2000s,<18,usa,Fiction
+en,Mean is greater than 2,Greedy-HEP,80s,<18,usa,Fiction
+de,Mean is greater than 2,Greedy-HEP,90s,<18,,
+de,Mean is greater than 2,Greedy-HEP,,<18,,other
+de,Mean is greater than 2,Greedy-HEP,2000s,<18,,
+de,Mean is greater than 2,Greedy-HEP,90s,45-49,,
+de,Mean is greater than 2,Greedy-HEP,,45-49,,other
+de,Mean is greater than 2,Greedy-HEP,2000s,45-49,,
+de,Mean is greater than 2,Greedy-HEP,2000s,45-49,,other
+de,Mean is greater than 2,Greedy-HEP,,45-49,germany,other
+de,Mean is greater than 2,Greedy-HEP,90s,45-49,,other
+en,Mean is greater than 2,Greedy-HEP,,,romania,
+,Mean is greater than 2,Greedy-HEP,90s,,romania,
+,Mean is greater than 2,Greedy-HEP,2000s,,romania,
+en,Mean is greater than 2,Greedy-HEP,90s,>56,united kingdom,Fiction
+en,Mean is greater than 2,Greedy-HEP,2000s,>56,united kingdom,Fiction
+en,Mean is greater than 2,Greedy-HEP,90s,<18,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,2000s,<18,canada,Fiction
+de,Mean is greater than 2,Greedy-HEP,2000s,45-49,germany,other
+de,Mean is greater than 2,Greedy-HEP,90s,45-49,germany,other
+en,Mean is greater than 2,Greedy-HEP,90s,50-55,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,2000s,50-55,canada,Fiction
+en,Mean is greater than 2,Greedy-HEP,2000s,,romania,
+en,Mean is greater than 2,Greedy-HEP,90s,,romania,
+en,Mean is greater than 2,Greedy-HEP,2000s,,romania,
+en,Mean is greater than 2,Greedy-HEP,90s,,romania,
+de,Mean is greater than 2,Greedy-HEP,90s,45-49,germany,
+de,Mean is greater than 2,Greedy-HEP,90s,45-49,,other
+de,Mean is greater than 2,Greedy-HEP,,<18,germany,other
+de,Mean is greater than 2,Greedy-HEP,2000s,<18,,other
+de,Mean is greater than 2,Greedy-HEP,2000s,45-49,,other
+de,Mean is greater than 2,Greedy-HEP,2000s,45-49,germany,
+de,Mean is greater than 2,Greedy-HEP,2000s,<18,germany,
+de,Mean is greater than 2,Greedy-HEP,2000s,<18,,other
+en,Mean is greater than 2,Greedy-HEP,2000s,,romania,
+en,Mean is greater than 2,Greedy-HEP,90s,,romania,
+de,Mean is greater than 2,Greedy-HEP,2000s,45-49,germany,other
+de,Mean is greater than 2,Greedy-HEP,2000s,<18,germany,other
+de,Mean is greater than 2,Greedy-HEP,2000s,<18,germany,other
+de,Mean is greater than 2,Greedy-HEP,2000s,<18,germany,other
+fr,Mean is greater than 2,RL-HEP,,,canada,
+,Mean is greater than 2,RL-HEP,,,canada,Political Science
+en,Mean is greater than 2,RL-HEP,,,canada,
+fr,Mean is greater than 2,RL-HEP,,25-34,canada,
+fr,Mean is greater than 2,RL-HEP,2000s,,canada,
+fr,Mean is greater than 2,RL-HEP,,,canada,Fiction
+en,Mean is greater than 2,RL-HEP,,,usa,
+es,Mean is greater than 2,RL-HEP,,,usa,
+,Mean is greater than 2,RL-HEP,,<18,usa,
+en,Mean is greater than 2,RL-HEP,,,usa,Fiction
+en,Mean is greater than 2,RL-HEP,30s,,usa,
+en,Mean is greater than 2,RL-HEP,,<18,usa,
+en,Mean is greater than 2,RL-HEP,90s,,usa,Fiction
+en,Mean is greater than 2,RL-HEP,,<18,usa,Fiction
+en,Mean is greater than 2,RL-HEP,60s,,usa,Fiction
+en,Mean is greater than 2,RL-HEP,,18-24,,
+de,Mean is greater than 2,RL-HEP,,18-24,,
+it,Mean is greater than 2,RL-HEP,,18-24,,
+en,Mean is greater than 2,RL-HEP,,18-24,,Fiction
+en,Mean is greater than 2,RL-HEP,,18-24,netherlands,
+en,Mean is greater than 2,RL-HEP,,18-24,france,
+en,Mean is greater than 2,RL-HEP,,18-24,canada,Fiction
+en,Mean is greater than 2,RL-HEP,,18-24,usa,Fiction
+en,Mean is greater than 2,RL-HEP,,18-24,united kingdom,Fiction
+de,Mean is greater than 2,RL-HEP,90s,,,
+,Mean is greater than 2,RL-HEP,90s,,romania,
+en,Mean is greater than 2,RL-HEP,90s,,,
+de,Mean is greater than 2,RL-HEP,90s,,,other
+de,Mean is greater than 2,RL-HEP,90s,45-49,,
+de,Mean is greater than 2,RL-HEP,90s,,,Juvenile Fiction
+de,Mean is greater than 2,RL-HEP,90s,,germany,other
+de,Mean is greater than 2,RL-HEP,90s,45-49,,other
+de,Mean is greater than 2,RL-HEP,90s,,switzerland,other
+,Mean is greater than 2,RL-HEP,,50-55,france,
+en,Mean is greater than 2,RL-HEP,,50-55,,
+de,Mean is greater than 2,RL-HEP,,50-55,,
+en,Mean is greater than 2,RL-HEP,,>56,,
+,Mean is greater than 2,RL-HEP,,>56,switzerland,
+,Mean is greater than 2,RL-HEP,,>56,germany,
+en,Mean is greater than 2,RL-HEP,,>56,usa,
+en,Mean is greater than 2,RL-HEP,,>56,australia,
+en,Mean is greater than 2,RL-HEP,,>56,united kingdom,
+en,Mean is greater than 2,RL-HEP,,>56,usa,Fiction
+en,Mean is greater than 2,RL-HEP,,>56,usa,Travel
+en,Mean is greater than 2,RL-HEP,,>56,usa,body-mind-and-spirit
+,Mean is greater than 2,RL-HEP,60s,<18,,
+en,Mean is greater than 2,RL-HEP,60s,,,
+,Mean is greater than 2,RL-HEP,60s,50-55,,
+,Mean is greater than 2,RL-HEP,60s,<18,usa,
+en,Mean is greater than 2,RL-HEP,60s,<18,,
+en,Mean is greater than 2,RL-HEP,60s,<18,usa,
+it,Mean is greater than 2,RL-HEP,,18-24,,
+it,Mean is greater than 2,RL-HEP,,,,Fiction
+it,Mean is greater than 2,RL-HEP,,,,Juvenile Fiction
+it,Mean is greater than 2,RL-HEP,90s,18-24,,
+it,Mean is greater than 2,RL-HEP,,18-24,,Fiction
+it,Mean is greater than 2,RL-HEP,,18-24,italy,
+it,Mean is greater than 2,RL-HEP,90s,18-24,,Fiction
+it,Mean is greater than 2,RL-HEP,90s,18-24,italy,
+en,Mean is greater than 2,RL-HEP,,,australia,
+,Mean is greater than 2,RL-HEP,,,australia,Psychology
+,Mean is greater than 2,RL-HEP,,,australia,Political Science
+en,Mean is greater than 2,RL-HEP,90s,,australia,
+en,Mean is greater than 2,RL-HEP,,,australia,Psychology
+en,Mean is greater than 2,RL-HEP,,<18,australia,
+en,Mean is greater than 2,RL-HEP,90s,,australia,other
+en,Mean is greater than 2,RL-HEP,90s,,australia,Literary Criticism
+en,Mean is greater than 2,RL-HEP,90s,<18,australia,
+de,Mean is greater than 2,RL-HEP,,25-34,,
+en,Mean is greater than 2,RL-HEP,,25-34,,
+,Mean is greater than 2,RL-HEP,,25-34,philippines,
+de,Mean is greater than 2,RL-HEP,,25-34,austria,
+de,Mean is greater than 2,RL-HEP,,25-34,,other
+de,Mean is greater than 2,RL-HEP,,25-34,switzerland,
+de,Mean is greater than 2,RL-HEP,2000s,25-34,austria,
+de,Mean is greater than 2,RL-HEP,,25-34,austria,other
+es,Mean is greater than 2,RL-HEP,70s,,,
+de,Mean is greater than 2,RL-HEP,70s,,,
+en,Mean is greater than 2,RL-HEP,70s,,,
+es,Mean is greater than 2,RL-HEP,70s,,spain,
+es,Mean is greater than 2,RL-HEP,70s,,,Fiction
+es,Mean is greater than 2,RL-HEP,70s,,spain,Fiction
+en,Mean is greater than 2,RL-HEP,,35-44,,
+,Mean is greater than 2,RL-HEP,,35-44,italy,
+de,Mean is greater than 2,RL-HEP,,35-44,,
+en,Mean is greater than 2,RL-HEP,,35-44,,Fiction
+en,Mean is greater than 2,RL-HEP,,35-44,portugal,
+en,Mean is greater than 2,RL-HEP,,35-44,switzerland,
+en,Mean is greater than 2,RL-HEP,,35-44,united kingdom,Fiction
+en,Mean is greater than 2,RL-HEP,,35-44,usa,Fiction
+en,Mean is greater than 2,RL-HEP,,35-44,canada,Fiction
