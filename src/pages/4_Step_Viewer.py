@@ -41,7 +41,7 @@ def main():
     algorithm = st.sidebar.selectbox("Algorithm", [k for k in ALGORITHMS])
     algorithm_name = ALGORITHMS[algorithm]
     df = df.filter(pl.col("algorithm") == algorithm_name)
-    df = df.drop(["algorithm"])
+    df = df.drop("algorithm")
 
     df = df.to_pandas() # Needed for coloring
 
