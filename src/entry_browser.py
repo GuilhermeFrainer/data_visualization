@@ -3,9 +3,9 @@ import polars as pl
 
 
 class EntryBrowser:
-    __DATA_PATH = pathlib.Path("data/original_datasets/")
-    __MOVIE_DATA = __DATA_PATH / "MovieLens.csv"
-    __BOOK_DATA = __DATA_PATH / "BookCrossing.csv"
+    __DATA_PATH = pathlib.Path("data/entries/")
+    __MOVIE_DATA = __DATA_PATH / "movies.csv"
+    __BOOK_DATA = __DATA_PATH / "books.csv"
 
 
     movie_df: pl.DataFrame
@@ -44,7 +44,6 @@ class EntryBrowser:
             for g in genre_iterator:
                 genres.add(g)
         attributes["genre"] = genres
-        
         return attributes
     
 
