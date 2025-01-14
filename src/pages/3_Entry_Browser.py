@@ -22,7 +22,7 @@ def main():
             selection[k] = st.selectbox(k, sorted(v), index=None)
 
         df = entry_browser.filter_books(selection)
-        df
+        st.dataframe(df, use_container_width=True)
 
     elif dataset == "Movies":
         selection = {}
@@ -30,7 +30,7 @@ def main():
             selection[k] = st.selectbox(k, sorted(v), index=None)
 
         df = entry_browser.filter_movies(selection)
-        df
+        st.dataframe(df, use_container_width=True)
 
 
 if __name__ == "__main__":
