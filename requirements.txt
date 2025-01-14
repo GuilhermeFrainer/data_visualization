@@ -1,2 +1,4 @@
 polars
 plotly
+seaborn
+pandas
